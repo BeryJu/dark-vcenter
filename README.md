@@ -5,7 +5,7 @@ Dark CSS Theme for vCenter's HTML5 Client
 
 ## Chrome Webstore
 
-https://chrome.google.com/webstore/detail/mapceffgjbalghklnkfglibpngbcpfom/publish-delayed?hl=en-US
+https://chrome.google.com/webstore/detail/dark-vcenter/mapceffgjbalghklnkfglibpngbcpfom
 
 ## Developer
 
