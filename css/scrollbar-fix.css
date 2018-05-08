@@ -1,0 +1,41 @@
+/*
+
+scrollbar
+
+*/
+
+html {
+    scrollbar-face-color: #324f61;
+    scrollbar-base-color: #324f61;
+    scrollbar-3dlight-color: #324f61;
+    scrollbar-highlight-color: #324f61;
+    scrollbar-track-color: #1b2a32;
+    scrollbar-arrow-color: #1b2a32;
+    scrollbar-shadow-color: #324f61;
+    scrollbar-dark-shadow-color: #324f61;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 3px;
+}
+::-webkit-scrollbar-button {
+     background-color: #324f61;
+}
+::-webkit-scrollbar-track {
+     background-color: #324f61;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: #1b2a32;
+}
+::-webkit-scrollbar-thumb {
+    height: 50px;
+    background-color: #324f61;
+    border-radius: 3px;
+}
+::-webkit-scrollbar-corner {
+    background-color: #324f61;
+}
+::-webkit-resizer {
+    background-color: #324f61;
+}

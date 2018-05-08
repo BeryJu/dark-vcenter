@@ -1,0 +1,30 @@
+/*
+
+treeview
+
+*/
+
+div[vui-tree-view] .k-state-selected {
+    background-color: #324f61;
+}
+
+left-panel object-navigator .object-navigator-list li a.object .object-navigator-label {
+    color: #adbbc4;
+}
+
+[role=categoryNodeObjectNavigator] [role=container] [role=group] [role=item]>.object.selected {
+    background-color: #22343c;
+}
+
+[role=categoryNodeObjectNavigator] [role=container] [role=group] [role=item]>.object:hover {
+    background-color: #22343c;
+}
+
+.objNavSeparator {
+    border-top: 1px solid #485764;
+}
+
+div[vui-tree-view] .k-in.k-state-hover {
+    background-color: #324f61;
+    color: #fff;
+}

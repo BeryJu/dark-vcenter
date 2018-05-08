@@ -1,0 +1,12 @@
+.vm-ui-icon-guestOsLinux, .vm-ui-icon-guestOsWindows {
+    background-position: center;
+    background-size: contain;
+}
+
+.vm-ui-icon-guestOsLinux {
+    background-image: url('../images/tux.png');
+}
+
+.vm-ui-icon-guestOsWindows {
+    background-image: url('../images/windows.png');
+}

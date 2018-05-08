@@ -14,7 +14,7 @@
         }
     ],
     "web_accessible_resources": [
-        "css/clr-ui-dark.css",
-        "css/fixes.css"
+        "css/*.css",
+        "images/*.png"
     ]
 }

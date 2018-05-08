@@ -1,0 +1,67 @@
+/*
+
+datagrid
+
+*/
+
+
+.vui-datagrid.k-grid.k-widget .k-grid-header th.k-header, div[vui-datagrid] .k-grid.k-widget .k-grid-header th.k-header {
+    background-color: #1b2a32;
+    color: #adbbc4;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-header th:not(:last-child), div[vui-datagrid] .k-grid.k-widget .k-grid-header th:not(:last-child) {
+    border-right: #485764 solid 1px;
+}
+
+.k-virtual-scrollable-wrap {
+    background-color: #1b2a32;
+}
+
+.k-grid .k-scrollbar {
+    background-color: #1b2a32;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-header, div[vui-datagrid] .k-grid.k-widget .k-grid-header {
+    border: 1px solid #485764;
+    background-color: #1b2a32;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-content, .vui-datagrid.k-grid.k-widget .k-grid-content-locked, div[vui-datagrid] .k-grid.k-widget .k-grid-content, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked {
+    border-left: 1px solid #485764;
+    border-right: 1px solid #485764;
+}
+
+.vui-datagrid.k-grid.k-widget .k-pager-wrap.k-grid-pager, div[vui-datagrid] .k-grid.k-widget .k-pager-wrap.k-grid-pager {
+    border: 1px solid #485764;
+    border-top: 2px solid #485764;
+}
+
+.vui-datagrid.k-grid.k-widget .k-pager-wrap.k-grid-pager .k-pager-info, div[vui-datagrid] .k-grid.k-widget .k-pager-wrap.k-grid-pager .k-pager-info {
+    color: #adbbc4;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-header, div[vui-datagrid] .k-grid.k-widget .k-grid-header {
+    border-color: #485764;
+}
+
+.k-grid .k-grid-header:after, .k-grid .k-grid-header:before {
+    background-color: #485764;
+}
+
+.k-grid .k-grid-header:after, .k-grid .k-grid-header:before {
+    background-color: #485764;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-content tbody tr, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr {
+    background-color: #22343c;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-content tbody tr td, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr td, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr td, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr td {
+    border-color: #485764;
+    color: #e9ecef;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-content tbody tr:hover, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr:hover, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr:hover, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr:hover {
+    background-color: #29414e;
+}
