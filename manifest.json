@@ -1,6 +1,6 @@
 {
     "name": "Dark vCenter",
-    "version": "0.1",
+    "version": "0.2.2",
     "description": "Apply Dark Clarity Theme to vCenter!",
     "manifest_version": 2,
     "content_scripts": [
@@ -16,5 +16,9 @@
     "web_accessible_resources": [
         "css/*.css",
         "images/*.png"
-    ]
+    ],
+    "icons": {
+        "128": "icon128.png",
+        "512": "icon512.png"
+    }
 }

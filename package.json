@@ -1,0 +1,36 @@
+{
+  "name": "dark-vcenter",
+  "version": "0.2.0",
+  "description": "Apply Dark Clarity Theme to vCenter!",
+  "main": "inject.js",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "npm": "^6.0.0"
+  },
+  "devDependencies": {
+    "grunt-crx": "^1.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeryJu/dark-vcenter.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "vcenter",
+    "vsphere",
+    "esxi",
+    "vmware",
+    "html5",
+    "h5"
+  ],
+  "author": "Jens Langhammer (jens.langhammer@beryju.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeryJu/dark-vcenter/issues"
+  },
+  "homepage": "https://github.com/BeryJu/dark-vcenter#readme"
+}
