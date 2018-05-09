@@ -1,0 +1,1895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308" height="287" viewBox="0 0 308 287">
+  <svg id="Add_Host" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="54">
+    <style>.aast0{fill:#37708d}.aast1{fill:#fff}.aast2{fill:#799baf}.aast3{fill:#cbdae0}.aast4{fill:#214556}</style>
+    <title>Add Host</title>
+    <path class="aast0" d="M12 0H2v15h10V0z" />
+    <path class="aast1" d="M3 1h8v13H3z" />
+    <path class="aast2" d="M4 2h6v1H4z" />
+    <path class="aast3" d="M4 7h6v7H4z" />
+    <path class="aast1" d="M2 5v2h3V5h2V2H5V0H2v2H0v3z" />
+    <path class="aast1" d="M5 2V0H2v8h3V6h2V2z" />
+    <path class="aast4" d="M6 3H4V1H2v2H0v2h2v2h2V5h2z" />
+  </svg>
+  <svg id="Host_Connect" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="180" y="233">
+    <defs>
+      <style>.abcls-1,.abcls-2{fill:none}.abcls-1{clip-rule:evenodd}.abcls-3{fill:#37708d}.abcls-4{fill:#fff}.abcls-5{fill:#799baf}.abcls-6{fill:#cbdae0}.cls-7{clip-path:url(#abclip-path)}.cls-8{clip-path:url(#abclip-path-2)}.cls-9{clip-path:url(#abclip-path-3)}.abcls-10{fill:#1e4556;fill-rule:evenodd}</style>
+      <clipPath id="abclip-path">
+        <path class="abcls-1" d="M-122.19-80.22a5.49 5.49 0 0 0 2.33 4.5h6.33a5.52 5.52 0 0 0 1.33-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.49 5.51z" />
+      </clipPath>
+      <clipPath id="abclip-path-2">
+        <path class="abcls-2" d="M-37 128.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="abclip-path-3">
+        <path class="abcls-2" d="M-31 128.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>Host Connected</title>
+    <path class="abcls-3" d="M10 0H0v15h10V0z" />
+    <path class="abcls-4" d="M1 1h8v13H1z" />
+    <path class="abcls-5" d="M2 2h6v1H2z" />
+    <path class="abcls-6" d="M2 7h6v7H2z" />
+    <path class="abcls-10" d="M11 6V5h-1v7h1v-1h1a2 2 0 0 0 2-2h2V8h-2a2 2 0 0 0-2-2z" />
+  </svg>
+  <svg id="Host_Disconnect" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" y="215">
+    <defs>
+      <style>.accls-1,.accls-2{fill:none}.accls-1{clip-rule:evenodd}.accls-3{fill:#37708d}.accls-4{fill:#fff}.accls-5{fill:#799baf}.accls-6{fill:#cbdae0}.cls-7{clip-path:url(#acclip-path)}.cls-8{clip-path:url(#acclip-path-2)}.cls-9{clip-path:url(#acclip-path-3)}.accls-10{fill:#1e4556;fill-rule:evenodd}</style>
+      <clipPath id="acclip-path">
+        <path class="accls-1" d="M-102.19-80.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="acclip-path-2">
+        <path class="accls-2" d="M-17 128.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="acclip-path-3">
+        <path class="accls-2" d="M-11 128.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>Host Disconnected_1</title>
+    <path class="accls-3" d="M11 0H1v15h10V0z" />
+    <path class="accls-4" d="M2 1h8v13H2z" />
+    <path class="accls-5" d="M3 2h6v1H3z" />
+    <path class="accls-6" d="M3 7h6v7H3z" />
+    <path class="accls-4" d="M11 12.82V4h-1v3H8v3h1a3 3 0 0 0 2 2.82z" />
+    <path class="accls-10" d="M15 10V9h1V8h-2V5h-1v3h-1V5h-1v3H9v1h1v1a2 2 0 0 0 2 2v2a2 2 0 0 0 2 2h2v-1h-2a1 1 0 0 1-1-1v-2a2 2 0 0 0 2-2z" />
+  </svg>
+  <svg id="Host_Maintenance_Mode_Enter" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="18">
+    <defs>
+      <style>.adcls-1,.adcls-2{fill:none}.adcls-1{clip-rule:evenodd}.adcls-3{fill:#38718e}.adcls-4{fill:#fff}.adcls-5{fill:#7a9caf}.adcls-6{fill:#cbdae0}.adcls-7{fill:#010101}.adcls-8{fill:#ffd111}.cls-9{clip-path:url(#adclip-path)}.cls-10{clip-path:url(#adclip-path-2)}.cls-11{clip-path:url(#adclip-path-3)}.adcls-12{fill:#1e4557}</style>
+      <clipPath id="adclip-path">
+        <path class="adcls-1" d="M-102.19-60.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="adclip-path-2">
+        <path class="adcls-2" d="M-17 148.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="adclip-path-3">
+        <path class="adcls-2" d="M-11 148.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>Host Maintenance Mode Enter</title>
+    <path class="adcls-3" d="M12 0H2v15h10z" />
+    <path class="adcls-4" d="M3 1h8v13H3z" />
+    <path class="adcls-5" d="M4 2h6v1H4z" />
+    <path class="adcls-6" d="M4 7h6v7H4z" />
+    <path class="adcls-7" d="M2 5h10v5H2z" />
+    <path class="adcls-8" d="M3 6h8v3H3z" />
+    <path class="adcls-7" transform="rotate(-45 4.997 7.5)" d="M2.5 7h5v1h-5z" />
+    <path class="adcls-7" transform="rotate(-45 8.998 7.503)" d="M6.5 7h5v1h-5z" />
+    <path class="adcls-4" d="M9 15l-2.56-2.5L12 7v8z" />
+    <path class="adcls-12" d="M7.96 12.5L12 9v2h4v3h-4v2l-4.04-3.5z" />
+  </svg>
+  <svg id="Host_Maintenance_Mode_Exit" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="162">
+    <defs>
+      <style>.aecls-1,.aecls-2{fill:none}.aecls-1{clip-rule:evenodd}.cls-3{clip-path:url(#aeclip-path)}.cls-4{clip-path:url(#aeclip-path-2)}.cls-5{clip-path:url(#aeclip-path-3)}.aecls-6{fill:#38718e}.aecls-7{fill:#fff}.aecls-8{fill:#7a9caf}.aecls-9{fill:#cbdae0}.aecls-10{fill:#010101}.aecls-11{fill:#ffd111}.aecls-12{fill:#1f4657}</style>
+      <clipPath id="aeclip-path">
+        <path class="aecls-1" d="M-82.19-60.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="aeclip-path-2">
+        <path class="aecls-2" d="M3 148.89h2v2H3z" />
+      </clipPath>
+      <clipPath id="aeclip-path-3">
+        <path class="aecls-2" d="M9 148.89h2v2H9z" />
+      </clipPath>
+    </defs>
+    <title>Host Maintenance Mode Exit</title>
+    <path class="aecls-6" d="M12 0H2v15h10z" />
+    <path class="aecls-7" d="M3 1h8v13H3z" />
+    <path class="aecls-8" d="M4 2h6v1H4z" />
+    <path class="aecls-9" d="M4 7h6v7H4z" />
+    <path class="aecls-10" d="M2 5h10v5H2z" />
+    <path class="aecls-11" d="M3 6h8v3H3z" />
+    <path class="aecls-10" transform="rotate(-45 4.997 7.5)" d="M2.5 7h5v1h-5z" />
+    <path class="aecls-10" transform="rotate(-45 8.998 7.503)" d="M6.5 7h5v1h-5z" />
+    <path class="aecls-7" d="M11 8v2H7v5h5V8h-1z" />
+    <path class="aecls-12" d="M16 12.5L12 9v2H8v3h4v2l4-3.5z" />
+  </svg>
+  <svg id="Host_Policy" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="180">
+    <defs>
+      <style>.afcls-1,.afcls-2{fill:none}.afcls-1{clip-rule:evenodd}.afcls-3{fill:#37708d}.afcls-4{fill:#fff}.afcls-5{fill:#799baf}.afcls-6{fill:#cbdae0}.cls-7{clip-path:url(#afclip-path)}.cls-8{clip-path:url(#afclip-path-2)}.cls-9{clip-path:url(#afclip-path-3)}.afcls-10{fill:#35718e}</style>
+      <clipPath id="afclip-path">
+        <path class="afcls-1" d="M-62.19-80.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="afclip-path-2">
+        <path class="afcls-2" d="M23 128.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="afclip-path-3">
+        <path class="afcls-2" d="M29 128.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>Host Policy</title>
+    <path class="afcls-3" d="M11 0H1v15h10V0z" />
+    <path class="afcls-4" d="M2 1h8v13H2z" />
+    <path class="afcls-5" d="M3 2h6v1H3z" />
+    <path class="afcls-6" d="M3 7h6v7H3z" />
+    <path class="afcls-4" d="M11 15V5.06H8.57a2.19 2.19 0 0 0-2.46 2.46v3.29H4.88V15z" />
+    <path class="afcls-10" d="M13 16H9c-1.81 0-3-.54-3-2v-2h1V8a1.78 1.78 0 0 1 2-2h4a1.75 1.75 0 0 1 2 2v6a1.76 1.76 0 0 1-2 2zm-6-3c0 1.42-.06 2.13 1 2h5c1 0 1 0 1-1V8c0-.79-.15-1-1-1H9c-.85 0-1 .21-1 1v5z" />
+    <path class="afcls-4" d="M7 13c0 1.42.12 2 .6 2H13c.69 0 1 0 1-1V8c0-.79-.15-1-1-1H9c-.85 0-1 .21-1 1v5z" />
+    <path class="afcls-6" d="M8 13H7c0 2 0 2 1 2z" />
+    <path class="afcls-5" d="M9 10h4v1H9zM9 12h4v1H9z" />
+    <path class="afcls-10" d="M14 6H9v3h7V8c0-1.34-.17-2-2-2zm1 2h-5V7h4a.88.88 0 0 1 1 1z" />
+    <path class="afcls-6" d="M15 8h-5V7h5z" />
+  </svg>
+  <svg id="Host_Reboot" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="108" y="197">
+    <defs>
+      <style>.agcls-1,.agcls-2{fill:none}.agcls-1{clip-rule:evenodd}.cls-3{clip-path:url(#agclip-path)}.cls-4{clip-path:url(#agclip-path-2)}.cls-5{clip-path:url(#agclip-path-3)}.agcls-6{fill:#38718e}.agcls-7{fill:#fff}.agcls-8{fill:#7a9caf}.agcls-9{fill:#cbdae0}.agcls-10{fill:#37728f}</style>
+      <clipPath id="agclip-path">
+        <path class="agcls-1" d="M-102.19-40.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="agclip-path-2">
+        <path class="agcls-2" d="M-17 168.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="agclip-path-3">
+        <path class="agcls-2" d="M-11 168.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>Host Reboot</title>
+    <path class="agcls-6" d="M12 0H2v15h10z" />
+    <path class="agcls-7" d="M3 1h8v13H3z" />
+    <path class="agcls-8" d="M4 2h6v1H4z" />
+    <path class="agcls-9" d="M4 7h6v7H4z" />
+    <path class="agcls-10" d="M6 5v5h5L9.62 8.61a4.16 4.16 0 0 1 6.38-.5 4.63 4.63 0 0 0-8.11-1.22z" />
+    <path class="agcls-2" d="M6 5v5h5L9.62 8.61a4.16 4.16 0 0 1 6.38-.5 4.63 4.63 0 0 0-8.11-1.22z" />
+    <path class="agcls-7" d="M12 9.59l-1-1A3 3 0 0 1 12 8V4h-.37a5.65 5.65 0 0 0-3.77 1.45L5.41 3H5v8h7z" />
+    <path class="agcls-7" d="M8.59 9L11 11.43a3.25 3.25 0 0 1-4.29-.22L5 9.44v2.63l.06.16A5.62 5.62 0 0 0 7.14 15H12V9z" />
+    <path class="agcls-10" d="M16 15v-5h-5l1.38 1.38a4.16 4.16 0 0 1-6.38.51 4.63 4.63 0 0 0 8.11 1.21zM6 5v5h5L9.62 8.61a4.16 4.16 0 0 1 6.38-.5 4.63 4.63 0 0 0-8.11-1.22z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="LAG" x="180" y="197">
+    <title>LAC</title>
+    <g data-name="Layer 2">
+      <path d="M8 3c2.21 0 4 2.24 4 5s-1.79 5-4 5-4-2.24-4-5 1.79-5 4-5m0-1C5.24 2 3 4.69 3 8s2.24 6 5 6 5-2.69 5-6-2.24-6-5-6z" fill="#5091b2" />
+      <path fill="#1a4c66" d="M0 6h16v1H0zM0 9h16v1H0z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 38 38" width="38" height="38" id="Lic_key_add" x="179.7" y="76">
+    <title>Lic_key_add</title>
+    <g data-name="Layer 2">
+      <rect x="16.81" y="8.31" width="8.94" height="2.37" rx=".92" ry=".92" transform="rotate(-135 21.284 9.495)" fill="#9a9a9a" />
+      <path d="M17 21l.31.31a4.68 4.68 0 0 0 6.62 0l.05-.05v-2.88l-1.47 1.47a2.77 2.77 0 0 1-3.79 0L17 18.12l-2.75 2.78H10v2.72H6.57v2.62L5 27.81H2.21V24.5l10.6-10.59L10.87 12a2.69 2.69 0 0 1-.78-1.9 2.65 2.65 0 0 1 .78-1.89l4.85-4.85a2.77 2.77 0 0 1 3.79 0l7.87 7.87a2.69 2.69 0 0 1 .78 1.9 2.59 2.59 0 0 1-.62 1.69 2 2 0 0 1 .46 1.24v1.15l.79-.79a4.68 4.68 0 0 0 0-6.62l-7.87-7.87a4.68 4.68 0 0 0-6.62 0L9.46 6.77a4.68 4.68 0 0 0 0 6.62l.52.52-9.47 9.47a1 1 0 0 0-.3.71v4.72a1 1 0 0 0 1 1H5.4a1 1 0 0 0 .71-.29l2.16-2.16a1 1 0 0 0 .3-.7v-1H11a1 1 0 0 0 1-1V22.9h2.7a1 1 0 0 0 .71-.3z" fill="#9a9a9a" />
+      <path d="M34.89 24H27v-7.94a1 1 0 0 0-2 0V24h-7.94a1 1 0 0 0 0 2H25v7.89a1 1 0 0 0 2 0V26h7.89a1 1 0 0 0 0-2z" fill="#007cbb" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 38 38" width="38" height="38" id="Lic_key_existing" x="100.66" y="121">
+    <title>Lic_key_existing</title>
+    <g data-name="Layer 2" fill="#9a9a9a">
+      <path d="M22.87 6.2c.15 0 .29-.09.44-.12l-.82-.82-3-3a4.41 4.41 0 0 0-6.22 0l-4.45 4.5a4.39 4.39 0 0 0 0 6.22l.42.43-8.69 8.7a1 1 0 0 0-.3.7v4.37h2v-3.95l8.63-8.63a4.39 4.39 0 0 0 .91 1.4l.43.42-8.7 8.7a1 1 0 0 0-.29.71v4.36h2V26.2l9.11-9.11s0-.07.07-.1a5.2 5.2 0 0 1-.13-1.12v-.23l-1.09-1.1a2.4 2.4 0 0 1 0-3.39l4.47-4.48a2.41 2.41 0 0 1 3.39 0l.18.18a5.06 5.06 0 0 1 1.64-.65zm-6.6-.94l-4.48 4.47a4.48 4.48 0 0 0-1.19 2.21l-.37-.37a2.41 2.41 0 0 1 0-3.4l4.48-4.47a2.39 2.39 0 0 1 3.39 0l.37.37a4.3 4.3 0 0 0-2.2 1.19z" />
+      <path d="M34.53 15.56l-7.27-7.27a4.39 4.39 0 0 0-6.22 0l-4.48 4.47a4.42 4.42 0 0 0 0 6.22l.43.43-8.7 8.7a1 1 0 0 0-.29.71v4.36a1 1 0 0 0 1 1h3.87a1 1 0 0 0 .71-.29l2-2a1 1 0 0 0 .29-.7v-.89H18a1 1 0 0 0 1-1v-1.51h2.42a1 1 0 0 0 .71-.29L23.6 26l.24.24a4.41 4.41 0 0 0 6.22 0l4.47-4.48a4.39 4.39 0 0 0 0-6.2zm-1.41 4.81l-4.48 4.47a2.39 2.39 0 0 1-3.39 0l-1.63-1.64L21 25.8h-4v2.5h-3.12v2.47l-1.42 1.41H10v-2.95l9.82-9.8L18 17.57a2.4 2.4 0 0 1 0-3.39l4.45-4.48a2.42 2.42 0 0 1 3.4 0l7.27 7.3a2.42 2.42 0 0 1 0 3.37z" />
+      <rect x="26.45" y="11.2" width="2.19" height="8.26" rx=".85" ry=".85" transform="rotate(-45.01 27.542 15.328)" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 38 38" width="38" height="38" id="Lic_key_inactive" x="138.66" y="121">
+    <title>Lic_key_inactive</title>
+    <g data-name="Layer 2">
+      <rect x="16.81" y="8.31" width="8.94" height="2.37" rx=".92" ry=".92" transform="rotate(-135 21.284 9.495)" fill="#9a9a9a" />
+      <path d="M12 24.62V22.9h2.7a1 1 0 0 0 .71-.3L17 21l.31.31c.09.09.19.15.28.23l1-1.8L17 18.12l-2.75 2.78H10v2.72H6.57v2.62L5 27.81H2.21V24.5l10.6-10.59L10.87 12a2.69 2.69 0 0 1-.78-1.9 2.65 2.65 0 0 1 .78-1.89l4.85-4.85a2.77 2.77 0 0 1 3.79 0l7.87 7.87a2.69 2.69 0 0 1 .78 1.9 2.65 2.65 0 0 1-.78 1.87l-.42.42 1 1.83.83-.83a4.68 4.68 0 0 0 0-6.62l-7.87-7.87a4.68 4.68 0 0 0-6.62 0L9.46 6.77a4.68 4.68 0 0 0 0 6.62l.52.52-9.47 9.47a1 1 0 0 0-.3.71v4.72a1 1 0 0 0 1 1H5.4a1 1 0 0 0 .71-.29l2.16-2.16a1 1 0 0 0 .3-.7v-1H11a1 1 0 0 0 1-1.04z" fill="#9a9a9a" />
+      <path d="M32.87 36H14.94a2.44 2.44 0 0 1-2.14-3.6l9-16.49a2.44 2.44 0 0 1 4.28 0l9 16.49a2.41 2.41 0 0 1 0 2.41A2.44 2.44 0 0 1 32.87 36zm-9-19.36a.43.43 0 0 0-.38.22l-9 16.5a.4.4 0 0 0 0 .42.41.41 0 0 0 .37.24h18.01a.44.44 0 0 0 .37-.24.42.42 0 0 0 0-.42l-9-16.5a.42.42 0 0 0-.34-.24z" fill="#fac400" />
+      <path d="M24 29.24a1 1 0 0 1-1-1V21a1 1 0 0 1 2 0v7.24a1 1 0 0 1-1 1zM24 32.6a1.1 1.1 0 1 1 1.1-1.1 1.1 1.1 0 0 1-1.1 1.1z" fill="#fac400" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 38 38" width="38" height="38" id="Lic_key_remove" x="179.7">
+    <title>Lic_key_remove</title>
+    <g data-name="Layer 2">
+      <rect x="16.81" y="8.31" width="8.94" height="2.37" rx=".92" ry=".92" transform="rotate(-135 21.284 9.495)" fill="#9a9a9a" />
+      <path d="M21.86 22.45L20 20.52a2.68 2.68 0 0 1-1.25-.67L17 18.12l-2.75 2.78H10v2.72H6.57v2.62L5 27.81H2.21V24.5l10.6-10.59L10.87 12a2.69 2.69 0 0 1-.78-1.9 2.65 2.65 0 0 1 .78-1.89l4.85-4.85a2.77 2.77 0 0 1 3.79 0l7.87 7.87a2.69 2.69 0 0 1 .78 1.9 2.65 2.65 0 0 1-.78 1.87l-3.64 3.64 1.39 1.44 3.66-3.66a4.68 4.68 0 0 0 0-6.62l-7.87-7.87a4.68 4.68 0 0 0-6.62 0L9.46 6.77a4.68 4.68 0 0 0 0 6.62l.52.52-9.47 9.47a1 1 0 0 0-.3.71v4.72a1 1 0 0 0 1 1H5.4a1 1 0 0 0 .71-.29l2.16-2.16a1 1 0 0 0 .3-.7v-1H11a1 1 0 0 0 1-1V22.9h2.7a1 1 0 0 0 .71-.3L17 21l.31.31a4.66 4.66 0 0 0 4.55 1.14z" fill="#9a9a9a" />
+      <path d="M34.73 31.47l-6.55-6.79L34.63 18a1 1 0 0 0 0-1.41 1 1 0 0 0-1.42 0l-6.4 6.63-6.4-6.63A1 1 0 0 0 19 18l6.45 6.68-6.55 6.79a1 1 0 0 0 0 1.41 1 1 0 0 0 .69.28 1 1 0 0 0 .72-.3l6.5-6.74 6.5 6.74a1 1 0 0 0 1.42 0 1 1 0 0 0 0-1.39z" fill="#e62700" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 38 38" width="38" height="38" id="Lic_key_upgraded" x="179.7" y="38">
+    <title>Lic_key_upgraded</title>
+    <g data-name="Layer 2">
+      <rect x="16.81" y="8.31" width="8.94" height="2.37" rx=".92" ry=".92" transform="rotate(-135 21.284 9.495)" fill="#9a9a9a" />
+      <path d="M17.33 21.26a5.19 5.19 0 0 0 .68.56l1.47-1.48a2.58 2.58 0 0 1-.74-.49L17 18.12l-2.75 2.78H10v2.72H6.57v2.62L5 27.81H2.21V24.5l10.6-10.59L10.87 12a2.69 2.69 0 0 1-.78-1.9 2.65 2.65 0 0 1 .78-1.89l4.85-4.85a2.77 2.77 0 0 1 3.79 0l7.87 7.87a2.69 2.69 0 0 1 .78 1.9 2.65 2.65 0 0 1-.78 1.87l-1.07 1.07 1.42 1.41 1.06-1.06a4.68 4.68 0 0 0 0-6.62l-7.87-7.87a4.68 4.68 0 0 0-6.62 0L9.46 6.77a4.68 4.68 0 0 0 0 6.62l.52.52-9.47 9.47a1 1 0 0 0-.3.71v4.72a1 1 0 0 0 1 1H5.4a1 1 0 0 0 .71-.29l2.16-2.16a1 1 0 0 0 .3-.7v-1H11a1 1 0 0 0 1-1V22.9h2.7a1 1 0 0 0 .71-.3L17 21z" fill="#9a9a9a" />
+      <path d="M32.8 24L25 16.2l-.64.64a.77.77 0 0 0-.18.18l-6.95 7a1 1 0 0 0 0 1.42 1 1 0 0 0 1.41 0L24 20.07v14.06a1 1 0 0 0 2 0V20l5.39 5.39a1 1 0 0 0 .71.29 1 1 0 0 0 .7-.29 1 1 0 0 0 0-1.39z" fill="#007cbb" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="NIC_blue" y="233">
+    <title>NIC_blue</title>
+    <g data-name="Layer 2">
+      <path fill="#0095d3" d="M1.5 12.5v-9h13v8h-6v1h-7z" />
+      <path d="M14 4v7H8v1H2V4h12m1-1H1v10h8v-1h6V3z" fill="#36708c" />
+      <path fill="none" stroke="#36708c" stroke-miterlimit="10" d="M14.5 14V1.5H16" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="NIC_single" x="36" y="233">
+    <title>NIC_single</title>
+    <g data-name="Layer 2">
+      <path fill="#cbd9e0" d="M8.5 14.5v-2h-8v-9h15v11h-7z" />
+      <path d="M15 4v10H9v-2H1V4h14m1-1H0v10h8v2h8V3z" fill="#36708c" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="NICs" x="216" y="251">
+    <title>NICs</title>
+    <g data-name="Layer 2">
+      <path fill="#cbd9e0" d="M0 2v9h7v1h7V2H0z" />
+      <path fill="#cbd9e0" d="M9.5 13.5v-1h-7v-8h13v9h-6z" />
+      <path d="M15 5v8h-5v-1H3V5h12m1-1H2v9h7v1h7V4z" fill="#36708c" />
+      <path fill="#36708c" d="M1 3h13V2H0v9h1V3z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="NiC_green" x="289.7" y="108">
+    <title>NiC_green</title>
+    <g data-name="Layer 2">
+      <path fill="#aadb1e" d="M7.5 12.5v-1h-6v-8h13v9h-7z" />
+      <path d="M14 4v8H8v-1H2V4h12m1-1H1v9h6v1h8V3z" fill="#36708c" />
+      <path fill="none" stroke="#36708c" stroke-miterlimit="10" d="M1.5 14V1.5H0" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="action-remove" x="148" y="171">
+    <defs>
+      <style>.arcls-1{fill:#565656}</style>
+    </defs>
+    <title>Asset 1</title>
+    <g id="arLayer_2" data-name="Layer 2">
+      <g id="arLayer_3" data-name="Layer 3">
+        <path class="arcls-1" d="M11.32 4.75a.45.45 0 0 0-.64 0L8 7.36 5.38 4.69a.45.45 0 0 0-.64.63L7.36 8l-2.67 2.62a.45.45 0 0 0 .63.64L8 8.64l2.63 2.68a.45.45 0 0 0 .64-.63L8.64 8l2.68-2.63a.45.45 0 0 0 0-.62z" />
+        <path class="arcls-1" d="M8 0a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm0 15a7 7 0 1 1 7-7 7 7 0 0 1-7 7z" />
+      </g>
+    </g>
+  </svg>
+  <svg id="add" viewBox="-1 -1 18 18" width="18" height="18" x="166" y="171">
+    <style>.asst0{fill:none;stroke:#747474;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}</style>
+    <g id="asLayer_1_1_">
+      <path class="asst0" d="M8 1v14M1 8h14" />
+    </g>
+  </svg>
+  <svg data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" id="assign_license" x="184" y="171">
+    <title>assign license</title>
+    <path d="M4.86 15.94l-1.8-1.78v-1.74L3.5 12l-1.07-1.09.86-.85-1-1v-.84h-.65A1.66 1.66 0 0 1 0 6.57V2.64a1.65 1.65 0 0 1 .48-1.17A1.66 1.66 0 0 1 1.62 1h5.82a1.67 1.67 0 0 1 1.64 1.67v3.92a1.63 1.63 0 0 1-.48 1.18 1.61 1.61 0 0 1-1.13.46H7V14z" fill="#36708c" />
+    <path d="M4 13.85l.85.85 1.13-1L6 7.37h1.42a.68.68 0 0 0 .47-.2.73.73 0 0 0 .2-.51V2.74A.74.74 0 0 0 7.4 2H1.67a.65.65 0 0 0-.47.2.73.73 0 0 0-.2.51v3.93a.72.72 0 0 0 .69.72h1.57v1.42l1.35 1.36-.84.86 1.06 1.07-.83.81z" fill="#fff" />
+    <path d="M5.93 4H3a.52.52 0 0 1-.5-.5A.51.51 0 0 1 3 3h2.93a.52.52 0 0 1 .53.51.52.52 0 0 1-.53.49z" fill="#36708c" />
+    <path d="M12.64 6.45a.48.48 0 0 0-.7 0 .5.5 0 0 0 0 .71L13.78 9H8.5a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5h5.28l-1.84 1.85a.5.5 0 0 0 0 .71.52.52 0 0 0 .35.14.5.5 0 0 0 .35-.14L15.7 9.5z" fill="#004a70" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="caret_collapsed" y="197">
+    <title>caret_collapsed</title>
+    <path d="M11 7.78l-4.8 4.8a.71.71 0 0 1-1-1l3.88-3.8-3.84-3.84a.72.72 0 0 1 0-1 .7.7 0 0 1 1 0z" fill="#565656" data-name="Layer 2" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="caret_expanded" x="18" y="197">
+    <title>caret_expanded</title>
+    <path d="M8 10.76L3.18 6a.71.71 0 1 1 1-1L8 8.84 11.82 5a.71.71 0 0 1 1 1z" fill="#565656" data-name="Layer 2" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="cloud-network" x="36" y="197">
+    <defs>
+      <style>.awcls-1{fill:#fff}.awcls-2{fill:#ccdbe1}.awcls-3,.awcls-4,.awcls-5,.awcls-7{fill:none;stroke-miterlimit:10}.awcls-3{stroke:#38738f}.awcls-3,.awcls-5{stroke-linecap:round}.awcls-4,.awcls-5{stroke:#245d80}.awcls-6{fill:#b1c8d4}.awcls-7{stroke:#50809b}</style>
+    </defs>
+    <title>*new</title>
+    <g id="awLayer_3" data-name="Layer 3">
+      <path class="awcls-1" d="M3.39 6.26A3.32 3.32 0 0 0 2 8.64a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62A5.2 5.2 0 0 0 8 4.37a7 7 0 0 0-4.61 1.89z" />
+      <path class="awcls-2" d="M15.13 9a3.45 3.45 0 0 1-4.53 1.82 3.89 3.89 0 0 1-6.44-.21 2.25 2.25 0 0 1-3.44-.82 2.26 2.26 0 0 0 3.44 2.77 3.89 3.89 0 0 0 6.44.21 3.44 3.44 0 0 0 4.65-4.16 3.4 3.4 0 0 1-.12.39z" />
+      <path class="awcls-3" d="M3.39 6.26A3.32 3.32 0 0 0 2 8.64a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62" />
+      <circle class="awcls-1" cx="7.81" cy="4.14" r="3.42" />
+      <path class="awcls-4" d="M7.82 7.06v2.5" />
+      <path class="awcls-5" d="M4.28 9.44h7.41" />
+      <path class="awcls-6" d="M9.68 1.28a5.08 5.08 0 0 1 .05.53 5.18 5.18 0 0 1-4 5 3.41 3.41 0 1 0 3.95-5.53z" />
+      <circle class="awcls-7" cx="7.81" cy="4.14" r="3.42" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="cloud-network-alert" x="54" y="197">
+    <defs>
+      <style>.axcls-1{fill:#fff}.axcls-2{fill:#ccdbe1}.axcls-3,.axcls-4,.axcls-5,.axcls-7{fill:none;stroke-miterlimit:10}.axcls-3{stroke:#38738f}.axcls-3,.axcls-5{stroke-linecap:round}.axcls-4,.axcls-5{stroke:#245d80}.axcls-6{fill:#b1c8d4}.axcls-7{stroke:#50809b}.axcls-8{fill:#e52528}</style>
+    </defs>
+    <title>*new</title>
+    <g id="axLayer_3" data-name="Layer 3">
+      <path class="axcls-1" d="M3.45 6.2A3.32 3.32 0 0 0 2.1 8.57a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62 5.2 5.2 0 0 0-4.26-1.77A7 7 0 0 0 3.45 6.2z" />
+      <path class="axcls-2" d="M15.13 9a3.45 3.45 0 0 1-4.53 1.82 3.89 3.89 0 0 1-6.44-.21 2.25 2.25 0 0 1-3.44-.82 2.26 2.26 0 0 0 3.44 2.77 3.89 3.89 0 0 0 6.44.21 3.44 3.44 0 0 0 4.65-4.16 3.4 3.4 0 0 1-.12.39z" />
+      <path class="axcls-3" d="M3.39 6.26A3.32 3.32 0 0 0 2 8.64a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62" />
+      <circle class="axcls-1" cx="7.81" cy="4.14" r="3.42" />
+      <path class="axcls-4" d="M7.82 7.06v2.5" />
+      <path class="axcls-5" d="M4.28 9.44h7.41" />
+      <path class="axcls-6" d="M9.68 1.28a5.08 5.08 0 0 1 .05.53 5.18 5.18 0 0 1-4 5 3.41 3.41 0 1 0 3.95-5.53z" />
+      <circle class="axcls-7" cx="7.81" cy="4.14" r="3.42" />
+      <path class="axcls-1" d="M7.46 14.88a4.39 4.39 0 0 0 3.3-1.51 3.94 3.94 0 0 0 4.64-5.68 5.5 5.5 0 0 0-8.32 7.14c.13.01.26.05.38.05z" />
+      <path class="axcls-8" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.5 4.5 0 0 1 11.5 7" />
+      <path class="axcls-1" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="cloud-network-warning" x="72" y="197">
+    <defs>
+      <style>.aycls-1{fill:#fff}.aycls-2{fill:#ccdbe1}.aycls-3,.aycls-4,.aycls-5,.aycls-7{fill:none;stroke-miterlimit:10}.aycls-3{stroke:#38738f}.aycls-3,.aycls-5{stroke-linecap:round}.aycls-4,.aycls-5{stroke:#245d80}.aycls-6{fill:#b1c8d4}.aycls-7{stroke:#50809b}.aycls-8{fill:#987e2e}.aycls-9{fill:#ffd111}.aycls-10{fill:#221f1f}</style>
+    </defs>
+    <title>*new</title>
+    <g id="ayLayer_3" data-name="Layer 3">
+      <path class="aycls-1" d="M3.39 6.26A3.32 3.32 0 0 0 2 8.64a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62A5.2 5.2 0 0 0 8 4.37a7 7 0 0 0-4.61 1.89z" />
+      <path class="aycls-2" d="M15.13 9a3.45 3.45 0 0 1-4.53 1.82 3.89 3.89 0 0 1-6.44-.21 2.25 2.25 0 0 1-3.44-.82 2.26 2.26 0 0 0 3.44 2.77 3.89 3.89 0 0 0 6.44.21 3.44 3.44 0 0 0 4.65-4.16 3.4 3.4 0 0 1-.12.39z" />
+      <path class="aycls-3" d="M3.39 6.26A3.32 3.32 0 0 0 2 8.64a2.26 2.26 0 1 0 2.13 3.92 3.89 3.89 0 0 0 6.44.21 3.45 3.45 0 1 0 1.65-6.62" />
+      <circle class="aycls-1" cx="7.81" cy="4.14" r="3.42" />
+      <path class="aycls-4" d="M7.82 7.06v2.5" />
+      <path class="aycls-5" d="M4.28 9.44h7.41" />
+      <path class="aycls-6" d="M9.68 1.28a5.08 5.08 0 0 1 .05.53 5.18 5.18 0 0 1-4 5 3.41 3.41 0 1 0 3.95-5.53z" />
+      <circle class="aycls-7" cx="7.81" cy="4.14" r="3.42" />
+      <g id="ayBEST">
+        <path class="aycls-1" d="M6.48 14.76a4.42 4.42 0 0 0 1 .11 4.39 4.39 0 0 0 3.3-1.51 4 4 0 0 0 4.82-2.22 3.86 3.86 0 0 0 .11-.37L13.15 6.3a2.93 2.93 0 0 0-5 0l-3.7 6.3a3 3 0 0 0-.29.77 4.35 4.35 0 0 0 2.32 1.39z" />
+        <path class="aycls-8" d="M15.95 13.2l-3.7-6.4a1.62 1.62 0 0 0-1.6-.9 1.85 1.85 0 0 0-1.7.9l-3.7 6.3a1.93 1.93 0 0 0 .7 2.6 1.69 1.69 0 0 0 1 .3h7.3a2.06 2.06 0 0 0 1.7-1z" />
+        <path class="aycls-9" d="M11.27 7.43l3.73 6.3a1 1 0 0 1-.3 1.3.75.75 0 0 1-.5.1H6.88a1 1 0 0 1-.8-1.4l3.6-6.3a.84.84 0 0 1 1.14-.34h.06a1.38 1.38 0 0 1 .39.34z" />
+        <path class="aycls-10" d="M9.88 13.13h1v1h-1zM9.88 9.13h1v3h-1z" />
+      </g>
+    </g>
+  </svg>
+  <svg id="cluster" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="90" y="197">
+    <defs>
+      <style>.azcls-1{fill:#4f809a}.azcls-2{fill:#cbd9e0}.azcls-3{fill:#356f8c}.azcls-4{fill:#fff}.azcls-5{fill:#789aaf}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="azcls-1" d="M7 0H0v13h7V0z" />
+    <path class="azcls-2" d="M6 1v11H1V1h5" />
+    <path class="azcls-1" d="M15 0H8v13h7V0z" />
+    <path class="azcls-2" d="M14 1v11H9V1h5" />
+    <path class="azcls-3" d="M12 2H3v13h9V2z" />
+    <path class="azcls-4" d="M11 3v11H4V3h7" />
+    <path class="azcls-5" d="M5 4h5v1H5z" />
+    <path class="azcls-2" d="M5 8h5v6H5z" />
+  </svg>
+  <svg id="cluster-24x" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="26" y="171">
+    <defs>
+      <style>.bacls-1,.bacls-4{fill:#c8d6dd}.bacls-1,.bacls-2{stroke:#518097;stroke-miterlimit:10}.bacls-2{fill:#fff;stroke:#004a70}.bacls-3{fill:#004a70}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bacls-1" d="M2.5 3.5h8v16h-8zM13.5 3.5h8v16h-8z" />
+    <path class="bacls-2" d="M17.5 5.5h-10v16h10v-16z" />
+    <path class="bacls-3" d="M9 8h7v1H9z" />
+    <path class="bacls-4" d="M9 14h7v6.16H9z" />
+  </svg>
+  <svg id="cluster-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="126" y="197">
+    <defs>
+      <style>.bbcls-1{fill:#4f809a}.bbcls-2{fill:#cbd9e0}.bbcls-3{fill:#356f8c}.bbcls-4{fill:#fff}.bbcls-5{fill:#789aaf}.bbcls-6{fill:#e81e25}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="bbcls-1" d="M7 0H0v13h7V0z" />
+    <path class="bbcls-2" d="M6 1v11H1V1h5" />
+    <path class="bbcls-1" d="M15 0H8v13h7V0z" />
+    <path class="bbcls-2" d="M14 1v11H9V1h5" />
+    <path class="bbcls-3" d="M12 2H3v13h9V2z" />
+    <path class="bbcls-4" d="M11 3v11H4V3h7" />
+    <path class="bbcls-5" d="M5 4h5v1H5z" />
+    <path class="bbcls-2" d="M5 8h5v6H5z" />
+    <path class="bbcls-4" d="M11.5 6a5.5 5.5 0 0 0-4.24 9H12v-2h3V7.26A5.48 5.48 0 0 0 11.5 6z" />
+    <path class="bbcls-6" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="bbcls-4" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="cluster-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="144" y="197">
+    <defs>
+      <style>.bccls-1{fill:#4f809a}.bccls-2{fill:#cbd9e0}.bccls-3{fill:#1b5c7e}.bccls-4{fill:#fff}.bccls-5{fill:#789aaf}.bccls-6{fill:#ffd110}.bccls-7{fill:#997c00}.bccls-8{fill:#231f20}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="bccls-1" d="M7 0H0v13h7V0z" />
+    <path class="bccls-2" d="M6 1v11H1V1h5" />
+    <path class="bccls-1" d="M15 0H8v13h7V0z" />
+    <path class="bccls-2" d="M14 1v11H9V1h5" />
+    <path class="bccls-3" d="M12 2H3v13h9V2z" />
+    <path class="bccls-4" d="M11 3v11H4V3h7" />
+    <path class="bccls-5" d="M5 4h5v1H5z" />
+    <path class="bccls-2" d="M5 8h5v6H5z" />
+    <path class="bccls-6" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="bccls-4" d="M11.88 5a.92.92 0 0 0-.8-.46H9.84A.92.92 0 0 0 9 5l-5.06 8.84a.92.92 0 0 0-.12.46v.7H12v-2h3v-2.6z" />
+    <path class="bccls-7" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="bccls-6" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="bccls-8" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg id="collapse" data-name="Layer 2" viewBox="-1 -1 44.84 49" width="9" height="9" x="289.7" y="270">
+    <defs>
+      <style>.bdcls-1{fill:#007bcc;width:10px}</style>
+    </defs>
+    <title>ic_doublearrow</title>
+    <path class="bdcls-1" d="M66.74 49.29L50 65.78 33.26 49.29a2.75 2.75 0 1 0-3.86 3.92L50 73.5l20.6-20.29a2.75 2.75 0 1 0-3.86-3.92z" transform="translate(-28.58 -26.5)" />
+    <path class="bdcls-1" d="M50 51.5l20.6-20.29a2.75 2.75 0 1 0-3.86-3.92L50 43.78 33.26 27.29a2.75 2.75 0 1 0-3.86 3.92z" transform="translate(-28.58 -26.5)" />
+  </svg>
+  <svg id="cpu-summary" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="179.7" y="140">
+    <defs>
+      <style>.becls-1{fill:#89b085;stroke:#54815b;stroke-miterlimit:10}.becls-2{fill:#fcfdff}.becls-3{fill:#fff}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="becls-1" d="M10.1 2.5v.95H8V2.5H2.5v19H8v-.95h2.1v.95h11.4v-19H10.1z" />
+    <path class="becls-2" d="M17 18H7a1 1 0 0 1-1-1V8a2 2 0 0 1 2-2h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1z" />
+    <path class="becls-3" d="M4 4h1v1H4z" />
+  </svg>
+  <svg id="datacenter" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="198" y="197">
+    <defs>
+      <style>.bfcls-1{fill:#356f8c}.bfcls-2{fill:#fff}.bfcls-3{fill:#d9e3e9}.bfcls-4{fill:#789bb0}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="bfcls-1" d="M15 4H9v11h6V4z" />
+    <path class="bfcls-2" d="M13.97 5v9h-4V5h4" />
+    <path class="bfcls-1" d="M10 1H1v14h9V1z" />
+    <path class="bfcls-2" d="M9 2v12H2V2h7" />
+    <path class="bfcls-3" d="M9 14H2v-3.08l7-6V14z" />
+    <path class="bfcls-4" d="M3 4h1v1H3zM5 4h1v1H5zM7 4h1v1H7zM3 6h1v1H3zM5 6h1v1H5zM7 6h1v1H7zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM3 10h1v1H3zM5 10h1v1H5zM7 10h1v1H7zM10 6h3v1h-3zM10 8h3v1h-3zM10 10h3v1h-3z" />
+    <path class="bfcls-1" d="M0 14h16v1H0z" />
+  </svg>
+  <svg id="datacenter-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7">
+    <defs>
+      <style>.bgcls-1{fill:#356f8c}.bgcls-2{fill:#fff}.bgcls-3{fill:#d9e3e9}.bgcls-4{fill:#789bb0}.bgcls-5{fill:#e81e25}</style>
+    </defs>
+    <title>new</title>
+    <path class="bgcls-1" d="M15 4H9v11h6V4z" />
+    <path class="bgcls-2" d="M13.97 5v9h-4V5h4" />
+    <path class="bgcls-1" d="M10 1H1v14h9V1z" />
+    <path class="bgcls-2" d="M9 2v12H2V2h7" />
+    <path class="bgcls-3" d="M9 14H2v-3.08l7-6V14z" />
+    <path class="bgcls-4" d="M3 4h1v1H3zM5 4h1v1H5zM7 4h1v1H7zM3 6h1v1H3zM5 6h1v1H5zM7 6h1v1H7zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM3 10h1v1H3zM5 10h1v1H5zM7 10h1v1H7zM10 6h3v1h-3zM10 8h3v1h-3zM10 10h3v1h-3z" />
+    <path class="bgcls-1" d="M0 14h16v1H0z" />
+    <path class="bgcls-2" d="M15.74 15.08c.09-.11.17-.23.26-.34v-.66h-1V7.34a5.5 5.5 0 0 0-7.74 7.74h8.49z" />
+    <path class="bgcls-5" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="bgcls-2" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="datacenter-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="18">
+    <defs>
+      <style>.bhcls-1{fill:#356f8c}.bhcls-2{fill:#fff}.bhcls-3{fill:#d9e3e9}.bhcls-4{fill:#789bb0}.bhcls-5{fill:#ffd110}.bhcls-6{fill:#997c00}.bhcls-7{fill:#231f20}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="bhcls-1" d="M15 4H9v11h6V4z" />
+    <path class="bhcls-2" d="M13.97 5v9h-4V5h4" />
+    <path class="bhcls-1" d="M10 1H1v14h9V1z" />
+    <path class="bhcls-2" d="M9 2v12H2V2h7" />
+    <path class="bhcls-3" d="M9 14H2v-3.08l7-6V14z" />
+    <path class="bhcls-4" d="M3 4h1v1H3zM5 4h1v1H5zM7 4h1v1H7zM3 6h1v1H3zM5 6h1v1H5zM7 6h1v1H7zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM3 10h1v1H3zM5 10h1v1H5zM7 10h1v1H7zM10 6h3v1h-3zM10 8h3v1h-3zM10 10h3v1h-3z" />
+    <path class="bhcls-1" d="M0 14h16v1H0z" />
+    <path class="bhcls-5" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="bhcls-2" d="M11.88 5a.92.92 0 0 0-.8-.46H9.84A.92.92 0 0 0 9 5l-5.06 8.84a.92.92 0 0 0-.12.46v.7H16v-1h-1v-3.6z" />
+    <path class="bhcls-6" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="bhcls-5" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="bhcls-7" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg id="datastore" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="36">
+    <defs>
+      <style>.bicls-1{fill:#fff}.bicls-2{fill:#d9e2e8}.bicls-3,.bicls-4,.bicls-5{fill:none;stroke-miterlimit:10}.bicls-3{stroke:#9ab6c5}.bicls-4{stroke:#36708c;stroke-width:.8px}.bicls-5{stroke:#6c8d9f;opacity:.5}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bicls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bicls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bicls-2" d="M9.06.5v14c2.63-.27 4.54-1 4.54-1.94V2.44c0-.9-1.9-1.67-4.54-1.94z" />
+    <ellipse class="bicls-1" cx="7.06" cy="2.54" rx="6.52" ry="2.11" />
+    <path class="bicls-3" d="M12.91 6.63A14.43 14.43 0 0 1 7 7.81a14.14 14.14 0 0 1-6-1.22M12.91 10.63A14.43 14.43 0 0 1 7 11.81a14.14 14.14 0 0 1-6-1.22" />
+    <path class="bicls-4" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bicls-5" d="M12.91 3.52a14.83 14.83 0 0 1-5.91 1 14.53 14.53 0 0 1-6-1" />
+  </svg>
+  <svg id="datastore-24x" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="179.7" y="114">
+    <defs>
+      <style>.bjcls-1{fill:#fff}.bjcls-2{fill:#c8d6dd}.bjcls-3,.bjcls-4{fill:none;stroke-miterlimit:10}.bjcls-3{stroke:#508099}.bjcls-4{stroke:#004a70;stroke-width:.8px}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bjcls-1" d="M19.42 6.05c-.52-1.21-3.6-2.14-7.34-2.14s-6.82.93-7.34 2.14h-.08v13.2h.08c.52 1.21 3.6 2.14 7.34 2.14s6.82-.93 7.34-2.14h.08V6.05h-.08z" />
+    <path class="bjcls-2" d="M14.31 4v17.21c2.68-.28 4.7-1.07 5.1-2h.09V6h-.08C19 5 17 4.25 14.31 4z" />
+    <ellipse class="bjcls-2" cx="12.5" cy="6.15" rx="7.16" ry="2.14" />
+    <path class="bjcls-3" d="M19.56 5.54c0 1.53-3.35 2.78-7.48 2.78S4.6 7.08 4.6 5.54M19.56 9.77c0 1.53-3.35 2.78-7.48 2.78S4.6 11.3 4.6 9.77M19.56 14.17c0 1.53-3.35 2.78-7.48 2.78S4.6 15.7 4.6 14.17" />
+    <path class="bjcls-4" d="M19.42 6.05c-.52-1.21-3.6-2.14-7.34-2.14s-6.82.93-7.34 2.14h-.08v13.2h.08c.52 1.21 3.6 2.14 7.34 2.14s6.82-.93 7.34-2.14h.08V6.05h-.08z" />
+  </svg>
+  <svg id="datastore-cluster" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="72">
+    <defs>
+      <style>.bkcls-1,.bkcls-4{fill:#cad8df}.bkcls-1{stroke:#508099;stroke-miterlimit:10}.bkcls-2{fill:#9ab6c5}.bkcls-3{fill:#fff}.bkcls-5{fill:none;stroke:#36708c;stroke-linejoin:round}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <rect class="bkcls-1" x=".5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <rect class="bkcls-1" x="7.5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <path class="bkcls-2" d="M8 5h6v1H8zM8 8h6v1H8zM1 5h6v1H1zM1 8h6v1H1z" />
+    <rect class="bkcls-3" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="bkcls-4" d="M10.5 5.5H8v9h2.5a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1z" />
+    <rect class="bkcls-5" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="bkcls-2" d="M4 8h7v1H4zM4 11h7v1H4z" />
+  </svg>
+  <svg id="datastore-cluster-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="90">
+    <defs>
+      <style>.blcls-1,.blcls-4{fill:#cad8df}.blcls-1{stroke:#508099;stroke-miterlimit:10}.blcls-2{fill:#9ab6c5}.blcls-3{fill:#fff}.blcls-5{fill:none;stroke:#36708c;stroke-linejoin:round}.blcls-6{fill:#e52127}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <rect class="blcls-1" x=".5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <rect class="blcls-1" x="7.5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <path class="blcls-2" d="M8 5h6v1H8zM8 8h6v1H8zM1 5h6v1H1zM1 8h6v1H1z" />
+    <rect class="blcls-3" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="blcls-4" d="M10.5 5.5H8v9h2.5a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1z" />
+    <rect class="blcls-5" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="blcls-2" d="M4 8h7v1H4zM4 11h7v1H4z" />
+    <path class="blcls-3" d="M11.5 6a5.49 5.49 0 0 0-4.89 8H11a1 1 0 0 0 1-1v-2h2a1 1 0 0 0 1-1V7.26A5.48 5.48 0 0 0 11.5 6z" />
+    <path class="blcls-6" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="blcls-3" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="datastore-cluster-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="108">
+    <defs>
+      <style>.bmcls-1,.bmcls-4{fill:#cad8df}.bmcls-1{stroke:#508099;stroke-miterlimit:10}.bmcls-2{fill:#9ab6c5}.bmcls-3{fill:#fff}.bmcls-5{fill:none;stroke:#36708c;stroke-linejoin:round}.bmcls-6{fill:#977d2e}.bmcls-7{fill:#ffd00f}.bmcls-8{fill:#221f1f}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <rect class="bmcls-1" x=".5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <rect class="bmcls-1" x="7.5" y="2.5" width="7" height="9" rx="1" ry="1" />
+    <path class="bmcls-2" d="M8 5h6v1H8zM8 8h6v1H8zM1 5h6v1H1zM1 8h6v1H1z" />
+    <rect class="bmcls-3" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="bmcls-4" d="M10.5 5.5H8v9h2.5a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1z" />
+    <rect class="bmcls-5" x="3.5" y="5.5" width="8" height="9" rx="1" ry="1" />
+    <path class="bmcls-2" d="M4 8h7v1H4zM4 11h7v1H4z" />
+    <path class="bmcls-3" d="M11 14.47a1 1 0 0 0 1-1v-2h2a1 1 0 0 0 1-.84l-3-5.17a.92.92 0 0 0-.81-.46H9.84a.92.92 0 0 0-.8.46L5 12.38l-1 2.09h7z" />
+    <path class="bmcls-6" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="bmcls-7" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="bmcls-8" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg id="datastore-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="126">
+    <defs>
+      <style>.bncls-1{fill:#fff}.bncls-2{fill:#d9e2e8}.bncls-3,.bncls-4,.bncls-5{fill:none;stroke-miterlimit:10}.bncls-3{stroke:#9ab6c5}.bncls-4{stroke:#36708c;stroke-width:.8px}.bncls-5{stroke:#6c8d9f;opacity:.5}.bncls-6{fill:#e52127}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bncls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bncls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bncls-2" d="M9.06.5v14c2.63-.27 4.54-1 4.54-1.94V2.44c0-.9-1.9-1.67-4.54-1.94z" />
+    <ellipse class="bncls-1" cx="7.06" cy="2.54" rx="6.52" ry="2.11" />
+    <path class="bncls-3" d="M12.91 6.63A14.43 14.43 0 0 1 7 7.81a14.14 14.14 0 0 1-6-1.22M12.91 10.63A14.43 14.43 0 0 1 7 11.81a14.14 14.14 0 0 1-6-1.22" />
+    <path class="bncls-4" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bncls-5" d="M12.91 3.52a14.83 14.83 0 0 1-5.91 1 14.53 14.53 0 0 1-6-1" />
+    <path class="bncls-1" d="M11.5 6a5.5 5.5 0 0 0-4.25 9C11 15 14 14 14 12.85V6.61A5.47 5.47 0 0 0 11.5 6z" />
+    <path class="bncls-6" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="bncls-1" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="datastore-inaccessible" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="144">
+    <defs>
+      <style>.bocls-1{fill:#fff}.bocls-2{fill:#d9e2e8}.bocls-3,.bocls-4,.bocls-5{fill:none;stroke-miterlimit:10}.bocls-3{stroke:#9ab6c5}.bocls-4{stroke:#36708c;stroke-width:.8px}.bocls-5{stroke:#6c8d9f;opacity:.5}.bocls-6{fill:#e52127}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bocls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bocls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bocls-2" d="M9.06.5v14c2.63-.27 4.54-1 4.54-1.94V2.44c0-.9-1.9-1.67-4.54-1.94z" />
+    <ellipse class="bocls-1" cx="7.06" cy="2.54" rx="6.52" ry="2.11" />
+    <path class="bocls-3" d="M12.91 6.63A14.43 14.43 0 0 1 7 7.81a14.14 14.14 0 0 1-6-1.22M12.91 10.63A14.43 14.43 0 0 1 7 11.81a14.14 14.14 0 0 1-6-1.22" />
+    <path class="bocls-4" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bocls-5" d="M12.91 3.52a14.83 14.83 0 0 1-5.91 1 14.53 14.53 0 0 1-6-1" />
+    <path class="bocls-1" d="M11.5 6a5.5 5.5 0 0 0-4.25 9C11 15 14 14 14 12.85V6.61A5.47 5.47 0 0 0 11.5 6z" />
+    <path class="bocls-6" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="bocls-1" d="M8 11h7v1H8z" />
+  </svg>
+  <svg id="datastore-maintenance" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="162">
+    <defs>
+      <style>.bpcls-1{fill:#fff}.bpcls-2{fill:#d9e2e8}.bpcls-3,.bpcls-6,.bpcls-7{fill:none;stroke-miterlimit:10}.bpcls-3{stroke:#6c8d9f;opacity:.5}.bpcls-4{fill:#ffdf24}.bpcls-5{fill:#221f1f}.bpcls-6{stroke:#977d2e}.bpcls-7{stroke:#36708c;stroke-width:.8px}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bpcls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bpcls-2" d="M9.06.5v14c2.63-.27 4.54-1 4.54-1.94V2.44c0-.9-1.9-1.67-4.54-1.94z" />
+    <ellipse class="bpcls-1" cx="7.06" cy="2.54" rx="6.52" ry="2.11" />
+    <path class="bpcls-3" d="M12.91 3.52a14.83 14.83 0 0 1-5.91 1 14.53 14.53 0 0 1-6-1" />
+    <path class="bpcls-4" d="M.51 10a16.83 16.83 0 0 0 6.48 1 17.19 17.19 0 0 0 6.39-1V6A17.19 17.19 0 0 1 7 7 16.83 16.83 0 0 1 .51 6v4z" />
+    <path class="bpcls-5" d="M3 6.62L.64 8.83V10a6.58 6.58 0 0 0 .66.26l3.62-3.39A21.8 21.8 0 0 1 3 6.62zM8.08 7l-4.16 3.8c.62.08 1.28.14 2 .18l4.58-4.24A23.13 23.13 0 0 1 8.08 7zM13.51 6.93l-4.33 4a19.17 19.17 0 0 0 2.56-.37l1.77-1.63v-2z" />
+    <path class="bpcls-6" d="M13.39 6A17.19 17.19 0 0 1 7 7 16.83 16.83 0 0 1 .51 6M13.39 10A17.19 17.19 0 0 1 7 11a16.83 16.83 0 0 1-6.49-1" />
+    <path class="bpcls-7" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+  </svg>
+  <svg id="datastore-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="217.7" y="180">
+    <defs>
+      <style>.bqcls-1{fill:#fff}.bqcls-2{fill:#d9e2e8}.bqcls-3,.bqcls-4,.bqcls-5{fill:none;stroke-miterlimit:10}.bqcls-3{stroke:#9ab6c5}.bqcls-4{stroke:#36708c;stroke-width:.8px}.bqcls-5{stroke:#6c8d9f;opacity:.5}.bqcls-6{fill:#ffd00f}.bqcls-7{fill:#977d2e}.bqcls-8{fill:#221f1f}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="bqcls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bqcls-1" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bqcls-2" d="M9.06.5v14c2.63-.27 4.54-1 4.54-1.94V2.44c0-.9-1.9-1.67-4.54-1.94z" />
+    <ellipse class="bqcls-1" cx="7.06" cy="2.54" rx="6.52" ry="2.11" />
+    <path class="bqcls-3" d="M12.91 6.63A14.43 14.43 0 0 1 7 7.81a14.14 14.14 0 0 1-6-1.22M12.91 10.63A14.43 14.43 0 0 1 7 11.81a14.14 14.14 0 0 1-6-1.22" />
+    <path class="bqcls-4" d="M7 .4C3.35.4.4 1.31.4 2.4v10.16c0 1.13 3 2 6.6 2s6.6-.91 6.6-2V2.44C13.6 1.31 10.65.4 7 .4z" />
+    <path class="bqcls-5" d="M12.91 3.52a14.83 14.83 0 0 1-5.91 1 14.53 14.53 0 0 1-6-1" />
+    <path class="bqcls-6" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="bqcls-1" d="M4 14.79A20.86 20.86 0 0 0 7 15c3.87 0 7-1 7-2.15V8.48L12 5a.92.92 0 0 0-.8-.46H9.84A.92.92 0 0 0 9 5l-4 6.92L4 14v.79z" />
+    <path class="bqcls-7" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="bqcls-6" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="bqcls-8" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg id="dell" data-name="Layer 1" viewBox="-1 -1 50 50" width="50" height="50" x="120.89" y="71">
+    <defs>
+      <style>.brcls-1{fill:#0087cc}</style>
+    </defs>
+    <title>Dell</title>
+    <path class="brcls-1" d="M24 0A24 24 0 1 1 0 24 24 24 0 0 1 24 0m0 2.59a21.41 21.41 0 1 0 15.13 6.27A21.34 21.34 0 0 0 24 2.59" />
+    <path class="brcls-1" d="M38.71 26h3.59v3h-7.2V18.65h3.6zM27 25.39L21 30l-5.42-4.26A5.23 5.23 0 0 1 10.77 29H6.14V18.65h4.63a5.18 5.18 0 0 1 4.84 3.19L21 17.58l2 1.58-5 3.9 1 .75 5-3.9 2 1.58-5 3.9 1 .75 5-3.9v-3.59h3.6V26h3.59v3H27zm-14.36-1.58a2.07 2.07 0 0 0-2.24-2.2h-.8V26h.78a2.06 2.06 0 0 0 2.26-2.2" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="drag-and-drop-accept" x="18" y="215">
+    <title>accept_drag_drop</title>
+    <g data-name="Layer 2" fill="#318700">
+      <path d="M12.09 7.5H8.5V3.91a.5.5 0 0 0-1 0V7.5H3.91a.5.5 0 0 0 0 1H7.5v3.59a.5.5 0 0 0 1 0V8.5h3.59a.5.5 0 0 0 0-1z" />
+      <path d="M8 0a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm0 15a7 7 0 1 1 7-7 7 7 0 0 1-7 7z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="drag-and-drop-reject" x="36" y="215">
+    <title>reject_drag_drop</title>
+    <g data-name="Layer 2" fill="#e62700">
+      <path d="M11.24 10.53L8.71 8l2.53-2.53a.5.5 0 0 0-.71-.71L8 7.29 5.47 4.76a.5.5 0 0 0-.71.71L7.29 8l-2.53 2.53a.5.5 0 0 0 .71.71L8 8.71l2.53 2.53a.5.5 0 0 0 .71-.71z" />
+      <path d="M8 0a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm0 15a7 7 0 1 1 7-7 7 7 0 0 1-7 7z" />
+    </g>
+  </svg>
+  <svg id="dv-switch" viewBox="-1 -1 18 18" width="18" height="18" x="54" y="215">
+    <style>.bust0{fill:#ebf1f2}.bust1{fill:#ccdbe1}.bust2{fill:none;stroke:#fff;stroke-miterlimit:10}.bust3{fill:#799bb0}.bust4{fill:none;stroke:#245d80;stroke-miterlimit:10}</style>
+    <title>DV Switch</title>
+    <path class="bust0" d="M14.5 9.8L12.6 5c-.1-.3-.4-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 9.8h14z" />
+    <path class="bust1" d="M1 9.5h13c.3 0 .5.2.5.5v3c0 .3-.2.5-.5.5H1c-.3 0-.5-.2-.5-.5v-3c0-.3.2-.5.5-.5z" />
+    <path class="bust2" d="M14.5 10c0-.3-.2-.5-.5-.5H1c-.3 0-.5.2-.5.5" />
+    <path class="bust3" d="M2 10h1v2H2zM4 10h1v2H4zM6 10h1v2H6zM8 10h1v2H8zM10 10h1v2h-1zM12 10h1v2h-1z" />
+    <path class="bust4" d="M14.4 9.8L12.6 5c-.1-.3-.2-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 9.8V13c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5v-3c0-.1 0-.1-.1-.2z" />
+  </svg>
+  <svg id="dv-switch-alert" viewBox="-1 -1 18 18" width="18" height="18" x="72" y="215">
+    <style>.bvst0{fill:#ebf1f2}.bvst1{fill:#ccdbe1}.bvst2{fill:none;stroke:#fff;stroke-miterlimit:10}.bvst3{fill:#799bb0}.bvst4{fill:none;stroke:#245d80;stroke-miterlimit:10}.bvst5{fill:#fff}.bvst6{fill:#e52528}</style>
+    <title>DV Switch Alert</title>
+    <path class="bvst0" d="M14.5 7.8L12.6 3c-.1-.3-.4-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 7.8h14z" />
+    <path class="bvst1" d="M1 7.5h13c.3 0 .5.2.5.5v3c0 .3-.2.5-.5.5H1c-.3 0-.5-.2-.5-.5V8c0-.3.2-.5.5-.5z" />
+    <path class="bvst2" d="M14.5 8c0-.3-.2-.5-.5-.5H1c-.3 0-.5.2-.5.5" />
+    <path class="bvst3" d="M2 8h1v2H2zM4 8h1v2H4zM6 8h1v2H6zM8 8h1v2H8zM10 8h1v2h-1zM12 8h1v2h-1z" />
+    <path class="bvst4" d="M14.4 7.8L12.6 3c-.1-.3-.2-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 7.8V11c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5V8c0-.1 0-.1-.1-.2z" />
+    <path class="bvst5" d="M6 11.5v.5h8c.6 0 1-.4 1-1V8c0-.2-.1-.3-.2-.5l-.2-.5c-.9-.6-2-1-3.1-1C8.5 6 6 8.5 6 11.5z" />
+    <path class="bvst6" d="M11.5 7C14 7 16 9 16 11.5S14 16 11.5 16 7 14 7 11.5 9 7 11.5 7" />
+    <path class="bvst5" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="dv-switch-warning" viewBox="-1 -1 18 18" width="18" height="18" x="90" y="215">
+    <style>.bwst0{fill:#ebf1f2}.bwst1{fill:#ccdbe1}.bwst2{fill:none;stroke:#fff;stroke-miterlimit:10}.bwst3{fill:#799bb0}.bwst4{fill:none;stroke:#245d80;stroke-miterlimit:10}.bwst5{fill:#fff}.bwst6{fill:#987d2e}.bwst7{fill:#ffd111}.bwst8{fill:#221f1f}</style>
+    <title>DV Switch Warning</title>
+    <path class="bwst0" d="M14.5 7.8L12.6 3c-.1-.3-.4-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 7.8h14z" />
+    <path class="bwst1" d="M1 7.5h13c.3 0 .5.2.5.5v3c0 .3-.2.5-.5.5H1c-.3 0-.5-.2-.5-.5V8c0-.3.2-.5.5-.5z" />
+    <path class="bwst2" d="M14.5 8c0-.3-.2-.5-.5-.5H1c-.3 0-.5.2-.5.5" />
+    <path class="bwst3" d="M2 8h1v2H2zM4 8h1v2H4zM6 8h1v2H6zM8 8h1v2H8zM10 8h1v2h-1zM12 8h1v2h-1z" />
+    <path class="bwst4" d="M14.5 7.8c0-.1-1.9-4.8-1.9-4.8-.1-.3-.2-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.5 7.8V11c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5V8v-.2z" />
+    <path class="bwst5" d="M10.7 4.9c-1 0-2 .5-2.5 1.4L4.8 12H14c.6 0 1-.4 1-1V9.4l-1.8-3.1c-.6-.9-1.5-1.4-2.5-1.4z" />
+    <path class="bwst6" d="M16 13.2s0-.1 0 0l-3.7-6.4c-.3-.6-1-1-1.6-.9-.7 0-1.4.3-1.7.9l-3.7 6.3c-.5.9-.2 2.1.7 2.6.3.2.6.3 1 .3h7.3c.7 0 1.3-.4 1.7-1v-1.8z" />
+    <path class="bwst7" d="M11.4 7.3l3.7 6.3c.3.4.1 1-.3 1.3-.1.1-.3.1-.5.1H7c-.5 0-.9-.4-.9-.9 0-.2 0-.3.1-.5l3.6-6.3c.2-.4.8-.6 1.2-.3.2.1.3.2.4.3z" />
+    <path class="bwst8" d="M10 13h1v1h-1zM10 9h1v3h-1z" />
+  </svg>
+  <svg id="event-console" viewBox="-1 -1 18 18" width="18" height="18" x="108" y="215">
+    <style>.bxst0{fill:#37708d}.bxst1{fill:#fff}.bxst2{fill:#cbdae0}</style>
+    <title>Event Console</title>
+    <path class="bxst0" d="M0 1h14v11H0z" />
+    <path class="bxst1" d="M1 3h12v8H1z" />
+    <path class="bxst2" d="M2 4h3v1H2zM2 6h3v1H2zM2 8h3v1H2zM8 4h4v1H8zM8 6h4v1H8z" />
+    <path class="bxst0" d="M6 3h1v8H6z" />
+    <path class="bxst1" d="M15 12V7.3c-.8-.7-1.9-1.2-3-1.3h-1c-2.8.3-5 2.6-5 5.5v.5h9z" />
+    <path class="bxst0" d="M11.5 7C14 7 16 9 16 11.5S14 16 11.5 16 7 14 7 11.5 9 7 11.5 7" />
+    <path class="bxst1" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg width="18" height="18" viewBox="-1 -1 18 18" id="export-line_16x16" x="126" y="215">
+    <title>export-line</title>
+    <path d="M1.066 5.491h4.06V1.143h5.542v4.789h1.066V1.143C11.734.512 11.256 0 10.668 0H3.665L0 3.926v10.932C0 15.488.479 16 1.066 16h9.601c.589 0 1.065-.512 1.065-1.143H1.066V5.491zm0-1.096l3.035-3.252h.166V4.57H1.066v-.175z" />
+    <path d="M12.971 7.057a.51.51 0 0 0-.752.062.6.6 0 0 0 0 .742l1.733 1.852H7.467c-.294 0-.533.256-.533.572 0 .314.238.57.533.57h6.501l-1.749 1.875a.6.6 0 0 0-.059.806.508.508 0 0 0 .752.062c.021-.02.041-.039.059-.062L16 10.286l-3.029-3.229z" />
+    <path fill-opacity="0" d="M3.2 3.43h8.532v9.143H3.2z" />
+  </svg>
+  <svg id="filebrowser-copy" data-name="Layer 2" viewBox="-1 -1 18 18" width="18" height="18" x="144" y="215">
+    <defs>
+      <style>.bzcls-1{fill:#747474}</style>
+    </defs>
+    <title>storage icon work</title>
+    <path class="bzcls-1" d="M2.13 2h8v1h1V1h-10v12h2v-1h-1V2z" />
+    <path class="bzcls-1" d="M4.13 4v12h10V4zm9 11h-8V5h8z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="filebrowser-download" x="162" y="215">
+    <title>Artboard 19</title>
+    <g data-name="Layer 2" fill="#747474">
+      <path d="M8 13l5.35-5.35a.7.7 0 0 0-1-1L8.7 10.32V1.89a.7.7 0 0 0-1.4 0v8.43L3.64 6.66a.7.7 0 0 0-1 1zM14.09 13.84H1.91a.7.7 0 0 0 0 1.4h12.18a.7.7 0 0 0 0-1.4z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="filebrowser-move" x="180" y="215">
+    <title>Artboard 18</title>
+    <path d="M15.16 8L9.81 2.65a.7.7 0 1 0-1 1l3.67 3.65H1.54a.7.7 0 1 0 0 1.4h10.94l-3.66 3.66a.7.7 0 0 0 1 1z" fill="#747474" data-name="Layer 2" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="filebrowser-upload" x="198" y="215">
+    <title>Artboard 21</title>
+    <g data-name="Layer 2" fill="#747474">
+      <path d="M3.64 7.75L7.3 4.1v8.43a.7.7 0 0 0 1.4 0V4.1l3.66 3.66a.7.7 0 0 0 1-1L8 1.41 2.65 6.76a.7.7 0 0 0 1 1zM14.09 13.84H1.91a.7.7 0 0 0 0 1.4h12.18a.7.7 0 0 0 0-1.4z" />
+    </g>
+  </svg>
+  <svg id="folder" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="216" y="215">
+    <defs>
+      <style>.cdcls-1{fill:#fff}.cdcls-2{fill:#c8d6dd}.cdcls-3{fill:#d9e2e8}.cdcls-4{fill:#6b95ab}.cdcls-5{fill:none;stroke:#36708c;stroke-miterlimit:10}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="cdcls-1" d="M14.56 3.42h-7.5l-.93-.92H1.44a.93.93 0 0 0-.94.92V13.5h15V4.33a.93.93 0 0 0-.94-.91z" />
+    <path class="cdcls-2" d="M6 4l.82-.82-.69-.68H1.44a.93.93 0 0 0-.94.92V4H6z" />
+    <path class="cdcls-3" d="M0 10h16v4H0z" />
+    <path class="cdcls-4" d="M7 4L6 5H0V4h6l1-1v1z" />
+    <path class="cdcls-5" d="M14.56 3.42h-7.5l-.93-.92H1.44a.93.93 0 0 0-.94.92V13.5h15V4.33a.93.93 0 0 0-.94-.91z" />
+  </svg>
+  <svg id="folder-add" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7">
+    <defs>
+      <style>.cecls-1,.cecls-6{fill:#fff}.cecls-2{fill:#c8d6dd}.cecls-3{fill:#d9e2e8}.cecls-4{fill:#6b95ab}.cecls-5,.cecls-7{fill:none;stroke-miterlimit:10}.cecls-5{stroke:#36708c}.cecls-6{opacity:.6}.cecls-7{stroke:#004a70;stroke-width:2px}</style>
+    </defs>
+    <title>*icon artboards final</title>
+    <path class="cecls-1" d="M14.56 6.42H9l-.94-.92H3.37a.93.93 0 0 0-.94.92v9.08H15.5V7.33a.93.93 0 0 0-.94-.91z" />
+    <path class="cecls-2" d="M7.94 7l.82-.82-.7-.68H3.37a.93.93 0 0 0-.94.92V7h5.5z" />
+    <path class="cecls-3" d="M2.94 12H16v4H2.94z" />
+    <path class="cecls-4" d="M8.94 7l-1 1H2V7h6l.94-1v1z" />
+    <path class="cecls-5" d="M14.56 6.42H9l-.94-.92H3.37a.93.93 0 0 0-.94.92v9.08H15.5V7.33a.93.93 0 0 0-.94-.91z" />
+    <path class="cecls-6" d="M2 5h3v2H2z" />
+    <path class="cecls-7" d="M3 0v6M0 3h6" />
+  </svg>
+  <svg id="fujitsu" data-name="Layer 1" viewBox="-1 -1 100.66 50" width="100.66" height="50" y="121">
+    <defs>
+      <style>.cfcls-1{fill:#ed1c24}</style>
+    </defs>
+    <title>Fujitsu</title>
+    <path class="cfcls-1" d="M40.69 6.65a4.79 4.79 0 0 0-3.06-1 5 5 0 1 0 0 10 4.85 4.85 0 0 0 3.83-1.74v-2.8a6 6 0 0 1-2.38 2.32 3.71 3.71 0 0 1-1.45.31 3.11 3.11 0 0 1-3.16-3.12 3.15 3.15 0 0 1 3.16-3.14 3.19 3.19 0 0 1 2.22.92c.59.58 1.52 1.78 2 2.26a6.27 6.27 0 1 0-.35-8V6.4c.87-2.36 2.43-4.25 4.88-4.25a4.27 4.27 0 1 1-2.76 7.54c-.92-.72-1.94-2.24-2.89-3M0 17h13.71v3.8a2.66 2.66 0 0 0-2.19-1.51H5.18v6.59h6.88v3.49s-.22-1.11-1.88-1.12h-5v9a2.77 2.77 0 0 0 1.44 2.11H.09a2.57 2.57 0 0 0 1.37-2.11V19.33A3 3 0 0 0 0 17M34.46 17h7s-1.56.74-1.56 1.95v21c0 7.1-7.12 8.26-7.49 8.24.61-.39 3.56-2.91 3.57-8.24v-21C36 17.81 34.46 17 34.46 17M42.42 17h7s-1.55.75-1.55 2v18.27c0 1.31 1.55 2.13 1.55 2.13h-7S44 38.58 44 37.27V19c0-1.23-1.55-2-1.55-2M50.81 17h15.4l-1.31 4.06s-.39-1.71-1.87-1.71h-3.2v17.92c0 1.13 1.51 2.11 1.51 2.11h-6.86S56 38.5 56 37.27V19.35h-3.89c-1.09 0-2.66 2-2.66 2L50.81 17M91.92 17h6.74s-1.44.76-1.44 2v13.53c0 5.51-4.58 7.2-7.74 7.2s-8.08-1.73-8.07-7.2V19c0-1.21-1.49-2-1.49-2h6.94s-1.54.74-1.54 2v13.53c0 2.89 1.92 4.78 4.16 4.78s4-2 4-4.78V19c0-1.21-1.52-2-1.52-2M26.38 17h6.87s-1.46.8-1.46 2v13.52c0 5.53-4.78 7.27-8 7.27s-8.05-1.79-8.05-7.27V19c0-1.21-1.4-2-1.4-2h6.94s-1.61.79-1.61 2v13.52c0 2.86 1.91 4.84 4.15 4.85s4.05-2 4.05-4.85V19c0-1.21-1.48-2-1.48-2M77.86 20.58a4.25 4.25 0 0 0-3.78-1.71c-2.82 0-4.34 1.47-4.35 3.39 0 2.17 1.62 3 4.15 4.2s6 2.75 6 6.75c0 3.59-3.2 6.6-8.91 6.6a22.89 22.89 0 0 1-4.19-.58l-1.31-4.3A8.56 8.56 0 0 0 71 37.36c2.28 0 5-1.41 5-3.68 0-4.38-10.19-3.65-10.19-11 0-2.52 1.76-6.17 7.83-6.17a19.22 19.22 0 0 1 4.17.58v3.46" />
+  </svg>
+  <svg id="help-info" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="36">
+    <style>.st0{fill:#231f20}.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#575757}.st2{fill:#007cbb}.cgst3{fill:#747474}.st4,.st5{fill:none;stroke-miterlimit:10}.st4{stroke-linecap:round;stroke:#318700;stroke-width:1.4}.st5{stroke:#575757;stroke-width:1.3;stroke-linejoin:round}.st6{fill:#c92100}.st7{fill:#c72627}.st8{fill:#318700}.st9{fill:#fff}</style>
+    <path class="cgst3" d="M4.8 5.9s2.3-.4 3.7-.5c.9-.1 1.8.3 1.4 1.4-.4 1.1-2 6.2-2 6.2-.1.2-.1.5-.2.7 0 .1 0 .2.1.3.1.1.2.1.2.1.3 0 .6-.2.9-.4.7-.6 1.3-1.2 1.7-2l.9.4c-1.5 2.3-3.1 3.4-4.9 3.4-.5 0-1-.1-1.4-.4-.4-.3-.6-.8-.5-1.2 0-.3.1-.7.2-1 0 0 1.4-3.8 1.9-5.3.1-.4.2-1.1-.4-1.1-.6 0-1.2.1-1.7.2l.1-.8zM8.8.5c.5 0 1 .2 1.3.6.4.4.6.8.6 1.3s-.2 1-.6 1.3c-.7.7-1.9.7-2.7 0-.3-.3-.5-.8-.5-1.3s.2-1 .6-1.3c.3-.4.8-.6 1.3-.6" />
+  </svg>
+  <svg id="help-info-hover" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="54">
+    <style>.st0{fill:#231f20}.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#575757}.chst2{fill:#007cbb}.st3{fill:#747474}.st4,.st5{fill:none;stroke-miterlimit:10}.st4{stroke-linecap:round;stroke:#318700;stroke-width:1.4}.st5{stroke:#575757;stroke-width:1.3;stroke-linejoin:round}.st6{fill:#c92100}.st7{fill:#c72627}.st8{fill:#318700}.st9{fill:#fff}</style>
+    <path class="chst2" d="M4.8 5.9s2.3-.4 3.7-.5c.9-.1 1.8.3 1.4 1.4-.4 1.1-2 6.2-2 6.2-.1.2-.1.5-.2.7 0 .1 0 .2.1.3.1.1.2.1.2.1.3 0 .6-.2.9-.4.7-.6 1.3-1.2 1.7-2l.9.4c-1.5 2.3-3.1 3.4-4.9 3.4-.5 0-1-.1-1.4-.4-.4-.3-.6-.8-.5-1.2 0-.3.1-.7.2-1 0 0 1.4-3.8 1.9-5.3.1-.4.2-1.1-.4-1.1-.6 0-1.2.1-1.7.2l.1-.8zM8.8.5c.5 0 1 .2 1.3.6.4.4.6.8.6 1.3s-.2 1-.6 1.3c-.7.7-1.9.7-2.7 0-.3-.3-.5-.8-.5-1.3s.2-1 .6-1.3c.3-.4.8-.6 1.3-.6" />
+  </svg>
+  <svg id="host" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="72">
+    <defs>
+      <style>.cicls-1{fill:#356f8c}.cicls-2{fill:#fff}.cicls-3{fill:#789aaf}.cicls-4{fill:#cbd9e0}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="cicls-1" d="M12 0H2v15h10V0z" />
+    <path class="cicls-2" d="M3 1h8v13H3z" />
+    <path class="cicls-3" d="M4 2h6v1H4z" />
+    <path class="cicls-4" d="M4 7h6v7H4z" />
+  </svg>
+  <svg id="host-disconnected" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="90">
+    <defs>
+      <style>.cjcls-1{fill:#36708c}.cjcls-2{fill:#fff}.cjcls-3{fill:#799aae}.cjcls-4{fill:#cad8df}.cjcls-5{fill:#e52127}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="cjcls-1" d="M11 0H1v15h10V0z" />
+    <path class="cjcls-2" d="M2 1h8v13H2z" />
+    <path class="cjcls-3" d="M3 2h6v1H3z" />
+    <path class="cjcls-4" d="M3 7h6v7H3z" />
+    <path class="cjcls-2" d="M11 15V6a5.49 5.49 0 0 0-3.73 9H11z" />
+    <path class="cjcls-5" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="cjcls-2" d="M8 11h7v1H8z" />
+  </svg>
+  <svg id="host-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="108">
+    <defs>
+      <style>.ckcls-1{fill:#356f8c}.ckcls-2{fill:#fff}.ckcls-3{fill:#789aaf}.ckcls-4{fill:#cbd9e0}.ckcls-5{fill:#e81e25}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="ckcls-1" d="M12 0H2v15h10V0z" />
+    <path class="ckcls-2" d="M3 1h8v13H3z" />
+    <path class="ckcls-3" d="M4 2h6v1H4z" />
+    <path class="ckcls-4" d="M4 7h6v7H4z" />
+    <path class="ckcls-2" d="M12 6h-.5a5.5 5.5 0 0 0-4.24 9H12V6z" />
+    <path class="ckcls-5" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="ckcls-2" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="host-maintenance" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="126">
+    <defs>
+      <style>.clcls-1{fill:#36708c}.clcls-2{fill:#fff}.clcls-3{fill:#799aae}.clcls-4{fill:#cad8df}.clcls-5{fill:#ffdf24}.clcls-6{fill:#221f1f}.clcls-7{fill:#977d2e;opacity:.6}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="clcls-1" d="M12 0H2v15h10V0z" />
+    <path class="clcls-2" d="M3 1h8v13H3z" />
+    <path class="clcls-3" d="M4 2h6v1H4z" />
+    <path class="clcls-4" d="M4 7h6v7H4z" />
+    <path class="clcls-5" d="M3 4h8v5H3z" />
+    <path class="clcls-6" d="M11 4h-.25l-5 5h2L11 5.75V4zM6.25 4L3 7.25V9h.25l5-5h-2z" />
+    <path class="clcls-7" d="M3 8h8v1H3zM3 4h8v1H3z" />
+  </svg>
+  <svg id="host-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="144">
+    <defs>
+      <style>.cmcls-1{fill:#356f8c}.cmcls-2{fill:#fff}.cmcls-3{fill:#789aaf}.cmcls-4{fill:#cbd9e0}.cmcls-5{fill:#ffd00f}.cmcls-6{fill:#977d2e}.cmcls-7{fill:#221f1f}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="cmcls-1" d="M12 0H2v15h10V0z" />
+    <path class="cmcls-2" d="M3 1h8v13H3z" />
+    <path class="cmcls-3" d="M4 2h6v1H4z" />
+    <path class="cmcls-4" d="M4 7h6v7H4z" />
+    <path class="cmcls-5" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="cmcls-2" d="M12 15V4.53H9.84A.92.92 0 0 0 9 5l-5.06 8.84a.92.92 0 0 0-.12.46v.7H12z" />
+    <path class="cmcls-6" d="M15.59 16H5.28v-2.12L9.83 6h1.42l4.34 7.53V16z" />
+    <path class="cmcls-5" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="cmcls-7" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg width="179.7" height="71" viewBox="-1 -1 179.7 71" id="hp">
+    <g transform="translate(-126.617 -109.327)">
+      <path d="M126.617 109.327v15.861h55.218v-15.861h-55.218zm51.767 12.41h-48.316v-8.959h48.316v8.959z" fill="#00b388" />
+      <path d="M136.668 158.173v1.93h-7.843v4.849h7.132v1.878h-7.132v5.279h7.843v1.929h-10.051v-15.864h10.051zm5.455 15.864h-2.157v-11.676h2.03v2.184c.837-1.473 2.183-2.438 3.909-2.438 2.716 0 4.315 1.776 4.315 4.442v7.487h-2.158V166.6c0-1.547-.812-2.462-2.614-2.462-1.548 0-2.868 1.041-3.325 2.438v7.461zm16.928.254c-2.919 0-4.086-1.271-4.086-3.579v-6.446h-2.462v-1.904h2.462v-3.02h2.157v3.02h3.325v1.904h-3.325v6.244c0 1.396.787 1.775 2.133 1.775.354 0 .71-.049 1.015-.152h.177v1.904c-.33.126-.788.254-1.396.254zm9.49 0c-3.883 0-6.345-2.284-6.345-5.965 0-3.655 2.285-6.219 5.635-6.219 3.451 0 5.203 2.312 5.203 5.737v1.143h-8.604c.305 2.282 1.929 3.35 4.137 3.35 1.371 0 2.412-.229 3.427-.964h.228v1.853c-1.04.786-2.386 1.065-3.681 1.065zm-4.085-7.006h6.472c-.077-2.131-1.193-3.273-3.071-3.273-1.878 0-3.122 1.371-3.401 3.273zm18.018-2.716c-.305-.15-.762-.254-1.243-.254-1.372 0-2.463.967-2.919 2.538v7.184h-2.157v-11.676h2.03v2.514c.686-1.904 1.929-2.691 3.325-2.691.507 0 .964.077 1.142.178v2.208h-.178zm4.491 7.564v6.193h-2.157v-15.965h2.03v2.006c.686-1.194 2.03-2.26 3.832-2.26 3.528 0 5.381 2.792 5.381 5.965 0 3.249-1.854 6.091-5.381 6.091a4.384 4.384 0 0 1-3.705-2.03zm6.878-4.061c0-2.36-1.319-3.935-3.68-3.935-1.395 0-2.512.737-3.197 2.006v4.011c.686 1.243 1.802 2.005 3.197 2.005 2.36 0 3.68-1.625 3.68-4.087zm11.776-3.503c-.305-.15-.762-.254-1.244-.254-1.371 0-2.462.967-2.918 2.538v7.184H199.3v-11.676h2.03v2.514c.685-1.904 1.929-2.691 3.324-2.691.508 0 .965.077 1.143.178v2.208h-.178zm3.678-3.375c-.813 0-1.548-.686-1.548-1.523 0-.837.735-1.498 1.548-1.498.837 0 1.548.661 1.548 1.498 0 .838-.71 1.523-1.548 1.523zm1.066 12.843h-2.157v-11.676h2.157v11.676zm3.502-2.767h.204c.964.787 2.386 1.193 3.73 1.193 1.269 0 2.386-.481 2.386-1.521 0-1.041-.939-1.271-2.791-1.878-1.65-.56-3.504-1.144-3.504-3.352 0-2.31 1.878-3.604 4.291-3.604 1.37 0 2.589.279 3.603.965v1.98h-.228a5.421 5.421 0 0 0-3.351-1.117c-1.37 0-2.132.609-2.132 1.473 0 .964.812 1.219 2.716 1.801 1.699.56 3.579 1.219 3.579 3.427 0 2.412-1.981 3.655-4.543 3.655-1.549 0-3.097-.38-3.96-1.065v-1.957zm17.282 3.021c-3.883 0-6.345-2.284-6.345-5.965 0-3.655 2.284-6.219 5.635-6.219 3.453 0 5.204 2.312 5.204 5.737v1.143h-8.605c.305 2.282 1.929 3.35 4.139 3.35 1.369 0 2.41-.229 3.426-.964h.228v1.853c-1.042.786-2.387 1.065-3.682 1.065zm-4.085-7.006h6.473c-.076-2.131-1.193-3.273-3.071-3.273-1.879 0-3.123 1.371-3.402 3.273zm-87.12-31.742v15.863h-3.452v-6.574h-6.421v6.574h-3.451v-15.863h3.451v6.269h6.421v-6.269h3.452zm9.364 16.143c-4.366 0-6.701-2.361-6.701-6.168s2.436-6.32 5.964-6.32c3.807 0 5.711 2.386 5.711 5.965v1.344h-8.122c.253 1.956 1.802 2.462 3.324 2.462 1.372 0 2.437-.177 3.555-.784h.38v2.486c-1.015.735-2.639 1.015-4.111 1.015zm-3.173-7.361h4.747c-.102-1.777-.863-2.564-2.259-2.564-1.193 0-2.26.559-2.488 2.564zm12.206 7.081l-2.488-11.522v-.406h3.198l1.346 7.259.33 2.334.457-2.334 1.624-7.259h3.63l1.6 7.259.482 2.334.381-2.334 1.345-7.259h3.046v.406l-2.513 11.522h-4.417l-1.421-6.37-.406-2.386-.406 2.386-1.396 6.37h-4.392zm21.039.28c-2.538 0-3.807-1.167-3.807-3.884v-12.258h3.452v12.03c0 .838.355 1.117 1.167 1.117.254 0 .661-.076.914-.151h.051v2.867a6.351 6.351 0 0 1-1.777.279zm9.492 0c-4.366 0-6.701-2.361-6.701-6.168s2.437-6.32 5.965-6.32c3.808 0 5.71 2.386 5.71 5.965v1.344h-8.122c.254 1.956 1.802 2.462 3.325 2.462 1.37 0 2.437-.177 3.553-.784h.381v2.486c-1.016.735-2.64 1.015-4.111 1.015zm-3.174-7.361h4.746c-.101-1.777-.862-2.564-2.258-2.564-1.193 0-2.259.559-2.488 2.564zm19.846 2.741v-4.747h-5.051v4.594c0 1.219.406 1.776 1.549 1.776.33 0 .761-.102.989-.202h.331v2.842a6.465 6.465 0 0 1-2.158.355c-2.918 0-4.162-1.396-4.162-4.619v-4.747h-2.056v-2.842h2.056v-2.894h3.452v2.894h5.051v-2.894h3.452v2.894h2.868v2.842h-2.868v4.594c0 1.219.406 1.776 1.548 1.776.33 0 .762-.102.99-.202h.33v2.842a6.453 6.453 0 0 1-2.157.355c-2.919.003-4.164-1.394-4.164-4.617zm16.469-.559v4.899h-3.425v-15.863h6.167c3.503 0 5.812 1.929 5.812 5.507 0 3.527-2.31 5.456-5.812 5.456h-2.742zm2.464-8.045h-2.464v5.127h2.464c1.749 0 2.588-1.041 2.588-2.538-.001-1.549-.839-2.589-2.588-2.589zm14.87 11.168c-.71 1.32-2.005 1.904-3.604 1.904-2.208 0-4.036-1.271-4.036-3.631 0-2.359 1.599-3.73 4.62-3.73.989 0 1.979.101 2.919.279v-.686c0-1.269-.889-1.827-2.666-1.827-1.32 0-2.411.279-3.324.735h-.382v-2.589c.915-.481 2.539-.888 4.112-.888 3.732 0 5.661 1.701 5.661 4.645v7.563h-3.301v-1.775zm-.101-1.954v-1.523c-.585-.177-1.345-.228-1.956-.228-1.395 0-2.106.533-2.106 1.623 0 1.091.712 1.522 1.751 1.522 1.043 0 1.98-.506 2.311-1.394zm5.936-2.208c0-3.858 2.716-6.27 6.246-6.27 1.445 0 2.562.331 3.323.838v2.995h-.355c-.735-.558-1.547-.812-2.588-.812-1.702 0-3.071 1.192-3.071 3.249 0 2.03 1.369 3.197 3.071 3.197 1.041 0 1.853-.254 2.588-.812h.355v2.995c-.761.506-1.878.837-3.323.837-3.53.001-6.246-2.385-6.246-6.217zm15.684.151v5.787h-3.451v-15.863h3.451v9.035l.812-1.217 3.173-3.883h3.655v.406l-4.416 5 4.416 6.115v.407h-3.883l-2.945-4.366-.812-1.421zm16.089 4.011c-.71 1.32-2.005 1.904-3.604 1.904-2.208 0-4.036-1.271-4.036-3.631 0-2.359 1.599-3.73 4.62-3.73.989 0 1.979.101 2.919.279v-.686c0-1.269-.889-1.827-2.665-1.827-1.319 0-2.412.279-3.324.735h-.381v-2.589c.913-.481 2.537-.888 4.11-.888 3.732 0 5.661 1.701 5.661 4.645v7.563h-3.301v-1.775zm-.1-1.954v-1.523c-.585-.177-1.345-.228-1.954-.228-1.396 0-2.106.533-2.106 1.623 0 1.091.71 1.522 1.751 1.522s1.977-.506 2.309-1.394zm9.845-5.787c.636-1.777 1.98-2.539 3.35-2.539.459 0 .839.127.991.203v3.274h-.355a2.512 2.512 0 0 0-1.193-.28c-1.371 0-2.36.635-2.64 1.98v6.878H283.4v-11.929h3.299v2.413zm14.315 7.842c-.787 1.243-2.032 1.954-3.579 1.954-3.249 0-5.254-2.615-5.254-6.218 0-3.63 2.005-6.27 5.254-6.27 1.446 0 2.64.635 3.427 1.726v-5.38h3.451v15.863h-3.299v-1.675zm-.153-2.208v-4.163c-.635-.914-1.498-1.346-2.487-1.346-1.573 0-2.639 1.218-2.639 3.453 0 2.208 1.065 3.4 2.639 3.4.989.001 1.853-.43 2.487-1.344z"  fill="#ffffff"/>
+    </g>
+  </svg>
+  <svg id="ibm" data-name="Layer 1" viewBox="-1 -1 120.89 50" width="120.89" height="50" y="71">
+    <defs>
+      <style>.cocls-1{fill:none}.cocls-2{fill:#4c83c3}.cocls-3{clip-path:url(#coclip-path)}</style>
+      <clipPath id="coclip-path">
+        <path class="cocls-1" d="M0-.19h118.89v48H0z" />
+      </clipPath>
+    </defs>
+    <title>IBM</title>
+    <path class="cocls-2" d="M118.89 3.23H99.1l1.22-3.42h18.57v3.42zM66.13-.19h18.38l1.2 3.42H66.14V-.19zM51.54-.19a13.21 13.21 0 0 1 7.9 3.42h-33.3V-.19zM0-.19h23.14v3.42H0V-.19zM118.89 9.63H96.83L98 6.23h20.86v3.4zM87.98 9.63H66.13v-3.4h20.66l1.19 3.4zM62 6.23a8.82 8.82 0 0 1 1 3.4H26.14v-3.4zM0 6.23h23.14v3.4H0v-3.4zM94.57 16.05l1.22-3.42 16.56.01v3.4l-17.78.01zM89.05 12.63l1.2 3.42h-17.6v-3.42h16.4zM63.29 12.63A11.13 11.13 0 0 1 62.8 16H52.71v-3.37zM6.45 12.65h9.95v3.4H6.45v-3.4zM32.84 12.63h9.93v3.42h-9.93v-3.42zM82.42 19.73v2.59h-9.77v-3.4h18.63l1.16 3.17 1.12-3.17h18.78v3.4h-9.73v-2.59l-.9 2.59H83.32l-.9-2.58zM32.84 18.92h28.5a12.8 12.8 0 0 1-2.83 3.4H32.84v-3.4zM6.45 18.92h9.95v3.4H6.45v-3.4zM102.61 25.32h9.73v3.4h-9.73v-3.4zM82.42 25.32h-9.77v3.39h9.78v-3.39zM100.64 25.32s-1.14 3.39-1.19 3.39H85.6s-1.22-3.41-1.22-3.4zM32.84 25.32h25.62a16.76 16.76 0 0 1 3.05 3.4H32.84v-3.4zM16.4 28.72v-3.4H6.47v3.39zM102.61 31.73h9.73v3.39h-9.73v-3.39zM72.65 31.73h9.77v3.39h-9.77v-3.39zM97.18 35.14s1.2-3.42 1.22-3.41H86.62l1.21 3.4h9.36zM32.84 35.12v-3.4h10.07v3.4zM62.93 31.72a9.84 9.84 0 0 1 .63 3.41H52.89v-3.41zM6.47 31.72h9.92v3.4H6.47v-3.4zM102.61 37.99h16.28v3.4h-16.28v-3.4zM66.13 37.99h16.29v3.4H66.13v-3.4z" />
+    <g class="cocls-3">
+      <path class="cocls-2" d="M94.99 41.39h-4.97l-1.19-3.4h7.31l-1.15 3.4zM0 38v3.4h23.12v-3.39z" />
+    </g>
+    <path class="cocls-2" d="M63.14 38a7.3 7.3 0 0 1-1.29 3.4H26.14V38zM92.74 47.8h-.46l-1.16-3.4h2.81l-1.19 3.4zM102.61 44.4h16.28v3.41h-16.28V44.4zM26.14 47.8v-3.4h33.5A12.68 12.68 0 0 1 51 47.81H26.14" />
+    <g class="cocls-3">
+      <path class="cocls-2" d="M66.13 44.4h16.29v3.41H66.13V44.4zM23.12 44.41v3.39H0v-3.4z" />
+    </g>
+  </svg>
+  <svg id="info" viewBox="-1 -1 18 18" width="18" height="18" x="235.7" y="198">
+    <style>.st0{fill:#231f20}.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#575757}.cpst2{fill:#007cbb}.st3{fill:#747474}.st4,.st5{fill:none;stroke-miterlimit:10}.st4{stroke-linecap:round;stroke:#318700;stroke-width:1.4}.st5{stroke:#575757;stroke-width:1.3;stroke-linejoin:round}.st6{fill:#c92100}.st7{fill:#c72627}.st8{fill:#318700}.st9{fill:#fff}</style>
+    <path class="cpst2" d="M8 1.3a6.7 6.7 0 1 1 0 13.4A6.7 6.7 0 0 1 8 1.3M8 0C3.6 0 0 3.6 0 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8z" />
+    <path class="cpst2" d="M5.7 6.5s1.6-.3 2.5-.3c.8-.1 1.1.4.9 1-.2.5-1.1 3.4-1.4 4.4-.1.3 0 .4 0 .4s.1.1.2.1c.2 0 .4-.1.6-.3.5-.4.8-.8 1.1-1.3l.6.3c-1 1.5-2.1 2.3-3.3 2.3-.3 0-.7-.1-1-.3-.2-.2-.4-.5-.4-.8 0-.2 0-.5.1-.7 0 0 .9-2.3 1.2-3.4.3-.9 0-1-.2-1-.4 0-.7 0-1.1.1l.2-.5zM8.4 2.9c.3 0 .7.1.9.4.2.2.4.6.4.9 0 .3-.1.7-.4.9-.5.5-1.3.5-1.8 0-.2-.3-.4-.6-.4-1 0-.3.1-.7.4-.9.2-.2.6-.3.9-.3" />
+  </svg>
+  <svg id="memory-summary" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="52" y="171">
+    <defs>
+      <style>.cqcls-1,.cqcls-2{fill:#89b085}.cqcls-2{stroke:#54815b;stroke-miterlimit:10}.cqcls-3{fill:#fff}.cqcls-4{fill:#eee28d}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="cqcls-1" d="M24 10V4H0v6h1v2H0v7h10.94v-1H13v1h11v-7h-1v-2h1z" />
+    <path class="cqcls-2" d="M23.5 10V4.5H.5V10h.96v2H.5v6.5h10.48v-.93h1.98v.93H23.5V12h-.96v-2h.96z" />
+    <path class="cqcls-3" d="M4 7h4v7H4zM10 7h4v7h-4zM16 7h4v7h-4z" />
+    <path class="cqcls-4" d="M2 16h1v2H2zM4 16h1v2H4zM6 16h1v2H6zM8 16h1v2H8zM15 16h1v2h-1zM17 16h1v2h-1zM19 16h1v2h-1zM21 16h1v2h-1z" />
+  </svg>
+  <svg id="network" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="18" y="233">
+    <defs>
+      <style>.crcls-1{fill:#9ab6c5}.crcls-2{fill:#4f809b}.crcls-3{fill:#356f8c}.crcls-4{fill:#fff}.crcls-5{fill:#ccdae1}.crcls-6{fill:#6c96ac}.crcls-7{fill:#225d80}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="crcls-1" d="M5 11h2v5H5z" />
+    <path class="crcls-2" d="M5 11h2v2H5z" />
+    <path class="crcls-1" d="M0 14h12v2H0z" />
+    <path class="crcls-3" d="M0 15h12v1H0z" />
+    <circle class="crcls-4" cx="6" cy="6" r="5.7" />
+    <path class="crcls-5" d="M6 7a6.05 6.05 0 0 1-4.63-2.2A4.76 4.76 0 0 0 1.2 6a4.8 4.8 0 1 0 9.6 0 4.76 4.76 0 0 0-.17-1.2C10.12 5.87 8.23 7 6 7z" />
+    <path class="crcls-6" d="M3.38 6A7.87 7.87 0 0 1 .3 5.38L.45 5c5.23 2.21 9.64-2.35 9.68-2.39l.29.31A10.89 10.89 0 0 1 3.38 6zM3.19 11.11v-.41c6 0 8.2-5.83 8.07-6.09l.39.15a9.22 9.22 0 0 1-8.46 6.35z" />
+    <path class="crcls-6" d="M9.93 9.85a8.14 8.14 0 0 1-8.48-7.1l.39-.07c1.34 7.54 8.65 6.75 8.73 6.74v.4a6.73 6.73 0 0 1-.64.03z" />
+    <path class="crcls-6" d="M9.51 10.76l-.39-.08c1.61-7.49-5.46-9.52-5.53-9.54L3.7.75c.07.02 7.5 2.16 5.81 10.01z" />
+    <circle class="crcls-6" cx="8" cy="4" r="1" transform="rotate(-75.01 8 3.996)" />
+    <circle class="crcls-6" cx="3" cy="6" r="1" transform="rotate(-75.01 3.003 6)" />
+    <circle class="crcls-6" cx="7" cy="10" r="1" transform="rotate(-75.01 6.997 9.997)" />
+    <path class="crcls-7" d="M6 .6A5.4 5.4 0 1 1 .6 6 5.41 5.41 0 0 1 6 .6M6 0a6 6 0 1 0 6 6 6 6 0 0 0-6-6z" />
+  </svg>
+  <svg id="network-24x" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="78" y="171">
+    <defs>
+      <style>.cscls-1{fill:#fff}.cscls-2{fill:#c8d6dd}.cscls-3{fill:#799aae}.cscls-4,.cscls-5{fill:none;stroke-miterlimit:10}.cscls-4{stroke:#799aae}.cscls-5{stroke:#004a70;stroke-width:.8px}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="cscls-1" d="M12 2.5a7.42 7.42 0 1 0 7.42 7.42A7.42 7.42 0 0 0 12 2.5z" />
+    <path class="cscls-2" d="M17.12 4.56a8.41 8.41 0 0 1-10.74 10.2 7.41 7.41 0 1 0 10.74-10.2z" />
+    <path class="cscls-3" d="M11.2 19h2v3h-2z" />
+    <path class="cscls-3" d="M19.58 23H4.42A1.27 1.27 0 0 1 3 22a1.27 1.27 0 0 1 1.42-1h15.16A1.27 1.27 0 0 1 21 22a1.27 1.27 0 0 1-1.42 1z" />
+    <path class="cscls-4" d="M10.31 2.67a7.51 7.51 0 0 1 5.12 4.15c1.85 4.42-.79 9.26-.79 9.26" />
+    <path class="cscls-4" d="M5.84 7.28a4.92 4.92 0 0 0 2.64 3.52c5 2.72 10.09 2.74 9.68 1.76" />
+    <path class="cscls-4" d="M15.52 2.88A11.21 11.21 0 0 1 12 8.16a13.32 13.32 0 0 1-7 2.64" />
+    <circle class="cscls-3" cx="14.98" cy="5.86" r="1.42" transform="rotate(-15.06 14.966 5.865)" />
+    <circle class="cscls-3" cx="8.82" cy="10.46" r="1.42" transform="rotate(-15.06 8.819 10.441)" />
+    <circle class="cscls-3" cx="15.86" cy="12.9" r="1.42" transform="rotate(-12.51 15.851 12.91)" />
+    <path class="cscls-5" d="M12 2.5a7.42 7.42 0 1 0 7.42 7.42A7.42 7.42 0 0 0 12 2.5z" />
+  </svg>
+  <svg id="network-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="54" y="233">
+    <defs>
+      <style>.ctcls-1{fill:#9ab6c5}.ctcls-2{fill:#4f809b}.ctcls-3{fill:#356f8c}.ctcls-4{fill:#fff}.ctcls-5{fill:#ccdae1}.ctcls-6{fill:#6c96ac}.ctcls-7{fill:#225d80}.ctcls-8{fill:#e81e25}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="ctcls-1" d="M5 11h2v5H5z" />
+    <path class="ctcls-2" d="M5 11h2v2H5z" />
+    <path class="ctcls-1" d="M0 14h12v2H0z" />
+    <path class="ctcls-3" d="M0 15h12v1H0z" />
+    <circle class="ctcls-4" cx="6" cy="6" r="5.7" />
+    <path class="ctcls-5" d="M6 7a6.05 6.05 0 0 1-4.63-2.2A4.76 4.76 0 0 0 1.2 6a4.8 4.8 0 1 0 9.6 0 4.76 4.76 0 0 0-.17-1.2C10.12 5.87 8.23 7 6 7z" />
+    <path class="ctcls-6" d="M3.38 6A7.87 7.87 0 0 1 .3 5.38L.45 5c5.23 2.21 9.64-2.35 9.68-2.39l.29.31A10.89 10.89 0 0 1 3.38 6zM3.19 11.11v-.41c6 0 8.2-5.83 8.07-6.09l.39.15a9.22 9.22 0 0 1-8.46 6.35z" />
+    <path class="ctcls-6" d="M9.93 9.85a8.14 8.14 0 0 1-8.48-7.1l.39-.07c1.34 7.54 8.65 6.75 8.73 6.74v.4a6.73 6.73 0 0 1-.64.03z" />
+    <path class="ctcls-6" d="M9.51 10.76l-.39-.08c1.61-7.49-5.46-9.52-5.53-9.54L3.7.75c.07.02 7.5 2.16 5.81 10.01z" />
+    <circle class="ctcls-6" cx="8" cy="4" r="1" transform="rotate(-75.01 8 3.996)" />
+    <circle class="ctcls-6" cx="3" cy="6" r="1" transform="rotate(-75.01 3.003 6)" />
+    <circle class="ctcls-6" cx="7" cy="10" r="1" transform="rotate(-75.01 6.997 9.997)" />
+    <path class="ctcls-7" d="M6 .6A5.4 5.4 0 1 1 .6 6 5.41 5.41 0 0 1 6 .6M6 0a6 6 0 1 0 6 6 6 6 0 0 0-6-6z" />
+    <path class="ctcls-4" d="M12 6h-.5a5.5 5.5 0 0 0-3.16 10H12v-2H7v-2.09A6 6 0 0 0 12 6z" />
+    <path class="ctcls-8" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="ctcls-4" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="network-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="72" y="233">
+    <defs>
+      <style>.cucls-1{fill:#9ab6c5}.cucls-2{fill:#4f809b}.cucls-3{fill:#356f8c}.cucls-4{fill:#fff}.cucls-5{fill:#ccdae1}.cucls-6{fill:#6c96ac}.cucls-7{fill:#225d80}.cucls-8{fill:#ffd110}.cucls-9{fill:#997c00}.cucls-10{fill:#231f20}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="cucls-1" d="M5 11h2v5H5z" />
+    <path class="cucls-2" d="M5 11h2v2H5z" />
+    <path class="cucls-1" d="M0 14h12v2H0z" />
+    <path class="cucls-3" d="M0 15h12v1H0z" />
+    <circle class="cucls-4" cx="6" cy="6" r="5.7" />
+    <path class="cucls-5" d="M6 7a6.05 6.05 0 0 1-4.63-2.2A4.76 4.76 0 0 0 1.2 6a4.8 4.8 0 1 0 9.6 0 4.76 4.76 0 0 0-.17-1.2C10.12 5.87 8.23 7 6 7z" />
+    <path class="cucls-6" d="M3.38 6A7.87 7.87 0 0 1 .3 5.38L.45 5c5.23 2.21 9.64-2.35 9.68-2.39l.29.31A10.89 10.89 0 0 1 3.38 6zM3.19 11.11v-.41c6 0 8.2-5.83 8.07-6.09l.39.15a9.22 9.22 0 0 1-8.46 6.35z" />
+    <path class="cucls-6" d="M9.93 9.85a8.14 8.14 0 0 1-8.48-7.1l.39-.07c1.34 7.54 8.65 6.75 8.73 6.74v.4a6.73 6.73 0 0 1-.64.03z" />
+    <path class="cucls-6" d="M9.51 10.76l-.39-.08c1.61-7.49-5.46-9.52-5.53-9.54L3.7.75c.07.02 7.5 2.16 5.81 10.01z" />
+    <circle class="cucls-6" cx="8" cy="4" r="1" transform="rotate(-75.01 8 3.996)" />
+    <circle class="cucls-6" cx="3" cy="6" r="1" transform="rotate(-75.01 3.003 6)" />
+    <circle class="cucls-6" cx="7" cy="10" r="1" transform="rotate(-75.01 6.997 9.997)" />
+    <path class="cucls-7" d="M6 .6A5.4 5.4 0 1 1 .6 6 5.41 5.41 0 0 1 6 .6M6 0a6 6 0 1 0 6 6 6 6 0 0 0-6-6z" />
+    <path class="cucls-8" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="cucls-4" d="M3.81 14.3v1.32a.91.91 0 0 0 .09.38H12v-2H3.87a.92.92 0 0 0-.06.3zM11.08 4.53H9.84A.92.92 0 0 0 9 5l-4 6.92a6 6 0 0 0 6.87-6.85V5a.92.92 0 0 0-.79-.47z" />
+    <path class="cucls-9" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="cucls-8" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="cucls-10" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg id="ovf-deploy" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="90" y="233">
+    <defs>
+      <style>.cvcls-1{fill:#d9e2e8}.cvcls-2,.cvcls-5{fill:#fff}.cvcls-3{fill:#789bb0}.cvcls-4{fill:#508098}.cvcls-5{opacity:.6}.cvcls-6{fill:#004a70}</style>
+    </defs>
+    <title>*icon artboards final pg2</title>
+    <path class="cvcls-1" d="M9.51 15.56l-6.49-3.18V3.4l6.49 2.64v9.52z" />
+    <path class="cvcls-2" d="M9.51 6.04L3.02 3.4 9.51.75 16 3.4 9.51 6.04z" />
+    <path class="cvcls-3" d="M9.51 15.56L16 12.38V3.4L9.51 6.04v9.52z" />
+    <path class="cvcls-4" d="M9.51 1.83L15 4.07v7.68l-5.49 2.7L4 11.75V4.07l5.51-2.24m0-1.08L3 3.4v9l6.49 3.19L16 12.38v-9L9.51.75z" />
+    <path class="cvcls-5" d="M3.01 3.4V7H5V4h2V1.78L3.01 3.4z" />
+    <path class="cvcls-6" d="M6 2H4V0H2v2H0v2h2v2h2V4h2V2z" />
+  </svg>
+  <svg id="plugin" viewBox="-1 -1 18 18" width="18" height="18" x="108" y="233">
+    <style>.cwst0{fill:#36708c}.cwst1{fill:#d9e2e8}</style>
+    <title>ic_plugin</title>
+    <path class="cwst0" d="M8.5 0C7.1 0 6 1.1 6 2.5V3H3v4h-.5C1.1 7 0 8.1 0 9.5S1.1 12 2.5 12H3v3h13v-4h-1.5c-.8 0-1.5-.7-1.5-1.5S13.7 8 14.5 8H16V3h-5v-.5C11 1.1 9.9 0 8.5 0z" />
+    <path class="cwst1" d="M8.5 1c.8 0 1.5.7 1.5 1.5V4h5v3h-.5C13.1 7 12 8.1 12 9.5s1.1 2.5 2.5 2.5h.5v2H4v-3H2.5C1.7 11 1 10.3 1 9.5S1.7 8 2.5 8H4V4h3V2.5C7 1.7 7.7 1 8.5 1" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_blocked" x="126" y="233">
+    <title>port_blocked</title>
+    <g data-name="Layer 2">
+      <path fill="#e8e8e8" d="M.5 15.5V.5h11v3h3v9h-3v3H.5z" />
+      <path d="M11 1v3h3v8h-3v3H1V1h10m1-1H0v16h12v-3h3V3h-3V0z" fill="#6b6b6b" />
+      <path d="M6.83 8l2.75-2.79a.5.5 0 0 0 0-.7.5.5 0 0 0-.71 0L6.12 7.25l-2.59-2.6a.51.51 0 0 0-.71 0 .5.5 0 0 0 0 .71L5.42 8l-2.6 2.6a.48.48 0 0 0 0 .7.5.5 0 0 0 .35.15.51.51 0 0 0 .36-.15l2.59-2.63 2.75 2.74a.49.49 0 0 0 .35.15.51.51 0 0 0 .36-.15.51.51 0 0 0 0-.71z" fill="#515151" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_blocked_SRIOV" x="144" y="233">
+    <title>port_blocked_SRIOV</title>
+    <g data-name="Layer 2">
+      <path fill="#e8e8e8" d="M4.5 15.5v-3h-3v-9h3v-3h11v15h-11z" />
+      <path d="M15 1v14H5v-3H2V4h3V1h10m1-1H4v3H1v10h3v3h12V0z" fill="#6b6b6b" />
+      <path d="M9.17 8L6.42 5.21a.5.5 0 0 1 0-.7.5.5 0 0 1 .71 0l2.75 2.74 2.59-2.6a.5.5 0 0 1 .71.71L10.58 8l2.6 2.6a.5.5 0 0 1-.35.85.51.51 0 0 1-.36-.15L9.88 8.67l-2.75 2.74a.49.49 0 0 1-.35.15.51.51 0 0 1-.36-.15.51.51 0 0 1 0-.71z" fill="#515151" />
+      <path fill="#85c81a" d="M7.5 10.5h8v5h-8z" />
+      <path d="M15 11v4H8v-4h7m1-1H7v6h9v-6z" fill="#36708c" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_blue-grey" x="162" y="233">
+    <title>port_blue-grey</title>
+    <g data-name="Layer 2">
+      <path fill="#cbd9e0" d="M.5 15.5V.5h11v3h3v9h-3v3H.5z" />
+      <path d="M11 1v3h3v8h-3v3H1V1h10m1-1H0v16h12v-3h3V3h-3V0z" fill="#36708c" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_count" x="130" y="171">
+    <title>port_count</title>
+    <g data-name="Layer 2" fill="#36708c">
+      <path d="M7 3v3H4V3h3m1-1H3v5h5V2zM13 3v3h-3V3h3m1-1H9v5h5V2zM7 9v3H4V9h3m1-1H3v5h5V8zM13 9v3h-3V9h3m1-1H9v5h5V8z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_green" x="198" y="233">
+    <title>port_green</title>
+    <g data-name="Layer 2">
+      <path fill="#c7e59c" d="M.5 15.5V.5h11v3h3v9h-3v3H.5z" />
+      <path d="M11 1v3h3v8h-3v3H1V1h10m1-1H0v16h12v-3h3V3h-3V0z" fill="#60b515" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_green_SRIOV" x="216" y="233">
+    <title>port_green_SRIOV</title>
+    <g data-name="Layer 2">
+      <path fill="#cee8a0" d="M4.5 15.5v-3h-3v-9h3v-3h11v15h-11z" />
+      <path d="M15 1v14H5v-3H2V4h3V1h10m1-1H4v3H1v10h3v3h12V0z" fill="#60b515" />
+      <path fill="#aadb1e" d="M7.5 10.5h8v5h-8z" />
+      <path d="M15 11v4H8v-4h7m1-1H7v6h9v-6z" fill="#36708c" />
+      <path fill="#85c81a" d="M7.5 10.5h8v5h-8z" />
+      <path d="M15 11v4H8v-4h7m1-1H7v6h9v-6z" fill="#36708c" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_red_X" x="234" y="233">
+    <title>port_red_X</title>
+    <g data-name="Layer 2">
+      <path fill="#fff0ee" d="M.5 15.5V.5h11v3h3v9h-3v3H.5z" />
+      <path d="M11 1v3h3v8h-3v3H1V1h10m1-1H0v16h12v-3h3V3h-3V0z" fill="#e62700" />
+      <path d="M6.83 8l2.75-2.79a.5.5 0 0 0 0-.7.5.5 0 0 0-.71 0L6.12 7.25l-2.59-2.6a.51.51 0 0 0-.71 0 .5.5 0 0 0 0 .71L5.42 8l-2.6 2.6a.48.48 0 0 0 0 .7.5.5 0 0 0 .35.15.51.51 0 0 0 .36-.15l2.59-2.63 2.75 2.74a.49.49 0 0 0 .35.15.51.51 0 0 0 .36-.15.51.51 0 0 0 0-.71z" fill="#e62700" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="port_white" x="253.7">
+    <title>port_white</title>
+    <path d="M10 1v3h4v8h-4v3H1V1h9m1-1H0v16h11v-3h4V3h-4V0z" fill="#36708c" data-name="Layer 2" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="portgroup" x="253.7" y="18">
+    <title>portgroup</title>
+    <g data-name="Layer 2">
+      <circle cx="7.45" cy="4.14" r="3.42" fill="#fff" />
+      <path d="M5.86 7.14a3.28 3.28 0 0 0 1.59.42 3.42 3.42 0 0 0 3.42-3.42 3.28 3.28 0 0 0-.42-1.59z" fill="#ccdbe1" />
+      <rect x=".5" y="11.5" width="14" height="4" rx="1" ry="1" fill="#ccdbe1" />
+      <path d="M13.5 11.5h-12c-.5 0-1 .5-1 1.5h14c0-1-.45-1.5-1-1.5z" fill="#fff" />
+      <rect x=".5" y="11.5" width="14" height="4" rx="1" ry="1" fill="none" stroke="#245d80" stroke-miterlimit="10" />
+      <circle cx="7.45" cy="4.14" r="3.42" fill="none" stroke="#50809b" stroke-miterlimit="10" />
+      <path fill="#799bb0" d="M2 13h1v1H2zM4 13h1v1H4zM6 13h1v1H6zM8 13h1v1H8zM10 13h1v1h-1zM12 13h1v1h-1z" />
+      <path fill="none" stroke="#245d80" stroke-miterlimit="10" d="M7.46 7.06v2.5" />
+      <path fill="none" stroke="#245d80" stroke-linecap="round" stroke-miterlimit="10" d="M3.92 9.44h7.41" />
+      <circle cx="7.45" cy="4.14" r="3.42" fill="none" stroke="#50809b" stroke-miterlimit="10" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="powered-on" x="253.7" y="36">
+    <title>powered on</title>
+    <path d="M13.35 7.62l-9.62-5A.5.5 0 0 0 3 3v10.09a.49.49 0 0 0 .73.44l9.62-5a.49.49 0 0 0 0-.91z" fill="#259b04" data-name="Layer 2" />
+  </svg>
+  <svg id="precheck-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="54">
+    <defs>
+      <style>.dhcls-1{fill:#ed1c24}.dhcls-2{fill:#fff}</style>
+    </defs>
+    <title>Alert 16x</title>
+    <circle class="dhcls-1" cx="8" cy="8" r="8" />
+    <path class="dhcls-2" d="M7 3h2v6H7zM7 11h2v2H7z" />
+  </svg>
+  <svg id="precheck-ok" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="72">
+    <defs>
+      <style>.dicls-1{fill:#5dab46}.dicls-2{fill:#fff}</style>
+    </defs>
+    <title>OK 16x</title>
+    <circle class="dicls-1" cx="8" cy="8" r="8" />
+    <path class="dicls-2" d="M11.21 4.03L7.36 9.17 4.79 6.6 3.5 7.89l1.29 1.28 2.57 2.57 5.14-6.42v-.01l-1.29-1.28z" />
+  </svg>
+  <svg id="precheck-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="90">
+    <defs>
+      <style>.djcls-1{fill:#987d2e}.djcls-2{fill:#ffd111}.djcls-3{fill:#221f1f}</style>
+    </defs>
+    <title>Warning 16x</title>
+    <path class="djcls-1" d="M8 .55a2.37 2.37 0 0 0-2.1 1.26L.21 12.51A2.38 2.38 0 0 0 2.31 16h11.4a2.38 2.38 0 0 0 2.1-3.49L10.1 1.81A2.37 2.37 0 0 0 8 .55z" />
+    <path class="djcls-2" d="M9.22 2.28a1.38 1.38 0 0 0-2.43 0L1.09 13a1.38 1.38 0 0 0 1.21 2h11.4a1.38 1.38 0 0 0 1.22-2z" />
+    <path class="djcls-3" d="M7 11h2v2H7zM7 4h2v6H7z" />
+  </svg>
+  <svg id="remove" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="108">
+    <style>.dkst0{fill:none;stroke:#747474;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}</style>
+    <g id="dkLayer_1_1_">
+      <path class="dkst0" d="M2.6 2.4l11.1 11.2M2.6 13.6L13.7 2.4" />
+    </g>
+  </svg>
+  <svg id="rescan-hba" data-name="Layer 2" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="126">
+    <defs>
+      <style>.dlcls-1{fill:#747474}.dlcls-2{fill:#fff}</style>
+    </defs>
+    <title>storage icon work</title>
+    <path class="dlcls-1" d="M11 6.93V0H0v11h6.89A4.43 4.43 0 0 1 11 6.93z" />
+    <path class="dlcls-1" d="M15.71 14.72l-1.31-1.31a.67.67 0 0 0-.11-.07 3.59 3.59 0 1 0-.95 1 .66.66 0 0 0 .07.11l1.31 1.31a.7.7 0 0 0 1-1zm-4.4-.9a2.47 2.47 0 1 1 2.48-2.47 2.48 2.48 0 0 1-2.48 2.48z" />
+    <path class="dlcls-2" d="M5.12 8.44l-3-3 3-2.99 1.5 1.53h1.4l-2.9-2.94-4.4 4.4 4.4 4.4L7.96 7h-1.4L5.12 8.44z" />
+    <path class="dlcls-2" d="M6 5h3.06v1H6z" />
+  </svg>
+  <svg id="rescan-storage" data-name="Layer 2" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="144">
+    <defs>
+      <style>.dmcls-1{fill:#747474}</style>
+    </defs>
+    <title>storage icon work</title>
+    <path class="dmcls-1" d="M15.71 14.72l-1.31-1.31a.67.67 0 0 0-.11-.07 3.59 3.59 0 1 0-.95 1 .66.66 0 0 0 .07.11l1.31 1.31a.7.7 0 0 0 1-1zm-4.4-.9a2.47 2.47 0 1 1 2.48-2.47 2.48 2.48 0 0 1-2.48 2.48zM5.08 2.08h3.75V3H5.08zM5.08 4h3.75v.92H5.08z" />
+    <path class="dmcls-1" d="M3 0v13h4.18a4.43 4.43 0 0 1-.26-1H4V1h6v6.09a4.42 4.42 0 0 1 1-.19V0z" />
+    <path class="dmcls-1" d="M15.71 14.72l-1.31-1.31a.67.67 0 0 0-.11-.07 3.59 3.59 0 1 0-.95 1 .66.66 0 0 0 .07.11l1.31 1.31a.7.7 0 0 0 1-1zm-4.4-.9a2.47 2.47 0 1 1 2.48-2.47 2.48 2.48 0 0 1-2.48 2.48z" />
+  </svg>
+  <svg id="resource-pool" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="162">
+    <defs>
+      <style>.dncls-1{fill:#b1c8d4}.dncls-2{fill:#d9e2e8}.dncls-3,.dncls-4{fill:none;stroke:#36708c;stroke-miterlimit:10}.dncls-3{stroke-width:.6px}.dncls-4{stroke-width:.8px}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <circle class="dncls-1" cx="7" cy="8" r="6.7" />
+    <path class="dncls-2" d="M6.92 7.94l-4.61 4.81a6.69 6.69 0 0 0 11.3-4.81H6.92z" />
+    <path class="dncls-3" d="M13.61 7.6H6.92l-4.61 4.8" />
+    <circle class="dncls-4" cx="7" cy="8" r="6.7" />
+  </svg>
+  <svg id="roles-clone" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="180">
+    <style>.dost0{fill:#fff;stroke:#747474;stroke-linejoin:round}.dost1{fill:#747474}.dost2{fill:#fff;stroke:#747474;stroke-miterlimit:10}</style>
+    <title>CLONE ROLES</title>
+    <path class="dost0" d="M4.5 3.5h9c.6 0 1 .4 1 1v10c0 .6-.4 1-1 1h-9c-.6 0-1-.4-1-1v-10c0-.6.4-1 1-1z" />
+    <path class="dost0" d="M1.5 1.5h9c.6 0 1 .4 1 1v10c0 .6-.4 1-1 1h-9c-.6 0-1-.4-1-1v-10c0-.6.4-1 1-1z" />
+    <circle class="dost1" cx="6" cy="6.6" r="2.1" />
+    <path class="dost1" d="M6.7 9.7H5.6c-1.8 0-3.3 1.5-3.3 3.3H10c0-1.8-1.5-3.3-3.3-3.3z" />
+    <path class="dost2" d="M4.4.4h3v3h-3z" />
+  </svg>
+  <svg id="roles-clone~hover" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="198">
+    <defs>
+      <style>.dpcls-1{fill:#fff;stroke:#225d80;stroke-linejoin:round}.dpcls-2{fill:#789bb0}.dpcls-3{fill:#abcddd}.dpcls-4{fill:none;stroke:#789bb0;stroke-miterlimit:10}</style>
+    </defs>
+    <title>CLONE ROLES</title>
+    <rect class="dpcls-1" x="3.5" y="3.5" width="11" height="12" rx="1" ry="1" />
+    <rect class="dpcls-1" x=".5" y="1.5" width="11" height="12" rx="1" ry="1" />
+    <circle class="dpcls-2" cx="5.98" cy="6.56" r="2.1" />
+    <path class="dpcls-2" d="M6.7 9.7H5.6A3.31 3.31 0 0 0 2.3 13H10a3.31 3.31 0 0 0-3.3-3.3z" />
+    <path class="dpcls-3" d="M4.5 0h3v3h-3z" />
+    <path class="dpcls-4" d="M4.44 3V.38h3.03V3" />
+  </svg>
+  <svg id="rules-profile" viewBox="-1 -1 18 18" width="18" height="18" x="253.7" y="216">
+    <style>.dqst0{fill:#37728e}.dqst1{fill:#fff}.dqst2{fill:#35718e}.dqst3{fill:#cbdae0}.dqst4{fill:#799baf}.dqst5{fill:none;stroke:#799baf;stroke-miterlimit:10}</style>
+    <title>Artboard 67</title>
+    <path class="dqst0" d="M0 0h14v15H0z" />
+    <path class="dqst1" d="M1.1 1H13v13H1.1z" />
+    <path class="dqst2" d="M13 16H9c-1.8 0-3-.5-3-2v-2h1V8c-.1-1 .6-1.9 1.5-2H13c1-.1 1.9.5 2 1.5V14c.1 1-.5 1.9-1.5 2H13zm-6-3c0 1.4-.1 2.1 1 2h5c1 0 1 0 1-1V8c0-.8-.1-1-1-1H9c-.9 0-1 .2-1 1v5H7z" />
+    <path class="dqst1" d="M7 13c0 1.4.1 2 .6 2H13c.7 0 1 0 1-1V8c0-.8-.1-1-1-1H9c-.9 0-1 .2-1 1v5H7z" />
+    <path class="dqst3" d="M8 13H7c0 2 0 2 1 2v-2z" />
+    <path class="dqst4" d="M9 10h4v1H9zM9 12h4v1H9z" />
+    <path class="dqst2" d="M14 6H9v3h7V8c0-1.3-.2-2-2-2zm1 2h-5V7h4c.5-.1.9.3 1 .7V8z" />
+    <path class="dqst3" d="M15 8h-5V7h5v1z" />
+    <path class="dqst4" d="M8 4.1h4V5H8z" />
+    <path class="dqst5" d="M6.7 3.4L4 6.1 2.4 4.4M6.7 8.4L4 11.1 2.4 9.4" />
+  </svg>
+  <svg id="scsi-adapter" data-name="Layer 2" viewBox="-1 -1 18 18" width="18" height="18" y="251">
+    <defs>
+      <style>.drcls-1{fill:#508098}.drcls-2{fill:#cce5f1}</style>
+    </defs>
+    <title>storage icon work</title>
+    <path class="drcls-1" d="M14 12.83A1.17 1.17 0 0 1 12.83 14H1.17A1.17 1.17 0 0 1 0 12.83V1.17A1.17 1.17 0 0 1 1.17 0h11.66A1.17 1.17 0 0 1 14 1.17z" />
+    <path class="drcls-2" d="M9.2 9l-2.16 2.15-4.13-4.13 4.13-4.13 2.09 2.09h2.04L7.04.85.88 7.02l6.16 6.17L11.23 9H9.2z" />
+    <path class="drcls-2" d="M7.01 6.04H14v1.67H7.01z" />
+  </svg>
+  <svg id="scsi-adapter-warning" data-name="Layer 2" viewBox="-1 -1 18 18" width="18" height="18" x="18" y="251">
+    <defs>
+      <style>.dscls-1{fill:#508098}.dscls-2{fill:#fff}.dscls-3{fill:#cce5f1}.dscls-4{fill:#977d2e}.dscls-5{fill:#ffd00f}.dscls-6{fill:#221f1f}</style>
+    </defs>
+    <title>storage icon work</title>
+    <path class="dscls-1" d="M14 12.83A1.17 1.17 0 0 1 12.83 14H1.17A1.17 1.17 0 0 1 0 12.83V1.17A1.17 1.17 0 0 1 1.17 0h11.66A1.17 1.17 0 0 1 14 1.17z" />
+    <path class="dscls-2" d="M12.79 6a2.64 2.64 0 0 0-4.58 0l-3.97 7a2.62 2.62 0 0 0-.32 1h8.91A1.17 1.17 0 0 0 14 12.83V8.15z" />
+    <path class="dscls-3" d="M5.92 10l-3-3L7 2.89 9.13 5h.25a2.61 2.61 0 0 1 1.12-.27 2.58 2.58 0 0 1 .46.06L7 .85.88 7l4.3 4.3z" />
+    <path class="dscls-4" d="M15.9 13.47l-4-6.94a1.64 1.64 0 0 0-2.84 0l-4 6.94a1.64 1.64 0 0 0 1.42 2.45h8a1.64 1.64 0 0 0 1.42-2.45z" />
+    <path class="dscls-5" d="M10 7.05L6 14a.64.64 0 0 0 .55 1h8a.64.64 0 0 0 .55-1l-4-6.94a.64.64 0 0 0-1.1-.01z" />
+    <path class="dscls-6" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="snapshot" x="36" y="251">
+    <title>snapshot</title>
+    <g data-name="Layer 1">
+      <path fill="#789bb0" d="M3 0h8v8H3z" />
+      <path fill="#eaf0f2" d="M4 1h6v6H4z" />
+      <path fill="#789bb0" d="M0 5h8v8H0z" />
+      <path fill="#eaf0f2" d="M1 6h6v6H1z" />
+      <path d="M11 13V3.56a8.1 8.1 0 0 0-.87-.06 6.64 6.64 0 0 0-6.63 6.63A6.58 6.58 0 0 0 4.16 13z" fill="#fff" />
+      <path d="M10.13 15.77a5.64 5.64 0 1 1 5.64-5.64 5.64 5.64 0 0 1-5.64 5.64z" fill="#004a70" />
+      <path d="M10.13 5.5a4.64 4.64 0 1 0 4.64 4.63 4.64 4.64 0 0 0-4.64-4.63z" fill="#fff" />
+      <path d="M11.22 13.34a.41.41 0 0 1-.28-.11L8 10.32 11.31 7a.4.4 0 0 1 .57 0 .4.4 0 0 1 0 .56l-2.72 2.76 2.34 2.34a.4.4 0 0 1 0 .57.43.43 0 0 1-.28.11z" fill="#004a70" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="snapshot_here" x="54" y="251">
+    <title>snapshot_here</title>
+    <g data-name="Layer 1">
+      <path d="M8 16a49.93 49.93 0 0 0 2.73-4.23A38.84 38.84 0 0 0 13 7.61a5.34 5.34 0 0 0 .46-2.19 5.42 5.42 0 0 0-10.84 0A5.34 5.34 0 0 0 3 7.61a38.84 38.84 0 0 0 2.23 4.16A49.93 49.93 0 0 0 8 16z" fill="#225d80" />
+      <circle cx="8" cy="5.42" r="2.67" fill="#fff" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="snapshot_run" x="72" y="251">
+    <title>snapshot_run</title>
+    <g data-name="Layer 1">
+      <path fill="#789bb0" d="M3 0h8v8H3z" />
+      <path fill="#eaf0f2" d="M4 1h6v6H4z" />
+      <path fill="#789bb0" d="M0 5h8v8H0z" />
+      <path fill="#eaf0f2" d="M1 6h6v6H1z" />
+      <path d="M11 13V3.56a8.1 8.1 0 0 0-.87-.06 6.64 6.64 0 0 0-6.63 6.63A6.58 6.58 0 0 0 4.16 13z" fill="#fff" />
+      <path d="M10.13 15.77a5.64 5.64 0 1 1 5.64-5.64 5.64 5.64 0 0 1-5.64 5.64z" fill="#004a70" />
+      <path d="M10.13 5.5a4.64 4.64 0 1 0 4.64 4.63 4.64 4.64 0 0 0-4.64-4.63z" fill="#fff" />
+      <path d="M11.22 13.34a.41.41 0 0 1-.28-.11L8 10.32 11.31 7a.4.4 0 0 1 .57 0 .4.4 0 0 1 0 .56l-2.72 2.76 2.34 2.34a.4.4 0 0 1 0 .57.43.43 0 0 1-.28.11z" fill="#004a70" />
+      <path d="M15.75 10.43l-6.7-3.78A1.37 1.37 0 0 0 7 7.85v7a5.62 5.62 0 0 0 3.13 1 5.18 5.18 0 0 0 .8-.07l3.56-2a5.55 5.55 0 0 0 1.26-3.35z" fill="#fff" />
+      <path d="M15.41 12l-6.85 3.89a.38.38 0 0 1-.56-.32V7.85a.38.38 0 0 1 .56-.33l6.85 3.86a.38.38 0 0 1 0 .62z" fill="#60a644" fill-rule="evenodd" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="snapshot_suspend" x="90" y="251">
+    <title>snapshot_suspend</title>
+    <g data-name="Layer 1">
+      <path fill="#789bb0" d="M3 0h8v8H3z" />
+      <path fill="#eaf0f2" d="M4 1h6v6H4z" />
+      <path fill="#789bb0" d="M0 5h8v8H0z" />
+      <path fill="#eaf0f2" d="M1 6h6v6H1z" />
+      <path d="M11 13V3.56a8.1 8.1 0 0 0-.87-.06 6.64 6.64 0 0 0-6.63 6.63A6.58 6.58 0 0 0 4.16 13z" fill="#fff" />
+      <path d="M10.13 15.77a5.64 5.64 0 1 1 5.64-5.64 5.64 5.64 0 0 1-5.64 5.64z" fill="#004a70" />
+      <path d="M10.13 5.5a4.64 4.64 0 1 0 4.64 4.63 4.64 4.64 0 0 0-4.64-4.63z" fill="#fff" />
+      <path d="M11.22 13.34a.41.41 0 0 1-.28-.11L8 10.32 11.31 7a.4.4 0 0 1 .57 0 .4.4 0 0 1 0 .56l-2.72 2.76 2.34 2.34a.4.4 0 0 1 0 .57.43.43 0 0 1-.28.11z" fill="#004a70" />
+      <path fill="#34708d" d="M9.67 10h6v6h-6z" />
+      <path fill="#fff" d="M9.6 16H16V8H8v8h1.6z" />
+      <path fill="#9d812f" d="M16 9H9v7h7V9z" />
+      <path fill="#fceb0e" d="M15 10v5h-2v-5h2M12 10v5h-2v-5h2" />
+    </g>
+  </svg>
+  <svg id="status-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="108" y="251">
+    <defs>
+      <style>.dxcls-1{fill:#e62700;stroke:#ce1d00;stroke-miterlimit:10;stroke-width:.8px}.dxcls-2{fill:#ffebec}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <circle class="dxcls-1" cx="8" cy="7.9" r="6.2" />
+    <path class="dxcls-2" d="M7 4h2v5H7zM7 10h2v2H7z" />
+  </svg>
+  <svg id="status-ok" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="126" y="251">
+    <defs>
+      <style>.dycls-1{fill:#62a420}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="dycls-1" d="M5.27 12.67h-.05a.8.8 0 0 1-.59-.32l-3-4a.8.8 0 0 1 1.28-1l2.48 3.28 7.28-7.41a.8.8 0 0 1 1.14 1.12l-7.97 8.09a.8.8 0 0 1-.57.24z" />
+  </svg>
+  <svg id="status-unknown" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="144" y="251">
+    <defs>
+      <style>.dzcls-1{fill:#7ca2b4}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="dzcls-1" d="M6.21 12.8A1.22 1.22 0 1 1 7.45 14a1.23 1.23 0 0 1-1.24-1.2zM7.92 3.26a4.08 4.08 0 0 0-3.26 1.43l.7.91a2.8 2.8 0 0 1 2.45-1.19 1.56 1.56 0 0 1 1.86 1.42c0 1.65-2.78 1.86-2.75 3.83v.84h1.13v-.77C8 8.21 11 8 11 5.62c0-1.34-1.19-2.39-3.08-2.36z" />
+  </svg>
+  <svg id="status-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="162" y="251">
+    <defs>
+      <style>.eacls-1{fill:#e0b025}.eacls-2{fill:#fddc0d}.eacls-3{fill:#727272}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="eacls-1" d="M7.9.69a.9.9 0 0 0-.79.47l-7 12.42A.94.94 0 0 0 .91 15h14a.93.93 0 0 0 .77-1.4l-7-12.44A.9.9 0 0 0 7.9.69z" />
+    <path class="eacls-2" d="M7.9 1.49a.14.14 0 0 1 .1.08L15 14a.13.13 0 0 1 0 .13.12.12 0 0 1-.11.07h-14a.13.13 0 0 1-.12-.07.14.14 0 0 1 0-.14l7-12.42a.14.14 0 0 1 .13-.08" />
+    <path class="eacls-3" d="M7 5h2v5H7zM7 11h1.85a.15.15 0 0 1 .15.15V13H7v-2z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="storage-device-mount" x="180" y="251">
+    <defs>
+      <style>.ebb5a8feee-f345-4c26-b8c0-402857766d8e{fill:#747474}</style>
+    </defs>
+    <title>ic</title>
+    <g id="eb505461ae-13fb-46dc-9d93-ad5388e6f794" data-name="Layer 2">
+      <path class="ebb5a8feee-f345-4c26-b8c0-402857766d8e" d="M11.67 7.3A4.36 4.36 0 1 0 16 11.67a4.37 4.37 0 0 0-4.33-4.37zm0 7.13a2.76 2.76 0 1 1 2.76-2.76 2.77 2.77 0 0 1-2.76 2.76z" />
+      <path class="ebb5a8feee-f345-4c26-b8c0-402857766d8e" d="M1 12.94v-2.31a13.34 13.34 0 0 0 5.22 1 5.5 5.5 0 0 1 .1-1c-3.22-.1-5-.87-5.33-1.24V7.12A14.33 14.33 0 0 0 7 8.18h.56a5.53 5.53 0 0 1 1.26-1.09c-.56 0-1.15.09-1.82.09-3.65 0-5.69-.86-6-1.26V3.61a14.33 14.33 0 0 0 6 1.06 14.18 14.18 0 0 0 6-1.07v2.32a1.81 1.81 0 0 1-.61.39 5.45 5.45 0 0 1 1.61.45V2.18C14 1 10.87 0 7 0S0 1 0 2.18V13c0 1.21 3.13 2.18 7 2.18h.43a5.51 5.51 0 0 1-.63-1c-3.52-.02-5.49-.85-5.8-1.24zM1 2.26C1.31 1.86 3.35 1 7 1s5.69.86 6 1.26v.15c-.31.4-2.35 1.26-6 1.26s-5.69-.86-6-1.26z" />
+    </g>
+  </svg>
+  <svg id="storage-device-unmount" viewBox="-1 -1 18 18" width="18" height="18" x="198" y="251">
+    <style>.ecst0{fill:#747474}</style>
+    <title>new</title>
+    <g id="ec_x35_3c376db-e847-4cd6-be6c-8d88e8bca285">
+      <path class="ecst0" d="M6.1 14.2C3 14 1.3 13.3 1 12.9v-2.3c1.9.8 3.9 1.1 6 1.1h.9l.7-.7-.3-.3H7c-3.7 0-5.7-.9-6-1.3V7.1c1.6.7 3.4 1 5.1 1-.1-.3-.1-.7 0-1-3-.1-4.8-.8-5.1-1.2V3.6c1.9.8 3.9 1.1 6 1.1 2.1.1 4.1-.3 6-1.1v2.3c-.2.3-1.4.9-3.5 1.1l.9.9c.6-.1 1.2-.2 1.8-.4l.9-.9c.2-.2.6-.4.9-.5V2.2C14 1 10.9 0 7 0S0 1 0 2.2V13c0 1.1 2.8 2.1 6.4 2.2-.2-.3-.3-.7-.3-1zM1 2.3C1.3 1.9 3.3 1 7 1s5.7.9 6 1.3v.2c-.3.4-2.4 1.3-6 1.3s-5.7-1-6-1.4v-.1z" />
+      <path class="ecst0" d="M14.8 13.7L12.1 11l2.7-2.7c.3-.3.3-.8 0-1.1-.3-.3-.8-.3-1.1 0L11 9.9 8.4 7.2c-.4-.3-.9-.3-1.2 0-.3.3-.3.8 0 1.1L9.9 11l-2.7 2.7c-.3.3-.4.8-.1 1.1.3.3.8.4 1.1.1l.1-.1 2.7-2.7 2.7 2.7c.3.3.8.4 1.1.1.3-.3.4-.8 0-1.2.1 0 0 0 0 0z" />
+    </g>
+  </svg>
+  <svg id="storage-summary" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" x="104" y="171">
+    <defs>
+      <style>.edcls-1{fill:#dbecee}.edcls-2{fill:#9ab3b9}.edcls-3{fill:#fff}.edcls-4,.edcls-5,.edcls-6{fill:none;stroke-miterlimit:10}.edcls-4{stroke:#73908f}.edcls-5{stroke:#9ab3b9}.edcls-6{stroke:#728e8e}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="edcls-1" d="M20.5 4.87C19.9 3.48 16.33 2.4 12 2.4S4.1 3.48 3.5 4.87h-.1v15.26h.1c.6 1.4 4.17 2.47 8.5 2.47s7.9-1.08 8.5-2.47h.1V4.87h-.1z" />
+    <path class="edcls-2" d="M15.67 2.68v19.64c2.56-.41 4.42-1.22 4.84-2.2h.1V4.87h-.11c-.41-.97-2.28-1.79-4.83-2.19z" />
+    <ellipse class="edcls-3" cx="11.83" cy="5" rx="8.5" ry="2.58" />
+    <path class="edcls-4" d="M20.5 4.42c0 1.74-3.81 3.15-8.5 3.15S3.5 6.16 3.5 4.42" />
+    <path class="edcls-5" d="M20.5 9.22c0 1.74-3.81 3.15-8.5 3.15S3.5 11 3.5 9.22M20.5 14.22c0 1.74-3.81 3.15-8.5 3.15S3.5 16 3.5 14.22" />
+    <path class="edcls-6" d="M20.5 4.87C19.9 3.48 16.33 2.4 12 2.4S4.1 3.48 3.5 4.87h-.1v15.26h.1c.6 1.4 4.17 2.47 8.5 2.47s7.9-1.08 8.5-2.47h.1V4.87h-.1z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="storage-system-refresh" x="234" y="251">
+    <defs>
+      <style>.eeced7672c-4971-4510-bb5b-acc2aa12e336{fill:#747474}</style>
+    </defs>
+    <title>new</title>
+    <g id="eeff78562b-189a-4daf-aa96-e7473d8d784c" data-name="Layer 2">
+      <path class="eeced7672c-4971-4510-bb5b-acc2aa12e336" d="M1 12.94v-2.31a13.22 13.22 0 0 0 5.14 1v-.11a5.36 5.36 0 0 1 .08-.9C3.07 10.55 1.29 9.8 1 9.43V7.12a14.33 14.33 0 0 0 6 1.06h.34a5.44 5.44 0 0 1 1.14-1c-.46 0-.95.05-1.48.05-3.65 0-5.69-.86-6-1.26V3.61a14.33 14.33 0 0 0 6 1.06 14.18 14.18 0 0 0 6-1.07v2.32a1.63 1.63 0 0 1-.53.35 5.34 5.34 0 0 1 1.53.52V2.18C14 1 10.87 0 7 0S0 1 0 2.18V13c0 1.21 3.13 2.18 7 2.18h.55a5.41 5.41 0 0 1-.73-1c-3.53-.01-5.51-.85-5.82-1.24zM1 2.36v-.1C1.31 1.86 3.35 1 7 1s5.69.86 6 1.26v.15c-.31.4-2.35 1.26-6 1.26s-5.69-.86-6-1.26z" />
+      <path class="eeced7672c-4971-4510-bb5b-acc2aa12e336" d="M15.56 6.58L14.19 8a4.48 4.48 0 1 0 .62 6.69.8.8 0 0 0-1.16-1.1A2.9 2.9 0 1 1 13 9.1l-1.65 1.65a.23.23 0 0 0 .16.4h4.17a.23.23 0 0 0 .23-.23V6.75a.23.23 0 0 0-.35-.17z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="suspended" x="252" y="251">
+    <title>suspended</title>
+    <g data-name="Layer 2" fill="#ffb600">
+      <path d="M9.25 3H13v10H9.25zM3 3h3.75v10H3z" />
+    </g>
+  </svg>
+  <svg data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" id="synchronize" x="271.7">
+    <title>synchronize</title>
+    <path d="M15 7a.49.49 0 0 0-.56-.42.5.5 0 0 0-.43.56 5.46 5.46 0 0 1 .07.9A6 6 0 0 1 3.57 12h2.66a.5.5 0 0 0 0-1H2v4.25a.5.5 0 0 0 1 0v-2.37A7 7 0 0 0 15.1 8a7.17 7.17 0 0 0-.1-1zM2.09 9A6.77 6.77 0 0 1 2 8a6.06 6.06 0 0 1 6-6.07 6 6 0 0 1 4.5 2H9.75a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5H14V.71a.5.5 0 0 0-.5-.5.5.5 0 0 0-.5.5V3A7 7 0 0 0 1 8a6.52 6.52 0 0 0 .1 1.17.5.5 0 0 0 .49.42h.08A.49.49 0 0 0 2.09 9z" fill="#737373" />
+  </svg>
+  <svg id="task-console" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="18">
+    <defs>
+      <style>.ehcls-1{fill:#37708d}.ehcls-2{fill:#fff}.ehcls-3{fill:none;stroke:#799baf;stroke-miterlimit:10}.ehcls-4{fill:#cbdae0}</style>
+    </defs>
+    <title>Task Console</title>
+    <rect class="ehcls-1" x="1" y="2" width="12" height="14" rx="1.35" ry="1.35" />
+    <path class="ehcls-2" d="M2 3h10v12H2z" />
+    <path class="ehcls-3" d="M8 6L5 9 4 7M8 10l-3 3-1-2" />
+    <path class="ehcls-1" d="M3 2h8v3H3z" />
+    <circle class="ehcls-1" cx="7" cy="2" r="2" />
+    <circle class="ehcls-4" cx="7" cy="2" r="1" />
+    <path class="ehcls-4" d="M4 3h6v1H4z" />
+  </svg>
+  <svg id="toolbar-add" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="36">
+    <style>.eist0{fill:none;stroke:#747474;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}</style>
+    <g id="eiLayer_1_1_">
+      <path class="eist0" d="M8 1v14M1 8h14" />
+    </g>
+  </svg>
+  <svg id="toolbar-add-folder" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="54">
+    <style>.ejst0{fill:none;stroke:#747474;stroke-miterlimit:10}.ejst1{fill:#747474}.ejst2{fill:none;stroke:#747474;stroke-width:2;stroke-miterlimit:10}</style>
+    <g id="ejLayer_1_1_">
+      <path class="ejst0" d="M2.5 8v7.5h13V7.3c0-.5-.4-.9-.9-.9H9.1l-1-.9H5" />
+      <path class="ejst1" d="M8 7H2v1h6l1-1V6z" />
+      <path class="ejst2" d="M3 0v6M0 3h6" />
+    </g>
+  </svg>
+  <svg id="toolbar-add-vm" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="72">
+    <style>.ekst0,.ekst1{fill:none;stroke:#747474;stroke-miterlimit:10}.ekst1{stroke-width:2}</style>
+    <g id="ekLayer_1_1_">
+      <path class="ekst0" d="M2.5 7.5h8v8h-8zM12.5 4v5M7 2.5h5.5V4" />
+      <path class="ekst1" d="M3 0v6M0 3h6" />
+      <path class="ekst0" d="M10.5 13.5h-3V7.7M7 5.5h8.5v8H12" />
+    </g>
+  </svg>
+  <svg id="toolbar-add~hover" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="90">
+    <style>.elst0{fill:none;stroke:#007cbb;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}</style>
+    <g id="elLayer_1_1_">
+      <path class="elst0" d="M8 1v14M1 8h14" />
+    </g>
+  </svg>
+  <svg id="toolbar-edit" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="108">
+    <style>.emst0{fill:#747474}.emst1{fill:none;stroke:#747474;stroke-miterlimit:10}</style>
+    <g id="emLayer_1_1_">
+      <path class="emst0" d="M5.3 13.4l-1.4-1.5 9.7-9.6L15 3.7z" />
+      <path class="emst1" d="M12.2 1L1.7 11.5.5 15l.5.5 3.4-1.3L14.9 3.7z" />
+      <path class="emst0" d="M1.3 12.8L.5 15l.5.5 2.1-.9z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="toolbar-host-question" x="271.7" y="126">
+    <title>new hostq</title>
+    <g data-name="Layer 1">
+      <path d="M0 1v15h10V1zm9 14H1V2h8z" fill="#747474" />
+      <path fill="#747475" d="M8 7H2v8h1V8h4v7h1V7z" />
+      <path fill="#747474" d="M2 3h6v1H2zM12 6.87a15.86 15.86 0 0 1 .07-1.65A1.83 1.83 0 0 1 12.8 4c.19-.16.41-.31.63-.47.66-.46 1.09-.8 1.11-1.22a.9.9 0 0 0-.35-.61 1.72 1.72 0 0 0-1.12-.32 3.07 3.07 0 0 0-1.66.52L10.6.79A5.17 5.17 0 0 1 13.11 0a3.09 3.09 0 0 1 2 .65 2.16 2.16 0 0 1 .82 1.73 3.13 3.13 0 0 1-1.69 2.27c-.19.13-.38.26-.55.4-.34.28-.28 1.41-.28 1.82zM12.03 8h1.43v1.43h-1.43z" />
+    </g>
+  </svg>
+  <svg id="toolbar-more" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="144">
+    <style>.eost0{fill:#747474}</style>
+    <g id="eoLayer_1_1_">
+      <circle class="eost0" cx="2.1" cy="8.2" r="1.8" />
+      <circle class="eost0" cx="8.1" cy="8.2" r="1.8" />
+      <circle class="eost0" cx="14.1" cy="8.2" r="1.8" />
+    </g>
+  </svg>
+  <svg id="toolbar-network-add" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="162">
+    <style>.epst0{stroke-linecap:round}.epst0,.epst1,.epst2{fill:none;stroke:#747474;stroke-width:2;stroke-miterlimit:10}.epst2{stroke-width:1.2}</style>
+    <g id="epLayer_1_1_">
+      <path class="epst0" d="M4 15h11" />
+      <path class="epst1" d="M10 12.9v1.5" />
+      <path class="epst2" d="M7.1 2.2c.8-.5 1.8-.7 2.8-.7 3 0 5.5 2.4 5.5 5.5s-2.4 5.5-5.5 5.5S4.4 10 4.4 6.9" />
+      <path class="epst1" d="M3 0v6M0 3h6" />
+    </g>
+  </svg>
+  <svg id="toolbar-remove" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="180">
+    <style>.eqst0{fill:none;stroke:#747474;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10}</style>
+    <g id="eqLayer_1_1_">
+      <path class="eqst0" d="M2.6 2.4l11.1 11.2M2.6 13.6L13.7 2.4" />
+    </g>
+  </svg>
+  <svg id="toolbar-roles" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="198">
+    <style>.erst0,.erst1{fill:none;stroke:#747474;stroke-miterlimit:10}.erst1{stroke-linejoin:round}.erst2{fill:#747474}</style>
+    <g id="erLayer_1_1_">
+      <path class="erst0" d="M6.5.5h3v4h-3z" />
+      <path class="erst1" d="M9 2.5h3.5c.6 0 1 .4 1 1v11c0 .6-.4 1-1 1h-9c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1H6" />
+      <circle class="erst2" cx="8.1" cy="8" r="2" />
+      <path class="erst2" d="M8.7 11H7.5c-1.9 0-3.4 1.3-3.4 3h8c0-1.7-1.5-3-3.4-3z" />
+    </g>
+  </svg>
+  <svg id="uplink-port-group" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="216">
+    <defs>
+      <style>.escls-1{fill:#ebf1f2}.escls-2{fill:#ccdbe1}.escls-3,.escls-5{fill:none}.escls-3{stroke:#fff}.escls-3,.escls-5,.escls-7{stroke-miterlimit:10}.escls-4{fill:#799bb0}.escls-5{stroke:#245d80}.escls-6{fill:#fff}.escls-7{fill:#cbdae0;stroke:#37708d}.escls-8{fill:#37708d}</style>
+    </defs>
+    <title>Uplink Port Group</title>
+    <path class="escls-1" d="M14.46 11.79L12.64 7a.69.69 0 0 0-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8z" />
+    <rect class="escls-2" x=".5" y="11.49" width="14" height="4.04" rx=".5" ry=".5" />
+    <path class="escls-3" d="M14.5 12a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5" />
+    <path class="escls-4" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="escls-5" d="M14.45 11.79L12.64 7c-.15-.28-.22-.5-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8a.5.5 0 0 0 0 .2v3a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-3a.49.49 0 0 0-.05-.21z" />
+    <path class="escls-6" d="M9 8V6H3v3h5v1h6.28l-.65-2H9z" />
+    <path class="escls-7" d="M4.5 1.5v6h5v1.04h6V1.5h-11z" />
+    <path class="escls-8" d="M11 3h3v3h-3zM6 3h2v2H6zM9 4h1v1H9zM6 6h1v1H6zM8 6h1v1H8z" />
+    <path class="escls-1" d="M10 7h5v1h-5z" />
+  </svg>
+  <svg id="uplink-port-group-alert" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="271.7" y="234">
+    <defs>
+      <style>.etcls-1{fill:#ebf1f2}.etcls-2{fill:#ccdbe1}.etcls-3,.etcls-5{fill:none}.etcls-3{stroke:#fff}.etcls-3,.etcls-5,.etcls-6{stroke-miterlimit:10}.etcls-4{fill:#799bb0}.etcls-5{stroke:#245d80}.etcls-6{fill:#cbdae0;stroke:#37708d}.etcls-7{fill:#37708d}.etcls-8{fill:#fff}.etcls-9{fill:#e52528}</style>
+    </defs>
+    <title>Uplink Port Group Alert</title>
+    <path class="etcls-1" d="M14.46 11.79L12.64 7a.69.69 0 0 0-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8z" />
+    <rect class="etcls-2" x=".5" y="11.49" width="14" height="4.04" rx=".5" ry=".5" />
+    <path class="etcls-3" d="M14.5 12a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5" />
+    <path class="etcls-4" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="etcls-5" d="M14.45 11.79L12.64 7c-.15-.28-.22-.5-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8a.5.5 0 0 0 0 .2v3a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-3a.49.49 0 0 0-.05-.21z" />
+    <path class="etcls-3" d="M14.12 10.92L12.64 7c-.15-.28-.22-.5-.76-.5H3.13" />
+    <path class="etcls-6" d="M4.5 1.5v6h5v1.04h6V1.5h-11z" />
+    <path class="etcls-7" d="M11 3h3v3h-3zM6 3h2v2H6zM9 4h1v1H9zM6 6h1v1H6zM8 6h1v1H8z" />
+    <path class="etcls-1" d="M10 7h5v1h-5z" />
+    <path class="etcls-8" d="M8.34 16h6.31A5.55 5.55 0 0 0 16 14.66V8.34A5.5 5.5 0 1 0 8.34 16z" />
+    <path class="etcls-9" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="etcls-8" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="uplink-port-group-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" y="269">
+    <defs>
+      <style>.eucls-1{fill:#ebf1f2}.eucls-2{fill:#ccdbe1}.eucls-3,.eucls-5{fill:none}.eucls-3{stroke:#fff}.eucls-3,.eucls-5,.eucls-6{stroke-miterlimit:10}.eucls-4{fill:#799bb0}.eucls-5{stroke:#245d80}.eucls-6{fill:#cbdae0;stroke:#37728e}.eucls-7{fill:#50809b}.eucls-8{fill:#fff}.eucls-9{fill:#987e2e}.eucls-10{fill:#ffd111}.eucls-11{fill:#221f1f}</style>
+    </defs>
+    <title>Uplink Port Group Warning</title>
+    <path class="eucls-1" d="M14.46 11.79L12.64 7a.69.69 0 0 0-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8z" />
+    <rect class="eucls-2" x=".5" y="11.49" width="14" height="4.04" rx=".5" ry=".5" />
+    <path class="eucls-3" d="M14.5 12a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5" />
+    <path class="eucls-4" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="eucls-5" d="M14.45 11.79L12.64 7c-.15-.28-.22-.5-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8a.5.5 0 0 0 0 .2v3a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-3a.49.49 0 0 0-.05-.21z" />
+    <path class="eucls-3" d="M14.12 10.92L12.64 7c-.15-.28-.22-.5-.76-.5H3.13" />
+    <path class="eucls-6" d="M4.5 1.5v6h5v1.04h6V1.5h-11z" />
+    <path class="eucls-7" d="M11 3h3v3h-3zM6 3h2v2H6zM9 4h1v1H9zM6 6h1v1H6zM8 6h1v1H8z" />
+    <path class="eucls-1" d="M10 7h5v1h-5z" />
+    <g id="euBEST">
+      <path class="eucls-8" d="M15.88 11.2l-2.8-4.9a2.85 2.85 0 0 0-2.5-1.4 2.85 2.85 0 0 0-2.5 1.4l-3.7 6.3a3 3 0 0 0 0 2.9 1.76 1.76 0 0 0 .4.5h11.1z" />
+      <path class="eucls-9" d="M15.88 13.2l-3.7-6.4a1.62 1.62 0 0 0-1.6-.9 1.85 1.85 0 0 0-1.7.9l-3.7 6.3a1.93 1.93 0 0 0 .7 2.6 1.69 1.69 0 0 0 1 .3h7.3a2.06 2.06 0 0 0 1.7-1v-1.8z" />
+      <path class="eucls-10" d="M11.27 7.3L15 13.6a1 1 0 0 1-.3 1.3.75.75 0 0 1-.5.1H6.88a1 1 0 0 1-.8-1.4l3.6-6.3a.84.84 0 0 1 1.2-.3 1.38 1.38 0 0 1 .39.3z" />
+      <path class="eucls-11" d="M9.88 13h1v1h-1zM9.88 9h1v3h-1z" />
+    </g>
+  </svg>
+  <svg id="vapp" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="18" y="269">
+    <defs>
+      <style>.evcls-1{fill:#fff}.evcls-2{fill:#9ab6c5}.evcls-3{fill:none;stroke:#36708c;stroke-miterlimit:10}.evcls-4{fill:#b1c8d4}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="evcls-1" d="M8 8h6v6H8zM0 8h6v6H0zM0 0h6v6H0zM8 0h6v6H8z" />
+    <path class="evcls-2" d="M3 3h8v8H3z" />
+    <path class="evcls-3" d="M.5.5h5v5h-5zM8.5.5h5v5h-5z" />
+    <path class="evcls-4" d="M9 3h2v2H9zM9 9h2v2H9zM3 9h2v2H3zM3 3h2v2H3z" />
+    <path class="evcls-3" d="M8.5 8.5h5v5h-5zM.5 8.5h5v5h-5z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-add" x="36" y="269">
+    <title>AddvApp</title>
+    <g data-name="Layer 1">
+      <path fill="#9ab6c5" d="M6.56 4v2.63H4V12h8V4H6.56z" />
+      <path fill="#fff" d="M1 1h6v6H1zM9 1h6v6H9z" />
+      <path d="M15 7H9V1h6zm-5-1h4V2h-4z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M10 4h2v2h-2z" />
+      <path fill="#fff" d="M1 9h6v6H1z" />
+      <path fill="#b1c8d4" d="M4 10h2v2H4z" />
+      <path d="M7 15H1V9h6zm-5-1h4v-4H2z" fill="#36708c" />
+      <path fill="#fff" d="M9 9h6v6H9z" />
+      <path fill="#b1c8d4" d="M10 10h2v2h-2z" />
+      <path d="M9 9h6v6H9zm5 1h-4v4h4z" fill="#36708c" />
+      <path fill="#bad1db" d="M2 6V2h4v2h1V1H1v6h3V6H2z" />
+      <path fill="#004a70" d="M6 2H4V0H2v2H0v2h2v2h2V4h2V2z" />
+      <path fill="none" d="M2 2v4h2V4h2V2H2z" />
+      <path fill="#b1c8d4" d="M4 4h2v2H4z" />
+      <path fill="#578da3" d="M7 4H6v2H4v1h3V4z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-edit" x="54" y="269">
+    <title>EditvApp</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 0h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M6 6H0V0h6zM1 5h4V1H1zM14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM3 3h2v2H3z" />
+      <path fill="#fff" d="M0 8h6v6H0z" />
+      <path fill="#b1c8d4" d="M3 9h2v2H3z" />
+      <path d="M6 14H0V8h6zm-5-1h4V9H1z" fill="#36708c" />
+      <path fill="#fff" d="M8 8h6v6H8z" />
+      <path fill="#b1c8d4" d="M9 9h2v2H9z" />
+      <path d="M8 8h6v6H8zm5 1H9v4h4z" fill="#36708c" />
+      <path d="M10.65 14L14 10.75V4.57h-.08a1.53 1.53 0 0 0-1.06.43l-7.65 7.48L4.74 14z" fill="#fff" />
+      <path fill="#004a70" fill-rule="evenodd" d="M11.82 7.41l-5.73 5.61-.87 2.81 2.93-.81 5.71-5.53-2.04-2.08zM14.47 8.91l1.14-1.11a.5.5 0 0 0 0-.71l-1.34-1.38a.5.5 0 0 0-.71 0l-1.13 1.11z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-managed" x="72" y="269">
+    <title>vAppMananged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 8h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM3 9h2v2H3z" />
+      <path fill="none" stroke="#36708c" stroke-miterlimit="10" d="M.5 8.5h5v5h-5z" />
+      <path fill="#fff" d="M8 8h6v6H8z" />
+      <path fill="#b1c8d4" d="M8.9 8.94H11V11H8.9z" />
+      <path d="M8 8h6v6H8zm5 1H9v4h4z" fill="#36708c" />
+      <path fill="#fff" d="M3 3h4v3.84H3z" />
+      <path fill="#34708d" d="M2.03 0h3v3h-3zM0 3.83h3v3H0zM4 3.83h3v3H4z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-running" x="90" y="269">
+    <title>vAppRunning</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 8h6v6H0zM0 0h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M6 6H0V0h6zM1 5h4V1H1zM14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM3 9h2v2H3zM3 3h2v2H3z" />
+      <path d="M6 14H0V8h6zm-5-1h4V9H1z" fill="#36708c" />
+      <path d="M11 11V7.42l-1.95-1.1A1.37 1.37 0 0 0 7 7.51V11z" fill="#fff" />
+      <path d="M15.41 11.7l-6.85 3.86a.38.38 0 0 1-.56-.32V7.51a.38.38 0 0 1 .56-.32l6.85 3.86a.38.38 0 0 1 0 .65z" fill="#60a644" fill-rule="evenodd" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-running-managed" x="108" y="269">
+    <title>vAppRunningManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 8h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM3 9h2v2H3z" />
+      <path d="M6 14H0V8h6zm-5-1h4V9H1z" fill="#36708c" />
+      <path d="M11 11V7.42l-1.95-1.1A1.37 1.37 0 0 0 7 7.51V11z" fill="#fff" />
+      <path d="M15.41 11.7l-6.85 3.86a.38.38 0 0 1-.56-.32V7.51a.38.38 0 0 1 .56-.32l6.85 3.86a.38.38 0 0 1 0 .65z" fill="#60a644" fill-rule="evenodd" />
+      <path fill="#fff" d="M3 3h4v3.84H3z" />
+      <path fill="#34708d" d="M2.03 0h3v3h-3zM0 3.83h3v3H0zM4 3.83h3v3H4z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-suspended" x="126" y="269">
+    <title>vAppSuspended</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 8h6v6H0zM0 0h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M6 6H0V0h6zM1 5h4V1H1zM14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM9 9h2v2H9zM3 9h2v2H3zM3 3h2v2H3z" />
+      <path d="M6 14H0V8h6zm-5-1h4V9H1z" fill="#36708c" />
+      <path fill="#fff" d="M8 8h3v3H8z" />
+      <path fill="#9d812f" d="M16 9H9v7h7V9z" />
+      <path fill="#fceb0e" d="M15 10v5h-2v-5h2M12 10v5h-2v-5h2" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vapp-suspended-managed" x="144" y="269">
+    <title>vAppSuspendedManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M0 8h6v6H0zM8 0h6v6H8z" />
+      <path fill="#9ab6c5" d="M3 3h8v8H3z" />
+      <path d="M14 6H8V0h6zM9 5h4V1H9z" fill="#36708c" />
+      <path fill="#b1c8d4" d="M9 3h2v2H9zM9 9h2v2H9zM3 9h2v2H3z" />
+      <path fill="none" stroke="#36708c" stroke-miterlimit="10" d="M.5 8.5h5v5h-5z" />
+      <path fill="#fff" d="M8 8h3v3H8z" />
+      <path fill="#9d812f" d="M16 9H9v7h7V9z" />
+      <path fill="#fceb0e" d="M15 10v5h-2v-5h2M12 10v5h-2v-5h2" />
+      <path fill="#fff" d="M3 3h4v3.84H3z" />
+      <path fill="#34708d" d="M2.03 0h3v3h-3zM0 3.83h3v3H0zM4 3.83h3v3H4z" />
+    </g>
+  </svg>
+  <svg id="vcenter" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="162" y="269">
+    <defs>
+      <style>.fdcls-1{fill:#60b515}.fdcls-2{fill:#ffbb24}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="fdcls-1" d="M13 3v7H9v4H2V7h4V3h7m1-2H5a1 1 0 0 0-1 1v3H1a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-3h3a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1z" />
+    <path class="fdcls-2" d="M8 5h3v3H8zM4 9h3v3H4z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="view_properties" x="180" y="269">
+    <title>view_properties</title>
+    <g data-name="Layer 2" fill="#2b5a6d">
+      <circle cx="1.78" cy="8.33" r="1.78" />
+      <circle cx="8" cy="8.33" r="1.78" />
+      <circle cx="14.22" cy="8.33" r="1.78" />
+    </g>
+  </svg>
+  <svg id="virtual-port-group" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="198" y="269">
+    <defs>
+      <style>.ffcls-1{fill:#fff}.ffcls-2{fill:#ebf1f2}.ffcls-3{fill:#ccdbe1}.ffcls-4,.ffcls-6,.ffcls-7,.ffcls-9{fill:none;stroke-miterlimit:10}.ffcls-4{stroke:#fff}.ffcls-5{fill:#799bb0}.ffcls-6,.ffcls-7{stroke:#245d80}.ffcls-7{stroke-linecap:round}.ffcls-8{fill:#b1c8d4}.ffcls-9{stroke:#50809b}</style>
+    </defs>
+    <title>Virtual Port Group</title>
+    <circle class="ffcls-1" cx="7.45" cy="4.14" r="3.42" />
+    <path class="ffcls-2" d="M14.46 11.79L12.64 7a.69.69 0 0 0-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8z" />
+    <rect class="ffcls-3" x=".5" y="11.49" width="14" height="4.04" rx=".5" ry=".5" />
+    <path class="ffcls-4" d="M14.5 12a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5" />
+    <path class="ffcls-5" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="ffcls-6" d="M14.45 11.79L12.64 7c-.15-.28-.22-.5-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8a.5.5 0 0 0 0 .2v3a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-3a.49.49 0 0 0-.05-.21z" />
+    <path class="ffcls-1" d="M3.27 5.92a4.55 4.55 0 0 0 8.37 0z" />
+    <path class="ffcls-6" d="M7.46 7.06v2.5" />
+    <path class="ffcls-7" d="M3.92 9.44h7.41" />
+    <path class="ffcls-8" d="M9.32 1.28a5.08 5.08 0 0 1 .05.53 5.18 5.18 0 0 1-4 5 3.41 3.41 0 1 0 3.95-5.53z" />
+    <circle class="ffcls-9" cx="7.45" cy="4.14" r="3.42" />
+  </svg>
+  <svg id="virtual-port-group-alert" viewBox="-1 -1 18 18" width="18" height="18" x="216" y="269">
+    <style>.fgst0{fill:#ebf1f2}.fgst1{fill:#ccdbe1}.fgst2{fill:none;stroke:#fff;stroke-miterlimit:10}.fgst3{fill:#799bb0}.fgst4{fill:none;stroke:#245d80;stroke-miterlimit:10}.fgst5{fill:#fff}.fgst6{fill:none;stroke:#245d80;stroke-linecap:round;stroke-miterlimit:10}.fgst7{fill:#b1c8d4}.fgst8{fill:none;stroke:#50809b;stroke-miterlimit:10}.fgst9{fill:#e52528}</style>
+    <title>Virtual Port Group Alert</title>
+    <path class="fgst0" d="M14.5 11.8L12.6 7c-.1-.3-.4-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.6 11.8h13.9z" />
+    <path class="fgst1" d="M1 11.5h13c.3 0 .5.2.5.5v3c0 .3-.2.5-.5.5H1c-.3 0-.5-.2-.5-.5v-3c0-.3.2-.5.5-.5z" />
+    <path class="fgst2" d="M14.5 12c0-.3-.2-.5-.5-.5H1c-.3 0-.5.2-.5.5" />
+    <path class="fgst3" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="fgst4" d="M14.4 11.8L12.6 7c-.1-.3-.2-.5-.8-.5H3.1c-.5 0-.6.2-.7.5L.6 11.8V15c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5v-3l-.2-.2z" />
+    <path class="fgst5" d="M3.3 5.9c1 2.3 3.7 3.4 6 2.4 1.1-.5 1.9-1.3 2.4-2.4H3.3z" />
+    <circle class="fgst5" cx="7.4" cy="4.1" r="3.4" />
+    <path class="fgst4" d="M7.5 7.1v2.5" />
+    <path class="fgst6" d="M3.9 9.4h7.4" />
+    <path class="fgst7" d="M9.3 1.3c0 .2 0 .4.1.5 0 2.4-1.7 4.5-4 5C6.8 8 9 7.9 10.2 6.4s1-3.6-.4-4.8c-.2-.1-.3-.2-.5-.3z" />
+    <circle class="fgst8" cx="7.4" cy="4.1" r="3.4" />
+    <path class="fgst5" d="M6 11.5c0 1.9.9 3.5 2.3 4.5H14c.6 0 1-.4 1-1v-3c0-.1 0-.3-.1-.4l-1.8-4.8-.1-.1c-.1-.3-.3-.5-.7-.6-.2-.1-.5-.1-.8-.1C8.5 6 6 8.5 6 11.5z" />
+    <path class="fgst9" d="M11.5 7C14 7 16 9 16 11.5S14 16 11.5 16 7 14 7 11.5 9 7 11.5 7" />
+    <path class="fgst5" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="virtual-port-group-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="234" y="269">
+    <defs>
+      <style>.fhcls-1{fill:#ebf1f2}.fhcls-2{fill:#ccdbe1}.fhcls-3,.fhcls-5,.fhcls-7,.fhcls-9{fill:none;stroke-miterlimit:10}.fhcls-3{stroke:#fff}.fhcls-4{fill:#799bb0}.fhcls-5,.fhcls-7{stroke:#245d80}.fhcls-6{fill:#fff}.fhcls-7{stroke-linecap:round}.fhcls-8{fill:#b1c8d4}.fhcls-9{stroke:#50809b}.fhcls-10{fill:#987e2e}.fhcls-11{fill:#ffd111}.fhcls-12{fill:#221f1f}</style>
+    </defs>
+    <title>Virtual Port Group Warning</title>
+    <path class="fhcls-1" d="M14.46 11.79L12.64 7a.69.69 0 0 0-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8z" />
+    <rect class="fhcls-2" x=".5" y="11.49" width="14" height="4.04" rx=".5" ry=".5" />
+    <path class="fhcls-3" d="M14.5 12a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5" />
+    <path class="fhcls-4" d="M2 12h1v2H2zM4 12h1v2H4zM6 12h1v2H6zM8 12h1v2H8zM10 12h1v2h-1zM12 12h1v2h-1z" />
+    <path class="fhcls-5" d="M14.45 11.79L12.64 7c-.15-.28-.22-.5-.76-.5H3.13c-.54 0-.61.23-.76.51L.54 11.8a.5.5 0 0 0 0 .2v3a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-3a.49.49 0 0 0-.05-.21z" />
+    <path class="fhcls-6" d="M3.27 5.92a4.55 4.55 0 0 0 8.37 0z" />
+    <circle class="fhcls-6" cx="7.45" cy="4.14" r="3.42" />
+    <path class="fhcls-5" d="M7.46 7.06v2.5" />
+    <path class="fhcls-7" d="M3.92 9.44h7.41" />
+    <path class="fhcls-8" d="M9.32 1.28a5.08 5.08 0 0 1 .05.53 5.18 5.18 0 0 1-4 5 3.41 3.41 0 1 0 3.95-5.53z" />
+    <circle class="fhcls-9" cx="7.45" cy="4.14" r="3.42" />
+    <g id="fhBEST">
+      <path class="fhcls-6" d="M15.88 11.2l-2.8-4.9a2.85 2.85 0 0 0-2.5-1.4 2.85 2.85 0 0 0-2.5 1.4l-3.7 6.3a3 3 0 0 0 0 2.9 1.76 1.76 0 0 0 .4.5h11.1z" />
+      <path class="fhcls-10" d="M15.88 13.2l-3.7-6.4a1.62 1.62 0 0 0-1.6-.9 1.85 1.85 0 0 0-1.7.9l-3.7 6.3a1.93 1.93 0 0 0 .7 2.6 1.69 1.69 0 0 0 1 .3h7.3a2.06 2.06 0 0 0 1.7-1v-1.8z" />
+      <path class="fhcls-11" d="M11.27 7.3L15 13.6a1 1 0 0 1-.3 1.3.75.75 0 0 1-.5.1H6.88a1 1 0 0 1-.8-1.4l3.6-6.3a.84.84 0 0 1 1.2-.3 1.38 1.38 0 0 1 .39.3z" />
+      <path class="fhcls-12" d="M9.88 13h1v1h-1zM9.88 9h1v3h-1z" />
+    </g>
+  </svg>
+  <svg id="vm" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="252" y="269">
+    <defs>
+      <style>.ficls-1{fill:#356f8c}.ficls-2{fill:#fff}.ficls-3{fill:#1b5c7e}.ficls-4{fill:#cbd9e0}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="ficls-1" d="M11 0H2v9h9V0z" />
+    <path class="ficls-2" d="M10 1v7H3V1h7" />
+    <path class="ficls-3" d="M14 4H5v9h9V4z" />
+    <path class="ficls-1" d="M14 4H5v9h9V4z" />
+    <path class="ficls-2" d="M13 5v7H6V5h7" />
+    <path class="ficls-3" d="M9 6H0v9h9V6z" />
+    <path class="ficls-1" d="M9 6H0v9h9V6z" />
+    <path class="ficls-2" d="M8 7v7H1V7h7" />
+    <path class="ficls-4" d="M10 5h1v3h-1zM6 12V7H5v6h2v-1H6z" />
+  </svg>
+  <svg id="vm-add" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="270" y="269">
+    <defs>
+      <style>.fjcls-1{fill:#356f8c}.fjcls-2,.fjcls-5{fill:#fff}.fjcls-3{fill:#1b5c7e}.fjcls-4{fill:#cbd9e0}.fjcls-5{opacity:.6}.fjcls-6{fill:none;stroke:#004a70;stroke-miterlimit:10;stroke-width:2px}</style>
+    </defs>
+    <title>*icon artboards final</title>
+    <path class="fjcls-1" d="M13 1H4v9h9V1z" />
+    <path class="fjcls-2" d="M12 2v7H5V2h7" />
+    <path class="fjcls-3" d="M16 5H7v9h9V5z" />
+    <path class="fjcls-1" d="M16 5H7v9h9V5z" />
+    <path class="fjcls-2" d="M15 6v7H8V6h7" />
+    <path class="fjcls-3" d="M11 7H2v9h9V7z" />
+    <path class="fjcls-1" d="M11 7H2v9h9V7z" />
+    <path class="fjcls-2" d="M10 8v7H3V8h7" />
+    <path class="fjcls-4" d="M12 6h1v3h-1zM8 13V8H7v6h2v-1H8z" />
+    <path class="fjcls-5" d="M7 1H4v6h1V5h2V1z" />
+    <path class="fjcls-6" d="M3 0v6M0 3h6" />
+  </svg>
+  <svg id="vm-add-from-template" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7">
+    <defs>
+      <style>.fkcls-1{fill:#356f8c}.fkcls-2{fill:#d9e3e9}.fkcls-3{fill:#9ab6c5}.fkcls-4,.fkcls-5{fill:#fff}.fkcls-5{fill-opacity:.7}.fkcls-6{fill:#004a70;fill-rule:evenodd}</style>
+    </defs>
+    <title>vm_from_template_add</title>
+    <path class="fkcls-1" d="M4 1h12v15H4z" />
+    <path class="fkcls-2" d="M5 2h10v13H5z" />
+    <path class="fkcls-3" d="M7 4h6v1H7zM7 6h6v1H7zM7 8h6v1H7zM7 10h6v1H7z" />
+    <path class="fkcls-1" d="M2 6h6v6H2z" />
+    <path class="fkcls-4" d="M3 7h4v4H3z" />
+    <path class="fkcls-1" d="M5 8h6v6H5z" />
+    <path class="fkcls-4" d="M6 9h4v4H6z" />
+    <path class="fkcls-1" d="M1 10h6v6H1z" />
+    <path class="fkcls-4" d="M2 11h4v4H2z" />
+    <path class="fkcls-5" d="M4 1h2v3H4z" />
+    <path class="fkcls-6" d="M0 2v1h2v2h1V3h2V2H3V0H2v2H0z" />
+  </svg>
+  <svg id="vm-error" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="18">
+    <defs>
+      <style>.flcls-1{fill:#356f8c}.flcls-2{fill:#fff}.flcls-3{fill:#1b5c7e}.flcls-4{fill:#cbd9e0}.flcls-5{fill:#e81e25}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="flcls-1" d="M11 0H2v9h9V0z" />
+    <path class="flcls-2" d="M10 1v7H3V1h7" />
+    <path class="flcls-3" d="M14 4H5v9h9V4z" />
+    <path class="flcls-1" d="M14 4H5v9h9V4z" />
+    <path class="flcls-2" d="M13 5v7H6V5h7" />
+    <path class="flcls-3" d="M9 6H0v9h9V6z" />
+    <path class="flcls-1" d="M9 6H0v9h9V6z" />
+    <path class="flcls-2" d="M8 7v7H1V7h7" />
+    <path class="flcls-4" d="M10 5h1v3h-1zM6 12V7H5v6h2v-1H6z" />
+    <path class="flcls-2" d="M14 6.61A5.5 5.5 0 0 0 7.26 15H9v-2h5V6.61z" />
+    <path class="flcls-5" d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" />
+    <path class="flcls-2" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+  </svg>
+  <svg id="vm-information" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="36">
+    <defs>
+      <style>.fmcls-1,.fmcls-2{fill:none}.fmcls-1{clip-rule:evenodd}.fmcls-3{fill:#fff}.fmcls-4{fill:#38718e}.fmcls-5{fill:#cbdae0}.cls-6{clip-path:url(#fmclip-path)}.cls-7{clip-path:url(#fmclip-path-2)}.cls-8{clip-path:url(#fmclip-path-3)}.fmcls-9{fill:#f89421;stroke:#e8782d;stroke-miterlimit:10}</style>
+      <clipPath id="fmclip-path">
+        <path class="fmcls-1" d="M-62.19-160.22a5.49 5.49 0 0 0 2.34 4.5h6.33a5.52 5.52 0 0 0 1.34-1.34v-6.33a5.49 5.49 0 0 0-4.5-2.34 5.5 5.5 0 0 0-5.51 5.51z" />
+      </clipPath>
+      <clipPath id="fmclip-path-2">
+        <path class="fmcls-2" d="M23 48.89h2v2h-2z" />
+      </clipPath>
+      <clipPath id="fmclip-path-3">
+        <path class="fmcls-2" d="M29 48.89h2v2h-2z" />
+      </clipPath>
+    </defs>
+    <title>VM Information</title>
+    <path class="fmcls-3" d="M2 0h9v9H2z" />
+    <path class="fmcls-3" d="M0 5h9v9H0z" />
+    <path class="fmcls-3" d="M5 3h9v9H5z" />
+    <path class="fmcls-4" d="M9 14H0V5h9zm-8-1h7V6H1zM6 5V4h4V3H5v2h1z" />
+    <path class="fmcls-4" d="M10 4h1V0H2v5.5h1V1h7v3z" />
+    <path class="fmcls-5" d="M10 4v4H9v1h2V4h-1zM6 6H5v2H3V6H2v3h3v3h2.8v-1H6V9h2V8H6V6z" />
+    <path class="fmcls-4" d="M11 3v1h2.2v7H9v1h5V3h-3z" />
+    <path class="fmcls-3" d="M7.7 14H14V5.21H9.37a4.11 4.11 0 0 0-4.3 3.87v.82c0 1.85.67 3.74 2.63 4.1z" />
+    <path class="fmcls-3" d="M9.56 10.53h1.36v2.87H9.56zM9.47 8.1h1.56v1.22H9.47z" />
+    <path class="fmcls-9" d="M12.16 6.42H9.88a3.42 3.42 0 0 0-3.4 3.4v.44a3.42 3.42 0 0 0 3.41 3.41h.39l3 1.58v-1.78a3.41 3.41 0 0 0 2.29-3.2v-.45a3.42 3.42 0 0 0-3.41-3.4z" />
+    <path class="fmcls-3" d="M10.13 10.03h1.36v2.87h-1.36zM10.03 7.6h1.56v1.22h-1.56z" />
+  </svg>
+  <svg id="vm-on" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="54">
+    <defs>
+      <style>.fncls-1{fill:#356f8c}.fncls-2{fill:#fff}.fncls-3{fill:#1b5c7e}.fncls-4{fill:#cbd9e0}.fncls-5{fill:#62a420}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="fncls-1" d="M11 0H2v9h9V0z" />
+    <path class="fncls-2" d="M10 1v7H3V1h7" />
+    <path class="fncls-3" d="M14 4H5v9h9V4z" />
+    <path class="fncls-1" d="M14 4H5v9h9V4z" />
+    <path class="fncls-2" d="M13 5v7H6V5h7" />
+    <path class="fncls-3" d="M9 6H0v9h9V6z" />
+    <path class="fncls-1" d="M9 6H0v9h9V6z" />
+    <path class="fncls-2" d="M8 7v7H1V7h7" />
+    <path class="fncls-4" d="M10 5h1v3h-1zM6 12V7H5v6h2v-1H6z" />
+    <path class="fncls-2" d="M14 8.61L9.83 6.52A4.14 4.14 0 0 0 8.11 6c-.77 0-1.36.49-1.31 2v7H9v-2h5V8.61z" />
+    <path class="fncls-5" d="M16 11.07a.91.91 0 0 0-.22-.17L9.44 7.41A2.6 2.6 0 0 0 8.28 7a.24.24 0 0 0-.14 0A1.58 1.58 0 0 0 8 8v7a1.47 1.47 0 0 0 .14.93.34.34 0 0 0 .22.06 2.5 2.5 0 0 0 1.08-.36l6.34-3.49A.91.91 0 0 0 16 12v-.93z" />
+  </svg>
+  <svg id="vm-suspended" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="72">
+    <defs>
+      <style>.focls-1{fill:#356f8c}.focls-2{fill:#fff}.focls-3{fill:#1b5c7e}.focls-4{fill:#cbd9e0}.focls-5{fill:#9e810a}.focls-6{fill:#ffed0b}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="focls-1" d="M11 0H2v9h9V0z" />
+    <path class="focls-2" d="M10 1v7H3V1h7" />
+    <path class="focls-3" d="M14 4H5v9h9V4z" />
+    <path class="focls-1" d="M14 4H5v9h9V4z" />
+    <path class="focls-2" d="M13 5v7H6V5h7" />
+    <path class="focls-3" d="M9 6H0v9h9V6z" />
+    <path class="focls-1" d="M9 6H0v9h9V6z" />
+    <path class="focls-2" d="M8 7v7H1V7h7" />
+    <path class="focls-4" d="M10 5h1v3h-1zM6 12V7H5v6h2v-1H6z" />
+    <path class="focls-2" d="M9 13h5V8H8v7h1v-2z" />
+    <path class="focls-5" d="M16 9H9v7h7V9z" />
+    <path class="focls-6" d="M15 10v5h-2v-5h2M12 10v5h-2v-5h2" />
+  </svg>
+  <svg id="vm-template" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="90">
+    <style>.fpst0{fill:#eaf0f2;stroke:#356f8c;stroke-miterlimit:10}.fpst1{fill:#fff}.fpst2{fill:#789bb0}.fpst3,.fpst4{fill:none;stroke:#789bb0;stroke-miterlimit:10}.fpst4{stroke:#356f8c}</style>
+    <g id="fpLayer_2">
+      <path class="fpst0" d="M4.5 4.5h10v10h-10z" />
+      <path class="fpst1" d="M8.9 12H3.5c-.3 0-.5-.2-.5-.5v-9c0-.3.2-.5.5-.5h9c.3 0 .5.2.5.5v5.4L8.9 12z" />
+      <path class="fpst2" d="M7 12V7h5.4v1.3L8.8 12z" />
+      <path class="fpst3" d="M12.5 4.8v3.5l-4.1 4.1H5" />
+      <path class="fpst4" d="M5 12.4H2.5v-10h10V5" />
+    </g>
+  </svg>
+  <svg id="vm-templates-24x" data-name="Layer 1" viewBox="-1 -1 26 26" width="26" height="26" y="171">
+    <defs>
+      <style>.fqcls-1,.fqcls-3{fill:#c8d6dd}.fqcls-1,.fqcls-2,.fqcls-4{stroke:#518097;stroke-miterlimit:10}.fqcls-2,.fqcls-4{fill:#fff;stroke:#004a70}.fqcls-4{fill:none}</style>
+    </defs>
+    <title>icon artboards patch 2 strokecenter</title>
+    <path class="fqcls-1" d="M6.5 6.5h14v14h-14z" />
+    <path class="fqcls-2" d="M18.47 12.84l.03.01V4.5h-14v14h8.31l5.66-5.66z" />
+    <path class="fqcls-3" d="M12.88 18.58v-5.71h5.71l-5.71 5.71z" />
+    <path class="fqcls-4" d="M12.9 18.58v-5.71h5.53" />
+    <path class="fqcls-4" d="M18.47 12.84l.03.01V4.5h-14v14h8.31l5.66-5.66z" />
+  </svg>
+  <svg id="vm-warning" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="126">
+    <defs>
+      <style>.frcls-1{fill:#356f8c}.frcls-2{fill:#fff}.frcls-3{fill:#1b5c7e}.frcls-4{fill:#cbd9e0}.frcls-5{fill:#ffd110}.frcls-6{fill:#997c00}.frcls-7{fill:#231f20}</style>
+    </defs>
+    <title>vsphere 16x text-SVG-temp</title>
+    <path class="frcls-1" d="M11 0H2v9h9V0z" />
+    <path class="frcls-2" d="M10 1v7H3V1h7" />
+    <path class="frcls-3" d="M14 4H5v9h9V4z" />
+    <path class="frcls-1" d="M14 4H5v9h9V4z" />
+    <path class="frcls-2" d="M13 5v7H6V5h7" />
+    <path class="frcls-3" d="M9 6H0v9h9V6z" />
+    <path class="frcls-1" d="M9 6H0v9h9V6z" />
+    <path class="frcls-2" d="M8 7v7H1V7h7" />
+    <path class="frcls-4" d="M10 5h1v3h-1zM6 12V7H5v6h2v-1H6z" />
+    <path class="frcls-5" d="M11.07 6.34H10L5.58 14v1.14h9.71v-1.49l-4.22-7.31z" />
+    <path class="frcls-2" d="M11.88 5a.92.92 0 0 0-.8-.46H9.84A.92.92 0 0 0 9 5l-5.06 8.84a.92.92 0 0 0-.12.46v.7H8v-2h6V8z" />
+    <path class="frcls-6" d="M15.59 16H5.28v-2.12L9.83 6h1.41l4.35 7.53V16z" />
+    <path class="frcls-5" d="M5.88 14.76h9.11v-1.03L10.9 6.64h-.72l-4.3 7.44v.68z" />
+    <path class="frcls-7" d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+  </svg>
+  <svg data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" id="vmManaged" x="289.7" y="144">
+    <title>vmManaged</title>
+    <path fill="#fff" d="M3 1h9v9H3z" />
+    <path fill="#fff" d="M1 6h9v9H1z" />
+    <path fill="#fff" d="M6 4h9v9H6z" />
+    <path d="M10 15H1V6h9zm-8-1h7V7H2zM7 6V5h4V4H6v2h1z" fill="#38718e" />
+    <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+    <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+    <path fill="#38718e" d="M12 4v1h2.2v7H10v1h5V4h-3z" />
+    <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+    <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vmOnManaged" x="289.7" y="162">
+    <title>vmOnManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M3 1h9v9H3z" />
+      <path fill="#fff" d="M1 6h9v9H1z" />
+      <path fill="#fff" d="M6 4h9v9H6z" />
+      <path fill="#38718e" d="M7 6V5h4V4H6v2h1z" />
+      <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+      <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+      <path fill="#38718e" d="M14.2 10.56h.8V4h-3v1h2.2v5.56zM9 8.25h1V13H9zM2 7h7v1.25H2zM7.44 14H2V8.25H1V15h6.44v-1z" />
+    </g>
+    <g data-name="Layer 2">
+      <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+      <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+      <path d="M15 11.31V9.68L9 6.32a1.37 1.37 0 0 0-2 1.19V15h1.44z" fill="#fff" />
+      <path d="M15.41 11.7l-6.85 3.86a.38.38 0 0 1-.56-.32V7.51a.38.38 0 0 1 .56-.32l6.85 3.86a.38.38 0 0 1 0 .65z" fill="#60a644" fill-rule="evenodd" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vmRedManaged" x="289.7" y="180">
+    <title>vmRedManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M3 1h9v9H3z" />
+      <path fill="#fff" d="M1 6h9v9H1z" />
+      <path fill="#fff" d="M6 4h9v9H6z" />
+      <path d="M10 15H1V8.25h9zm-8-1h7V7H2zM7 6V5h4V4H6v2h1z" fill="#38718e" />
+      <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+      <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+      <path fill="#38718e" d="M12 4v1h2.2v7H10v1h5V4h-3z" />
+      <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+      <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+    </g>
+    <g data-name="Layer 2">
+      <path d="M15 7.26A5.45 5.45 0 0 0 11.5 6 5.51 5.51 0 0 0 6 11.5 5.45 5.45 0 0 0 7.26 15H15z" fill="#fff" />
+      <path d="M11.5 7A4.5 4.5 0 1 1 7 11.5 4.51 4.51 0 0 1 11.5 7" fill="#e81e25" />
+      <path fill="#fff" d="M11 9h1v3h-1zM11 13h1v1h-1z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vmStuckManaged" x="289.7" y="198">
+    <title>vmStuckManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M3 1h9v9H3z" />
+      <path fill="#fff" d="M1 6h9v9H1z" />
+      <path fill="#fff" d="M6 4h9v9H6z" />
+      <path d="M10 15H1V8.25h9zm-8-1h7V7H2zM7 6V5h4V4H6v2h1z" fill="#38718e" />
+      <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+      <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+      <path fill="#38718e" d="M12 4v1h2.2v7H10v1h5V4h-3z" />
+      <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+      <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+    </g>
+    <g data-name="Layer 2">
+      <path d="M6.06 15H13l2-1.47V7.39a5.29 5.29 0 0 0-3.38-1.23h-1.09A5.34 5.34 0 0 0 5.41 10H4.6a1.5 1.5 0 0 0-1.06 2.56s.77.84 1.74 1.76c.2.18.47.42.78.68z" fill="#fff" />
+      <path d="M11.62 7.16h-1.09A4.36 4.36 0 0 0 6.22 11H4.6a.5.5 0 0 0-.5.5.49.49 0 0 0 .15.35c.08.09.82.89 1.72 1.75a11.28 11.28 0 0 0 2.78 2 4 4 0 0 0 .94.28 4.9 4.9 0 0 0 .83.09h1.1A4.35 4.35 0 0 0 16 11.62v-.12a4.35 4.35 0 0 0-4.38-4.34z" fill="#f76f00" />
+      <path d="M5.76 11.94c.25.27.56.57.88.87a10.36 10.36 0 0 0 2.5 1.82 3.64 3.64 0 0 0 .68.21 3.41 3.41 0 0 0 .69.07h1.1A3.35 3.35 0 0 0 15 11.57v-.11a3.35 3.35 0 0 0-3.34-3.35h-1.14a3.35 3.35 0 0 0-3.34 3.34v.49z" fill="#fff" />
+      <path fill="#f76f00" d="M10.6 9h1.38v1H10.6zM10.42 11v1h.56v2h1v-3h-1.56z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vmSuspendedManaged" x="289.7" y="216">
+    <title>vmSuspendedManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M3 1h9v9H3z" />
+      <path fill="#fff" d="M1 6h9v9H1z" />
+      <path fill="#fff" d="M6 4h9v9H6z" />
+      <path d="M10 15H1V8.25h9zm-8-1h7V7H2zM7 6V5h4V4H6v2h1z" fill="#38718e" />
+      <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+      <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+      <path fill="#38718e" d="M12 4v1h2.2v7H10v1h5V4h-3z" />
+      <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+      <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+    </g>
+    <g data-name="Layer 2">
+      <path fill="#34708d" d="M10 10h6v6h-6z" />
+      <path fill="#fff" d="M11 11h4v4h-4z" />
+      <path fill="#c9d7de" d="M11 11h2v2h-2z" />
+      <path fill="#fff" d="M9.4 15H15V8H8v7h1.4z" />
+      <path fill="#9d812f" d="M16 9H9v7h7V9z" />
+      <path fill="#fceb0e" d="M15 10v5h-2v-5h2M12 10v5h-2v-5h2" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vmYellowManaged" x="289.7" y="234">
+    <title>vmYellowManaged</title>
+    <g data-name="Layer 1">
+      <path fill="#fff" d="M3 1h9v9H3z" />
+      <path fill="#fff" d="M1 6h9v9H1z" />
+      <path fill="#fff" d="M6 4h9v9H6z" />
+      <path d="M10 15H1V8.25h9zm-8-1h7V7H2zM7 6V5h4V4H6v2h1z" fill="#38718e" />
+      <path fill="#38718e" d="M11 5h1V1H3v5.5h1V2h7v3z" />
+      <path fill="#cbdae0" d="M11 5v4h-1v1h2V5h-1zM7 7H6v2H4V7H3v3h3v3h2.8v-1H7v-2h2V9H7V7z" />
+      <path fill="#38718e" d="M12 4v1h2.2v7H10v1h5V4h-3z" />
+      <path fill="#fff" d="M7 3.88V0H2v4H0v5h9V3.88H7z" />
+      <path fill="#35718e" d="M3 1h3v3H3zM1 5h3v3H1zM5 5h3v3H5z" />
+    </g>
+    <g data-name="Layer 2">
+      <path fill="#cbd9e0" d="M11 5h1v3h-1z" />
+      <path d="M15 9.78l-1.94-3.35a3 3 0 0 0-5.16 0l-3.5 6.06A3 3 0 0 0 4.2 15H15z" fill="#fff" />
+      <path d="M15.7 13l-3.5-6.07a2 2 0 0 0-1.72-1 2 2 0 0 0-1.72 1L5.27 13A2 2 0 0 0 7 16h7a2 2 0 0 0 1.72-3z" fill="#987e2e" />
+      <path d="M9.63 7.43l-3.5 6.06A1 1 0 0 0 7 15h7a1 1 0 0 0 .85-1.47l-3.5-6.06a1 1 0 0 0-1.72-.04z" fill="#ffd111" />
+      <path d="M10 9h1v3h-1zM10 13h1v1h-1z" />
+    </g>
+  </svg>
+  <svg viewBox="-1 -1 18 18" width="18" height="18" id="vsphere-admin" x="162" y="197">
+    <defs>
+      <style>.fycls-1,.fycls-3{fill:#fff}.fycls-1,.fycls-2{stroke:#789bb0;stroke-miterlimit:10}.fycls-2{fill:#d9e3e9;stroke:#36708c}.fycls-4{fill:#214556}</style>
+    </defs>
+    <title>*new</title>
+    <g id="fyLayer_3" data-name="Layer 3">
+      <path class="fycls-1" d="M15.5 12.56V8.44a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v4.13h7z" />
+      <circle class="fycls-1" cx="11.89" cy="3.23" r="2.23" />
+      <path class="fycls-1" d="M7.5 12.56V8.44a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v4.13h7z" />
+      <circle class="fycls-1" cx="3.89" cy="3.23" r="2.23" />
+      <circle class="fycls-2" cx="8" cy="4.83" r="2.5" />
+      <path class="fycls-2" d="M12.44 14.56v-3.31a2.82 2.82 0 0 0-2.82-2.81H6.25a2.82 2.82 0 0 0-2.82 2.82v3.31h9z" />
+      <path class="fycls-3" d="M6.06 12.21l-1 1.1.17.34.18.33H14V5.82l-1.06.67a4.85 4.85 0 0 0-.83-.32l-.46-1.43h-.37a6.34 6.34 0 0 0-1 0h-.37l-.44 1.43a4.91 4.91 0 0 0-.83.32L7.39 5.7l-.3.23a6.23 6.23 0 0 0-.77.68l-.25.26.57 1.41a4.91 4.91 0 0 0-.35.65l-1.46.2-.09.37a6.32 6.32 0 0 0-.15 1.12V11l1.41.69a4.69 4.69 0 0 0 .06.52z" />
+      <path class="fycls-4" d="M14.71 11.33l1.19-.63a5.12 5.12 0 0 0-.12-.92l-1.27-.18a3.93 3.93 0 0 0-.52-1l.5-1.23a5.14 5.14 0 0 0-.64-.56l-1.09.68A3.92 3.92 0 0 0 11.6 7l-.4-1.24h-.82L10 7a3.92 3.92 0 0 0-1.16.44l-1.11-.62a5.14 5.14 0 0 0-.64.56l.5 1.23a3.93 3.93 0 0 0-.52 1l-1.27.17a5.12 5.12 0 0 0-.12.92l1.19.63a3.92 3.92 0 0 0 .2.91l-.87 1a5.12 5.12 0 0 0 .54.86l1.32-.28a4 4 0 0 0 .6.47v1.31a5.08 5.08 0 0 0 1 .35l.82-1.05h.7l.82 1a5.08 5.08 0 0 0 1-.35v-1.3a4 4 0 0 0 .6-.47l1.32.28a5.12 5.12 0 0 0 .54-.86l-.87-1a3.92 3.92 0 0 0 .12-.87zm-3.92 1.6a2.07 2.07 0 1 1 2.07-2.07 2.07 2.07 0 0 1-2.07 2.07z" />
+    </g>
+  </svg>
+  <svg id="vsphere-inventory-lists" data-name="Layer 1" viewBox="-1 -1 18 18" width="18" height="18" x="289.7" y="252">
+    <defs>
+      <style>.fzcls-1{fill:#37708d}.fzcls-2{fill:#dae3e9}.fzcls-3{fill:#9bb7c5}.fzcls-4{fill:#60b546}.fzcls-5{fill:#fff}.fzcls-6{fill:#fdba26}</style>
+    </defs>
+    <title>Artboard 74</title>
+    <path class="fzcls-1" d="M0 0h12v15H0z" />
+    <path class="fzcls-2" d="M1 1h10v13H1z" />
+    <path class="fzcls-3" d="M3 3h6v1H3zM3 5h6v1H3zM3 7h6v1H3zM3 9h6v1H3z" />
+    <path class="fzcls-4" d="M15 7v5h-3v3H7v-5h3V7h5m0-1h-5a1.19 1.19 0 0 0-1 1v2H7a1.19 1.19 0 0 0-1 1v5a1.19 1.19 0 0 0 1 1h5a1.19 1.19 0 0 0 1-1v-2h2a1.19 1.19 0 0 0 1-1V7a1.19 1.19 0 0 0-1-1z" />
+    <path class="fzcls-5" d="M10 7h5v5h-5z" />
+    <path class="fzcls-5" d="M7 10h5v5H7z" />
+    <path class="fzcls-6" d="M11 8h3v3h-3zM8 11h3v3H8z" />
+  </svg>
+</svg>

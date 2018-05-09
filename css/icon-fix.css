@@ -10,3 +10,7 @@
 .vm-ui-icon-guestOsWindows {
     background-image: url('../images/windows.png');
 }
+
+.vsphere-icon-hp {
+    background: url('../images/svg-sprite.svg') 0 0 no-repeat;
+}
