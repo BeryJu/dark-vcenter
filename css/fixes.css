@@ -122,3 +122,11 @@ bottom-panel #bottom-panel vsc-recent-tasks-and-alarms-view clr-tabs ul.nav {
 .k-splitter .k-splitbar.k-splitbar-vertical {
     border-bottom-color: #485764;
 }
+
+.vui-datagrid.k-grid.k-widget .k-pager-wrap.k-grid-pager, div[vui-datagrid] .k-grid.k-widget .k-pager-wrap.k-grid-pager {
+    background-color: #22343c;
+}
+
+bottom-panel .task-status-select {
+    background-color: #22343c;
+}
