@@ -1,0 +1,51 @@
+
+.vui-popup.vui-dialog {
+    background-color: #1b2a32;
+    border-color: #22343c;
+}
+
+.modal-backdrop {
+    opacity: 1;
+}
+
+.vui-popup.vui-dialog .titlebar.ui-draggable-handle .titlebar-text {
+    color: #e9ecef;
+}
+
+form .form-group, .form .form-group {
+    color: #e9ecef;
+}
+
+.vui-popup.vui-dialog .titlebar, .vui-popup .titlebar {
+    background-color: #1b2a32;
+}
+
+.vui-popup.vui-dialog .panel-content {
+    background-color: #1b2a32;
+}
+
+.vui-wizard {
+    background-color: #1b2a32;
+    border-color: #22343c;
+}
+
+.vui-wizard .wizard-modal-titlebar .titlebar-text {
+    color: #e9ecef;
+}
+
+.vui-wizard .wizard-content-title {
+    color: #adbbc4;
+}
+
+.vui-wizard .wizard-content-container {
+    background-color: #1b2a32;
+    color: #e9ecef;
+}
+
+.titlebar, .vui-wizard .wizard-modal-titlebar {
+    border-color: #0f171c;
+}
+
+.vui-wizard .wizard-panel-TOC .wizard-steps-list li a {
+    color: #e9ecef;
+}

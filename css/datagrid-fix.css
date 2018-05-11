@@ -73,3 +73,7 @@ datagrid
 .vui-datagrid.k-grid.k-widget .k-grid-header .k-link:link, div[vui-datagrid] .k-grid.k-widget .k-grid-header .k-link:link {
     color: #e9ecef;
 }
+
+.vui-datagrid.k-grid.k-widget .k-grid-content tbody tr.k-state-selected:hover td, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr.k-state-selected:hover td, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr.k-state-selected:hover td, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr.k-state-selected:hover td {
+    background-color: #29414e;
+}

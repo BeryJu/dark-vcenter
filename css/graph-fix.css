@@ -9,3 +9,7 @@ tspan {
 select.ng-pristine.ng-untouched.ng-valid.ng-not-empty {
    background-color: #1b2a32;
 }
+
+text.highcharts-legend-navigation {
+    fill: #e9ecef;
+}

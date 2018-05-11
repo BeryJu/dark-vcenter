@@ -17,6 +17,7 @@ if (document.querySelector("[aria-label='Product home']") !== null) {
         'css/vx-fix.css',
         'css/topology-fix.css',
         'css/datagrid-fix.css',
+        'css/dialog-fix.css',
         'css/graph-fix.css',
         'css/icon-fix.css',
         'css/scrollbar-fix.css',
