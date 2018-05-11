@@ -1,0 +1,11 @@
+rect.highcharts-background {
+    fill: #1b2a32;
+}
+
+tspan {
+    fill: #e9ecef;
+}
+
+select.ng-pristine.ng-untouched.ng-valid.ng-not-empty {
+   background-color: #1b2a32;
+}

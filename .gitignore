@@ -61,4 +61,4 @@ typings/
 .next
 
 # chrome extension outputs
-.zip
+*.zip
