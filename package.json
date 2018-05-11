@@ -1,6 +1,6 @@
 {
   "name": "dark-vcenter",
-  "version": "0.2.0",
+  "version": "0.2.7",
   "description": "Apply Dark Clarity Theme to vCenter!",
   "main": "inject.js",
   "dependencies": {
