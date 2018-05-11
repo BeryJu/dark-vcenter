@@ -1,0 +1,15 @@
+.diagram-container {
+    background-color: #1b2a32;
+}
+
+.switch-diagram .central-panel {
+    fill: #22343c;
+}
+
+.switch-diagram .connection-panel {
+    fill: #22343c;
+}
+
+.switch-diagram text {
+    fill: #e9ecef;
+}

@@ -89,6 +89,18 @@ div[vui-tree-view] .k-in {
     border-left-color: #485764;
 }
 
+settings-view-header .settingsViewHeader .settingsBlockTitle {
+    color: #e9ecef;
+}
+
+div.settingsBlockHeader .settingsBlockTitle {
+    color: #e9ecef;
+}
+
+.vui-action-bar .vui-action-label {
+    color: #e9ecef;
+}
+
 /*
 
 bottom thingy

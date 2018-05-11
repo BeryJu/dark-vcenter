@@ -28,3 +28,18 @@ div[vui-tree-view] .k-in.k-state-hover {
     background-color: #324f61;
     color: #fff;
 }
+
+/* treeview on Configure pages */
+.vui-toc-tabs {
+    background-color: #1b2a32;
+    border-right-color: #0f171c;
+}
+
+.vui-toc-tabs ul li.active, .vui-toc-tabs ul li:hover {
+    background-color: #22343c;
+}
+
+.vui-toc-tabs ul > li:hover {
+    background-color: #22343c;
+    color: #fff;
+}

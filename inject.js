@@ -14,6 +14,8 @@ if (document.querySelector("[aria-label='Product home']") !== null) {
     var cssFiles = [
         'css/clr-ui-dark.css',
         'css/fixes.css',
+        'css/vx-fix.css',
+        'css/topology-fix.css',
         'css/datagrid-fix.css',
         'css/icon-fix.css',
         'css/scrollbar-fix.css',
