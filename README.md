@@ -1,6 +1,11 @@
 # dark-vcenter
 Dark CSS Theme for vCenter's HTML5 Client
 
+# Screenshot
+
+![alt text](https://raw.githubusercontent.com/BeryJu/dark-vcenter/master/screenshot1.png "Screenshot 1")
+
+
 # Install
 
 ## Chrome Webstore
