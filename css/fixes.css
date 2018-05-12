@@ -157,3 +157,15 @@ bottom-panel .task-status-select {
     background-color: #22343c;
     color: #adbbc4;
 }
+
+/* global inventory sidebar */
+left-panel object-navigator .nav-top-block.obj-nav-counter, left-panel object-navigator .nav-top-pane-relations-mode.primary-list-item, left-panel object-navigator .primary-list-item {
+    background-color: #22343c;
+    border-color: #0f171c;
+}
+
+/* gauge */
+
+.horizontal-resource-meter .meter-gauge {
+    background-color: #1b2a32;
+}
