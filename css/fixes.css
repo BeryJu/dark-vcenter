@@ -143,7 +143,23 @@ bottom-panel .task-status-select {
     background-color: #22343c;
 }
 
+input[type=text]:not([readonly]), input[type=password]:not([readonly]), input[type=number]:not([readonly]), input[type=email]:not([readonly]), input[type=url]:not([readonly]), input[type=tel]:not([readonly]), input[type=date]:not([readonly]), input[type=time]:not([readonly]), input[type=datetime-local]:not([readonly]) {
+    color: #e9ecef;
+}
+
 /* buttons */
+
+.k-button {
+    color: #e9ecef;
+    border-color: #0f171c;
+    background-color: #1b2a32;
+}
+
+.k-button.k-state-hover, .k-button:hover {
+    color: #e9ecef;
+    border-color: #485764;
+    background-color: #22343c;
+}
 
 .modal-dialog .modal-content[level=second] .btn-group>button.active, .modal-dialog .modal-content[level=second] .btn-group>button:last-child, .modal-dialog .modal-content[level=second] .btn-group>button, .modal-dialog .vx-tab-wrapper[level=second] .btn-group>button.active, .modal-dialog .vx-tab-wrapper[level=second] .btn-group>button:last-child, .modal-dialog .vx-tab-wrapper[level=second] .btn-group>button, .modal-dialog .wizard-modal-content[level=second] .btn-group>button.active, .modal-dialog .wizard-modal-content[level=second] .btn-group>button:last-child, .modal-dialog .wizard-modal-content[level=second] .btn-group>button, .modal-dialog [vx-navi-tab-headers][level=second] .btn-group>button.active, .modal-dialog [vx-navi-tab-headers][level=second] .btn-group>button:last-child, .modal-dialog [vx-navi-tab-headers][level=second] .btn-group>button, .vui-panel .modal-content[level=second] .btn-group>button.active, .vui-panel .modal-content[level=second] .btn-group>button:last-child, .vui-panel .modal-content[level=second] .btn-group>button, .vui-panel .vx-tab-wrapper[level=second] .btn-group>button.active, .vui-panel .vx-tab-wrapper[level=second] .btn-group>button:last-child, .vui-panel .vx-tab-wrapper[level=second] .btn-group>button, .vui-panel .wizard-modal-content[level=second] .btn-group>button.active, .vui-panel .wizard-modal-content[level=second] .btn-group>button:last-child, .vui-panel .wizard-modal-content[level=second] .btn-group>button, .vui-panel [vx-navi-tab-headers][level=second] .btn-group>button.active, .vui-panel [vx-navi-tab-headers][level=second] .btn-group>button:last-child, .vui-panel [vx-navi-tab-headers][level=second] .btn-group>button, .vui-wizard .modal-content[level=second] .btn-group>button.active, .vui-wizard .modal-content[level=second] .btn-group>button:last-child, .vui-wizard .modal-content[level=second] .btn-group>button, .vui-wizard .vx-tab-wrapper[level=second] .btn-group>button.active, .vui-wizard .vx-tab-wrapper[level=second] .btn-group>button:last-child, .vui-wizard .vx-tab-wrapper[level=second] .btn-group>button, .vui-wizard .wizard-modal-content[level=second] .btn-group>button.active, .vui-wizard .wizard-modal-content[level=second] .btn-group>button:last-child, .vui-wizard .wizard-modal-content[level=second] .btn-group>button, .vui-wizard [vx-navi-tab-headers][level=second] .btn-group>button.active, .vui-wizard [vx-navi-tab-headers][level=second] .btn-group>button:last-child, .vui-wizard [vx-navi-tab-headers][level=second] .btn-group>button {
     background-color: #1b2a32;
