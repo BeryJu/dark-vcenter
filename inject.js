@@ -20,6 +20,7 @@ if (document.querySelector("[aria-label='Product home']") !== null) {
         'css/dialog-fix.css',
         'css/shortcut-fix.css',
         'css/task-event-fix.css',
+        'css/datastore-fix.css',
         'css/graph-fix.css',
         'css/icon-fix.css',
         'css/scrollbar-fix.css',

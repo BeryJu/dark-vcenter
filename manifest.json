@@ -1,6 +1,6 @@
 {
     "name": "Dark vCenter",
-    "version": "0.2.9",
+    "version": "0.2.10",
     "description": "Apply Dark Clarity Theme to vCenter!",
     "manifest_version": 2,
     "content_scripts": [
