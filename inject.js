@@ -18,6 +18,8 @@ if (document.querySelector("[aria-label='Product home']") !== null) {
         'css/topology-fix.css',
         'css/datagrid-fix.css',
         'css/dialog-fix.css',
+        'css/shortcut-fix.css',
+        'css/task-event-fix.css',
         'css/graph-fix.css',
         'css/icon-fix.css',
         'css/scrollbar-fix.css',

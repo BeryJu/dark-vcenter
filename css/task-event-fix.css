@@ -1,0 +1,17 @@
+.split-view .details {
+    background-color: #1b2a32;
+    box-shadow: 1px 0 0 #0f171c inset, -1px 0 0 #0f171c inset;
+}
+
+.vui-datagrid.k-grid.k-widget .k-grid-content, .vui-datagrid.k-grid.k-widget .k-grid-content-locked, div[vui-datagrid] .k-grid.k-widget .k-grid-content, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked {
+    border-left-color: #0f171c;
+    border-right-color: #0f171c;
+}
+
+.split-view .details div[vui-datagrid].related-events .k-grid.k-widget {
+    border-color: #0f171c;
+}
+
+div[vui-datagrid] .k-grid-content {
+    background-color: #1b2a32;
+}
