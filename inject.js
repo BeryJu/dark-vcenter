@@ -25,6 +25,7 @@ if (document.querySelector("[aria-label='Product home']") !== null) {
         'css/icon-fix.css',
         'css/scrollbar-fix.css',
         'css/stack-fix.css',
+        'css/context-menu-fix.css',
         'css/treeview-fix.css',
     ];
     cssFiles.forEach(function (file) {

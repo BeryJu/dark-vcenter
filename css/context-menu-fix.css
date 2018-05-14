@@ -1,0 +1,47 @@
+.k-menu.k-menu-vertical.k-context-menu {
+    background: #1b2a32;
+    border-color: #0f171c;
+    color: #adbbc4;
+}
+
+li.k-item.menu-header {
+    background: #22343c;
+    border-color: #0f171c;
+    color: #adbbc4;
+}
+
+.k-state-hover {
+    box-shadow: 0 1px 0 rgba(27,42,50, 0.2);
+}
+
+.k-menu > .k-state-hover {
+    background: #22343c;
+    color: #e9ecef;
+}
+
+li.k-item.is-separated {
+    border-color: #0f171c;
+}
+
+ul.k-group.k-menu-group.k-popup.k-reset {
+    background: #1b2a32;
+    border-color: #0f171c;
+    color: #adbbc4;
+}
+
+.k-menu .k-menu-group > .k-state-hover > .k-link {
+    background-color: #22343c;
+    color: #e9ecef;
+}
+
+.k-active-filter, .k-state-active, .k-state-active:hover, .k-tabstrip .k-state-active {
+    background-color: #1b2a32;
+    border-color: #0f171c;
+    color: #adbbc4;
+}
+
+.k-dropdown .k-state-focused, .k-filebrowser-dropzone, .k-list>.k-state-hover, .k-mobile-list .k-edit-label.k-check:active, .k-mobile-list .k-item>.k-label:active, .k-mobile-list .k-item>.k-link:active, .k-mobile-list .k-recur-view .k-check:active, .k-mobile-list .k-scheduler-timezones .k-edit-field:nth-child(2):active, .k-pager-wrap .k-link:hover, .k-scheduler .k-scheduler-toolbar ul li.k-state-hover, .k-splitbar-horizontal-hover:hover, .k-splitbar-vertical-hover:hover, .k-state-hover, .k-state-hover:hover {
+    background-color: #22343c;
+    border-color: #0f171c;
+    color: #adbbc4;
+}

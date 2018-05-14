@@ -1,0 +1,8 @@
+{
+  "[css]": {
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.tabSize": 4
+  }
+}
