@@ -6,148 +6,184 @@ stack
 
 
 .stack-header {
-  font-weight: clr-getTypePropertyValueForDomElement(stackview_text, font-weight);
-  display: flex;
-  align-items: flex-end; }
-  .stack-header .stack-title {
+    font-weight: clr-getTypePropertyValueForDomElement(stackview_text, font-weight);
+    display: flex;
+    align-items: flex-end;
+}
+ .stack-header .stack-title {
     display: block;
     flex: 1 1 auto;
-    padding: 0.25rem 0; }
-  .stack-header .stack-actions {
+    padding: 0.25rem 0;
+}
+ .stack-header .stack-actions {
     display: block;
-    flex: 0 0 auto; }
-    .stack-header .stack-actions .stack-action {
-      margin: 0 0 0.25rem 0.5rem; }
-      .stack-header .stack-actions .stack-action.btn {
-        min-width: 0;
-        padding: 0 0.5rem; }
-      .stack-header .stack-actions .stack-action.btn-link {
-        margin-right: -0.5rem; }
-
+    flex: 0 0 auto;
+}
+ .stack-header .stack-actions .stack-action {
+    margin: 0 0 0.25rem 0.5rem;
+}
+ .stack-header .stack-actions .stack-action.btn {
+    min-width: 0;
+    padding: 0 0.5rem;
+}
+ .stack-header .stack-actions .stack-action.btn-link {
+    margin-right: -0.5rem;
+}
 .stack-view {
-  color: #adbbc4;
-  font-size: 0.54167rem;
-  font-weight: 400;
-  line-height: 1rem;
-  letter-spacing: normal;
-  margin-top: 0;
-  border: 1px solid #566572;
-  border-radius: 0.125rem;
-  overflow-y: auto;
-  background-color: #1b2a32;
-  word-wrap: break-word;
-  /* this fixes the overflow problem of children elements in a wrapper with a border-radius in Chrome */
-  -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
-  /*
-         * Styles specific to inputs used in a stack view
-         */
-  /*
-         * Styles specific to stack views used in a modal
-         */ }
-  .stack-view dd, .stack-view dt {
+    color: #adbbc4;
+    font-size: 0.54167rem;
+    font-weight: 400;
+    line-height: 1rem;
+    letter-spacing: normal;
+    margin-top: 0;
+    border: 1px solid #566572;
+    border-radius: 0.125rem;
+    overflow-y: auto;
+    background-color: #1b2a32;
+    word-wrap: break-word;
+    -webkit-mask-image: url(data: image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+    /* * Styles specific to inputs used in a stack view */ /* * Styles specific to stack views used in a modal */ }
+ .stack-view dd, .stack-view dt {
     -webkit-margin-start: 0;
     margin-inline-start: 0;
-    margin-left: 0; }
-  .stack-view .stack-block {
+    margin-left: 0;
+}
+ .stack-view .stack-block {
     display: flex;
     flex-flow: row wrap;
     border-bottom: 1px solid #566572;
-    overflow-y: hidden; }
-  .stack-view > .stack-block:last-child, .stack-view > :last-child .stack-block:last-of-type {
+    overflow-y: hidden;
+}
+ .stack-view > .stack-block: last-child, .stack-view >: last-child .stack-block: last-of-type {
     border-bottom: none;
-    box-shadow: 0 1px 0 #566572; }
-  .stack-view .stack-block-changed > .stack-block-label {
-    margin-left: -0.375rem; }
-  .stack-view .stack-block-changed::before {
+    box-shadow: 0 1px 0 #566572;
+}
+ .stack-view .stack-block-changed > .stack-block-label {
+    margin-left: -0.375rem;
+}
+ .stack-view .stack-block-changed::before {
     content: " ";
     position: relative;
     width: 0;
     height: 0;
     border-top: 0.375rem solid #006a91;
-    border-right: 0.375rem solid transparent; }
-  .stack-view .stack-block-label, .stack-view .stack-block-content {
+    border-right: 0.375rem solid transparent;
+}
+ .stack-view .stack-block-label, .stack-view .stack-block-content {
     padding: 0.25rem 0.5rem;
-    background-color: #1b2a32; }
-  .stack-view .stack-block-label {
+    background-color: #1b2a32;
+}
+ .stack-view .stack-block-label {
     font-size: 0.54167rem;
     font-weight: 500;
     line-height: 1rem;
     letter-spacing: normal;
     color: #929ba5;
     flex: 0 0 40%;
-    max-width: 40%; }
-    .stack-view .stack-block-label::before {
-      display: inline-block;
-      content: "";
-      float: left;
-      height: 0.41667rem;
-      width: 0.41667rem;
-      margin: 0.29167rem 0.25rem 0 0;
-      text-align: center; }
-  .stack-view .stack-block-content {
+    max-width: 40%;
+}
+ .stack-view .stack-block-label::before {
+    display: inline-block;
+    content: "";
+    float: left;
+    height: 0.41667rem;
+    width: 0.41667rem;
+    margin: 0.29167rem 0.25rem 0 0;
+    text-align: center;
+}
+ .stack-view .stack-block-content {
     color: #adbbc4;
     flex: 1 1 auto;
     width: 60%;
     margin-bottom: 0;
-    font-weight: clr-getTypePropertyValueForDomElement(stackview_text, font-weight); }
-    .stack-view .stack-block-content > :first-child {
-      margin-top: 0; }
-    .stack-view .stack-block-content > :last-child {
-      margin-bottom: 0; }
-  .stack-view .stack-children {
+    font-weight: clr-getTypePropertyValueForDomElement(stackview_text, font-weight);
+}
+ .stack-view .stack-block-content >:first-child {
+    margin-top: 0;
+}
+ .stack-view .stack-block-content >: last-child {
+    margin-bottom: 0;
+}
+ .stack-view .stack-children {
     flex: 0 0 auto;
-    width: 100%; }
-    .stack-view .stack-children .stack-block {
-      border-bottom-color: #566572; }
-    .stack-view .stack-children > .stack-block:last-child, .stack-view .stack-children > :last-child .stack-block:last-of-type {
-      border-bottom: none;
-      box-shadow: 0 1px 0 #566572; }
-    .stack-view .stack-children .stack-block-label, .stack-view .stack-children .stack-block-content {
-      background-color: #22343c; }
-    .stack-view .stack-children .stack-block-label {
-      padding-left: 1rem; }
-  .stack-view .stack-block-expandable > .stack-block-label {
-    cursor: pointer; }
-    .stack-view .stack-block-expandable > .stack-block-label::before {
-      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3Cstyle%3E.cls-1%7Bfill%3A%239a9a9a%3B%7D%3C%2Fstyle%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Ctitle%3ECaret%3C%2Ftitle%3E%0A%20%20%20%20%3Cpath%20class%3D%22cls-1%22%20d%3D%22M6%2C9L1.2%2C4.2a0.68%2C0.68%2C0%2C0%2C1%2C1-1L6%2C7.08%2C9.84%2C3.24a0.68%2C0.68%2C0%2C1%2C1%2C1%2C1Z%22%2F%3E%0A%3C%2Fsvg%3E%0A");
-      background-repeat: no-repeat;
-      background-size: contain;
-      vertical-align: middle;
-      transform: rotate(-90deg); }
-  .stack-view .stack-block-expandable > .stack-block-label, .stack-view .stack-block-expandable > .stack-block-content {
-    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; }
-  .stack-view .stack-block-expandable:hover:not(.stack-block-expanded) > .stack-block-label, .stack-view .stack-block-expandable:hover:not(.stack-block-expanded) > .stack-block-content {
-    background-color: #324f61; }
-  .stack-view .stack-block-expanded > .stack-block-label::before {
-    transform: rotate(0deg); }
-  .stack-view .stack-block-expanded > .stack-block-label, .stack-view .stack-block-expanded > .stack-block-content {
+    width: 100%;
+}
+ .stack-view .stack-children .stack-block {
+    border-bottom-color: #566572;
+}
+ .stack-view .stack-children > .stack-block: last-child, .stack-view .stack-children >: last-child .stack-block: last-of-type {
+    border-bottom: none;
+    box-shadow: 0 1px 0 #566572;
+}
+ .stack-view .stack-children .stack-block-label, .stack-view .stack-children .stack-block-content {
+    background-color: #22343c;
+}
+ .stack-view .stack-children .stack-block-label {
+    padding-left: 1rem;
+}
+ .stack-view .stack-block-expandable > .stack-block-label {
+    cursor: pointer;
+}
+ .stack-view .stack-block-expandable > .stack-block-label::before {
+    background-image: url("data: image/svg+xml;
+    charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%3Cstyle%3E.cls-1%7Bfill%3A%239a9a9a%3B%7D%3C%2Fstyle%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Ctitle%3ECaret%3C%2Ftitle%3E%0A%20%20%20%20%3Cpath%20class%3D%22cls-1%22%20d%3D%22M6%2C9L1.2%2C4.2a0.68%2C0.68%2C0%2C0%2C1%2C1-1L6%2C7.08%2C9.84%2C3.24a0.68%2C0.68%2C0%2C1%2C1%2C1%2C1Z%22%2F%3E%0A%3C%2Fsvg%3E%0A");
+    background-repeat: no-repeat;
+    background-size: contain;
+    vertical-align: middle;
+    transform: rotate(-90deg);
+}
+ .stack-view .stack-block-expandable > .stack-block-label, .stack-view .stack-block-expandable > .stack-block-content {
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+ .stack-view .stack-block-expandable:hover: not(.stack-block-expanded) > .stack-block-label, .stack-view .stack-block-expandable:hover: not(.stack-block-expanded) > .stack-block-content {
     background-color: #324f61;
-    color: #fff; }
-  .stack-view input[type=text], .stack-view input[type=password], .stack-view input[type=number], .stack-view input[type=email], .stack-view input[type=url], .stack-view input[type=tel], .stack-view input[type=date], .stack-view input[type=time], .stack-view input[type=datetime-local], .stack-view .select {
+}
+ .stack-view .stack-block-expanded > .stack-block-label::before {
+    transform: rotate(0deg);
+}
+ .stack-view .stack-block-expanded > .stack-block-label, .stack-view .stack-block-expanded > .stack-block-content {
+    background-color: #324f61;
+    color: #fff;
+}
+ .stack-view input[type=text], .stack-view input[type=password], .stack-view input[type=number], .stack-view input[type=email], .stack-view input[type=url], .stack-view input[type=tel], .stack-view input[type=date], .stack-view input[type=time], .stack-view input[type=datetime-local], .stack-view .select {
     display: inline-block;
     vertical-align: top;
     margin-right: 0.5rem;
-    margin-bottom: 0px; }
-  .stack-view input[type=text], .stack-view input[type=password], .stack-view input[type=number], .stack-view input[type=email], .stack-view input[type=url], .stack-view input[type=tel], .stack-view input[type=date], .stack-view input[type=time], .stack-view input[type=datetime-local], .stack-view .select select {
-    height: 1rem; }
-  .stack-view .stack-block-expandable > .stack-block-content input[type=text], .stack-view .stack-block-expandable > .stack-block-content input[type=password], .stack-view .stack-block-expandable > .stack-block-content input[type=number], .stack-view .stack-block-expandable > .stack-block-content input[type=email], .stack-view .stack-block-expandable > .stack-block-content input[type=url], .stack-view .stack-block-expandable > .stack-block-content input[type=tel], .stack-view .stack-block-expandable > .stack-block-content input[type=date], .stack-view .stack-block-expandable > .stack-block-content input[type=time], .stack-view .stack-block-expandable > .stack-block-content input[type=datetime-local] {
-    transition: background-size 0.2s ease, border-bottom-color 0.2s ease-in-out; }
-  .stack-view .stack-block-expandable > .stack-block-content .select select {
-    transition: border-bottom-color 0.2s ease-in-out; }
-  .stack-view .stack-block-expandable > .stack-block-content .select::after {
-    transition: color 0.2s ease-in-out; }
-  .stack-view .stack-block-expanded > .stack-block-content input[type=text], .stack-view .stack-block-expanded > .stack-block-content input[type=password], .stack-view .stack-block-expanded > .stack-block-content input[type=number], .stack-view .stack-block-expanded > .stack-block-content input[type=email], .stack-view .stack-block-expanded > .stack-block-content input[type=url], .stack-view .stack-block-expanded > .stack-block-content input[type=tel], .stack-view .stack-block-expanded > .stack-block-content input[type=date], .stack-view .stack-block-expanded > .stack-block-content input[type=time], .stack-view .stack-block-expanded > .stack-block-content input[type=datetime-local] {
+    margin-bottom: 0px;
+}
+ .stack-view input[type=text], .stack-view input[type=password], .stack-view input[type=number], .stack-view input[type=email], .stack-view input[type=url], .stack-view input[type=tel], .stack-view input[type=date], .stack-view input[type=time], .stack-view input[type=datetime-local], .stack-view .select select {
+    height: 1rem;
+}
+ .stack-view .stack-block-expandable > .stack-block-content input[type=text], .stack-view .stack-block-expandable > .stack-block-content input[type=password], .stack-view .stack-block-expandable > .stack-block-content input[type=number], .stack-view .stack-block-expandable > .stack-block-content input[type=email], .stack-view .stack-block-expandable > .stack-block-content input[type=url], .stack-view .stack-block-expandable > .stack-block-content input[type=tel], .stack-view .stack-block-expandable > .stack-block-content input[type=date], .stack-view .stack-block-expandable > .stack-block-content input[type=time], .stack-view .stack-block-expandable > .stack-block-content input[type=datetime-local] {
+    transition: background-size 0.2s ease, border-bottom-color 0.2s ease-in-out;
+}
+ .stack-view .stack-block-expandable > .stack-block-content .select select {
+    transition: border-bottom-color 0.2s ease-in-out;
+}
+ .stack-view .stack-block-expandable > .stack-block-content .select::after {
+    transition: color 0.2s ease-in-out;
+}
+ .stack-view .stack-block-expanded > .stack-block-content input[type=text], .stack-view .stack-block-expanded > .stack-block-content input[type=password], .stack-view .stack-block-expanded > .stack-block-content input[type=number], .stack-view .stack-block-expanded > .stack-block-content input[type=email], .stack-view .stack-block-expanded > .stack-block-content input[type=url], .stack-view .stack-block-expanded > .stack-block-content input[type=tel], .stack-view .stack-block-expanded > .stack-block-content input[type=date], .stack-view .stack-block-expanded > .stack-block-content input[type=time], .stack-view .stack-block-expanded > .stack-block-content input[type=datetime-local] {
     border-bottom-color: #737373;
     background: linear-gradient(to bottom, transparent 95%, #007cbb 95%) no-repeat;
     background-size: 0% 100%;
-    transition: background-size 0.2s ease; }
-    .stack-view .stack-block-expanded > .stack-block-content input[type=text]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=password]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=number]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=email]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=url]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=tel]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=date]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=time]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=datetime-local]:focus {
-      border-bottom: 1px solid #007cbb;
-      background-size: 100% 100%; }
-  .stack-view .stack-block-expanded > .stack-block-content .select select {
-    border-bottom-color: #737373; }
-  .stack-view .stack-block-expanded > .stack-block-content .select::after {
-    color: #737373; }
-  .modal .stack-view {
+    transition: background-size 0.2s ease;
+}
+ .stack-view .stack-block-expanded > .stack-block-content input[type=text]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=password]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=number]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=email]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=url]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=tel]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=date]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=time]:focus, .stack-view .stack-block-expanded > .stack-block-content input[type=datetime-local]:focus {
+    border-bottom: 1px solid #007cbb;
+    background-size: 100% 100%;
+}
+ .stack-view .stack-block-expanded > .stack-block-content .select select {
+    border-bottom-color: #737373;
+}
+ .stack-view .stack-block-expanded > .stack-block-content .select::after {
+    color: #737373;
+}
+ .modal .stack-view {
     height: 55vh;
-    margin-bottom: 0; }
+    margin-bottom: 0;
+}
+
+.stack-view .stack-block-expandable > .stack-block-label, .stack-view .stack-block-expandable > .stack-block-content {
+    color: #e9ecef;
+}

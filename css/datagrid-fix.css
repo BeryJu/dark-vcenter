@@ -66,6 +66,10 @@ datagrid
     background-color: #29414e;
 }
 
+.vui-datagrid.k-grid.k-widget .k-grid-content tbody tr.k-state-selected td, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr.k-state-selected td, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr.k-state-selected td, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr.k-state-selected td {
+    background-color: #22343c;
+}
+
 .vui-datagrid.k-grid.k-widget .k-grid-content tbody tr td, .vui-datagrid.k-grid.k-widget .k-grid-content-locked tbody tr td, div[vui-datagrid] .k-grid.k-widget .k-grid-content tbody tr td, div[vui-datagrid] .k-grid.k-widget .k-grid-content-locked tbody tr td {
     background-color: #1b2a32;
 }
