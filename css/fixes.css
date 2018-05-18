@@ -123,6 +123,10 @@ bottom-panel #bottom-panel vsc-recent-tasks-and-alarms-view clr-tabs ul.nav {
     background-color: #22343c;
 }
 
+toggle-splitter#toggle-bottom-panel {
+    background-color: #22343c;
+}
+
 .nav {
     box-shadow: inset 0 -1px 0 #485764;
 }
