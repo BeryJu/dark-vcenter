@@ -86,3 +86,8 @@ datagrid
     background-color: #22343c;
     border-color: #0f171c;
 }
+
+.ha-portlet .ha-info-container .vm-ha-grid-footer {
+    background-color: #1b2a32;
+    border-color: #0f171c;
+}

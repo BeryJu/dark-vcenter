@@ -17,3 +17,7 @@ text.highcharts-legend-navigation {
 select.ng-valid.ng-not-empty.ng-touched.ng-dirty.ng-valid-parse {
     background-color: #1b2a32;
 }
+
+.advperfcharts-view .chart-title-bar select {
+    background-color: #1b2a32;
+}
