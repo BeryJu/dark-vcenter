@@ -10,7 +10,7 @@ var injectCss = function (file) {
 
 // Check if we're actually in vCenter
 // this checks that the 'vSphere Client' span exists
-if (document.querySelector("[aria-label='Product home']") !== null) {
+if (document.cookie.includes("VSPHERE-UI-XSRF-TOKEN")) {
     var cssFiles = [
         'css/clr-ui-dark.css',
         'css/fixes.css',
